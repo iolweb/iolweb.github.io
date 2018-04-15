@@ -16,17 +16,17 @@
     url: "/design/typography/typography/"
 
 - title: "Results"
-  url: "/headers/"
+  url: "/results/"
   side: left
   dropdown:
   - title: "By year"
-    url: "/design/header-full-width-image/"
+    url: "/results/by-year/"
   - title: "By country"
-    url: "/design/header-image-pattern/"
+    url: "/results/by-country/"
   - title: "By participant"
-    url: "/design/header-image-color/"
+    url: "/results/by-participant/"
   - title: "Hall of Fame"
-    url: "/design/header-logo-only/"
+    url: "/results/hall-of-fame/"
 
 - title: Problems
   url: "/documentation/"
