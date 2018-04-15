@@ -3,7 +3,7 @@ title: "Redirecting..."
 layout: redirect
 sitemap: false
 permalink: /Republic_of_Korea/
-redirect_to:  "http://iol.minkyu.kim/results/"
+redirect_to:  /results/
 ---
 
 Go to ROK
