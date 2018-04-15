@@ -9,9 +9,9 @@ header:
   image_fullwidth: temphead.png
 widget3:
   title: "Prague 2018"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: 'http://iol.ff.cuni.cz/'
   image: prague.jpg
-  text: 'Prague, Czech Republic has been chosen as the host of the 16th International Linguistics Olympiad on July 26-30th, 2018. You can find the official website here.'
+  text: 'Prague, Czechia has been chosen as the host of the 16th International Linguistics Olympiad on July 26-30th, 2018. You can find the official website by clicking the button below.'
 #
 # Use the call for action to show a button on the frontpage
 #
