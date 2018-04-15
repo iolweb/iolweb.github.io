@@ -3,17 +3,19 @@
   side: left
 
 - title: Live
-  url: "/design/video/"
+  url: "/live/"
   side: left
 
 - title: "Contests"
-  url: "/design/"
+  url: "/contests/"
   side: left
   dropdown:
   - title: "Upcoming"
-    url: "/design/grid/"
+    url: "/upcoming/"
   - title: "Past Contests"
-    url: "/design/typography/typography/"
+    url: "/past-contests/"
+  - title: "How to Participate"
+    url: "/participation/"
 
 - title: "Results"
   url: "/results/"
@@ -29,13 +31,13 @@
     url: "/results/hall-of-fame/"
 
 - title: Problems
-  url: "/documentation/"
+  url: "/problems/"
   side: left
   dropdown:
   - title: "Samples"
-    url: "/changelog/"
+    url: "/problems/samples/"
   - title: "By year"
-    url: "/roadmap/"
+    url: "/problems/by-year"
 
 - title: Blog
   url: "/blog/"
@@ -47,5 +49,3 @@
 - title: "Contact"
   url: "/contact/"
   side: left
-
-
