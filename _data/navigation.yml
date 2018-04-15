@@ -2,9 +2,10 @@
   url: "/"
   side: left
 
-- title: Live
-  url: "/live/"
-  side: left
+# Only when broadcasting!
+# - title: Live
+#   url: "/live/"
+#   side: left
 
 - title: "Contests"
   url: "/contests/"
