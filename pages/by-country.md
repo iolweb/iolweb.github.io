@@ -1,5 +1,5 @@
 ---
-permalink: /design/by-country/
+permalink: /results/by-country/
 layout: page
 header:
   image_fullwidth: temphead.png
