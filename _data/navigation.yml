@@ -1,0 +1,51 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: Live
+  url: "/design/video/"
+  side: left
+
+- title: "Contests"
+  url: "/design/"
+  side: left
+  dropdown:
+  - title: "Upcoming"
+    url: "/design/grid/"
+  - title: "Past Contests"
+    url: "/design/typography/typography/"
+
+- title: "Results"
+  url: "/headers/"
+  side: left
+  dropdown:
+  - title: "By year"
+    url: "/design/header-full-width-image/"
+  - title: "By country"
+    url: "/design/header-image-pattern/"
+  - title: "By participant"
+    url: "/design/header-image-color/"
+  - title: "Hall of Fame"
+    url: "/design/header-logo-only/"
+
+- title: Problems
+  url: "/documentation/"
+  side: left
+  dropdown:
+  - title: "Samples"
+    url: "/changelog/"
+  - title: "By year"
+    url: "/roadmap/"
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Contact"
+  url: "/contact/"
+  side: left
+
+

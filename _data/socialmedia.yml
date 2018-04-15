@@ -1,0 +1,21 @@
+- name: Facebook
+  url: http://www.facebook.com/international.linguistics.olympiad
+  class: icon-facebook
+  # title: ""
+
+- name: Twitter
+  url: http://twitter.com/IOLing_official
+  class: icon-twitter
+  # title: ""
+
+
+  
+# - name: GitHub
+#   url: http://github.com/phlow
+#   class: icon-github
+#   title: 
+
+# - name: YouTube
+#   url: http://www.youtube.com/PhlowMedia
+#   class: icon-youtube
+#   title: ""
