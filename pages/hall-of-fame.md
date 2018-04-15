@@ -1,8 +1,10 @@
 ---
-permalink: /design/by-country/
+permalink: /results/hall-of-fame/
 layout: page
-title: "By Country"
+header:
+  image_fullwidth: temphead.png
+title: "Hall of Fame"
 sitemap: false
 ---
 
-By Country
+Hall of Fame
