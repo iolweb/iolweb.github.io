@@ -1,17 +1,17 @@
-- menu_name: "Services"
+- menu_name: "People"
 
-- name: "Contact"
+- name: "IOL Board"
   url: "/contact/"
-  title: "Contact"
+  title: "IOL Board"
 
-- name: "RSS"
+- name: "Problem Committee"
   url: "/feed.xml"
-  title: "Subscribe to RSS Feed"
+  title: "Problem Committee"
 
-- name: "Atom"
+- name: "Local Organizers"
   url: "/atom.xml"
-  title: "Subscribe to Atom Feed"
+  title: "Local Organizers"
 
-- name: "sitemap.xml"
-  url: "/sitemap.xml"
-  title: "Sitemap for Google Webmaster Tools"
+- name: "Participants"
+  url: "/atom.xml"
+  title: "Participants"
