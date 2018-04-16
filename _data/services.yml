@@ -12,6 +12,6 @@
   url: "/atom.xml"
   title: "Local Organizers"
 
-- name: "Participants"
+- name: "All Participants"
   url: "/atom.xml"
-  title: "Participants"
+  title: "All Participants"
