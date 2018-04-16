@@ -13,7 +13,7 @@
               <ul class="no-bullet shadow-black">
               {% for post in site.posts limit:4 %}
                   <li>
-                    <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title | escape_once }}">{{ post.title }}</a>
+                    <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title | escape_once }}"><b>{{ post.title }}</b></a>
                   </li>
               {% endfor %}
               </ul>
@@ -31,7 +31,7 @@
               {% for service_item in site.data.services %}
                 {% if service_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% assign domain = site.baseurl %}{% endif %}
                   <li {% if service_item.class %}class="{{ service_item.class }}" {% endif %}>
-                    <a href="{{ site.url }}{{ site.baseurl }}{{ service_item.url }}" {% if service_item.url contains 'http' %}target="_blank" {% endif %} title="{{ service_item.title }}">{{ service_item.name }}</a>
+                    <a href="{{ site.url }}{{ site.baseurl }}{{ service_item.url }}" {% if service_item.url contains 'http' %}target="_blank" {% endif %} title="{{ service_item.title }}"><b>{{ service_item.name }}</b></a>
                   </li>
               {% endfor %}
               </ul>
@@ -49,7 +49,7 @@
             {% for network_item in site.data.network %}
               {% if network_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% assign domain = site.baseurl %}{% endif %}
                 <li {% if network_item.class %}class="{{ network_item.class }}" {% endif %}>
-                  <a href="{{ site.url }}{{ site.baseurl }}{{ network_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{ network_item.title }}">{{ network_item.name }}</a>
+                  <a href="{{ site.url }}{{ site.baseurl }}{{ network_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{ network_item.title }}"><b>{{ network_item.name }}</b></a>
                 </li>
             {% endfor %}
             </ul>
