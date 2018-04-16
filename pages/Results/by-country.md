@@ -2,7 +2,7 @@
 permalink: /results/by-country/
 layout: page
 header:
-  image_fullwidth: temphead.png
+  image_fullwidth: head.png
 title: "By Country"
 sitemap: false
 ---

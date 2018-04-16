@@ -1,7 +1,7 @@
 ---
 layout: page
 header:
-  image_fullwidth: temphead.png
+  image_fullwidth: head.png
 title: "Contact"
 teaser: "Contact the International Linguistics Olympiad."
 permalink: "/contact/"

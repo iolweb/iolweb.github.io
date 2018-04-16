@@ -2,7 +2,7 @@
 permalink: /problems/samples/
 layout: page
 header:
-  image_fullwidth: temphead.png
+  image_fullwidth: head.png
 title: "Samples"
 sitemap: false
 ---

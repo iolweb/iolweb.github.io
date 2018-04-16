@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: temphead.png
+  image_fullwidth: head.png
 widget3:
   title: "Prague 2018"
   url: 'http://iol.ff.cuni.cz/'

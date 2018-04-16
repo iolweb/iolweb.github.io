@@ -2,7 +2,7 @@
 permalink: /participation/
 layout: page
 header:
-  image_fullwidth: temphead.png
+  image_fullwidth: head.png
 title: "How to Participate"
 sitemap: false
 ---
