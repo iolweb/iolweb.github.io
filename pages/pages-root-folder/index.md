@@ -11,7 +11,7 @@ widget3:
   title: "Prague 2018"
   url: '/upcoming/'
   image: prague.jpg
-  text: 'Prague, Czechia has been chosen as the host of the 16th International Linguistics Olympiad on July 26-30th, 2018. You can find the official website <a href="http://iol.ff.cuni.cz/">here</a>.'
+  text: '<b>Prague, Czechia</b> has been chosen as the host of the 16th International Linguistics Olympiad on July 26-30th, 2018. You can find the official website <a href="http://iol.ff.cuni.cz/">here</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #
