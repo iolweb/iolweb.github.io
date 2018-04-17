@@ -7,6 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: head.png
+thumbnail: thumbnail.png
 widget3:
   title: "Prague 2018"
   url: '/upcoming/'
@@ -35,4 +36,3 @@ The IOL is one of 12 International Science Olympiads for secondary school studen
 
 No prior knowledge of linguistics or languages is required: even the hardest problems require only your logical ability, patient work, and willingness to think around corners. Give some of our past problems a try!
 
-<img src="{{ site.urlimg }}/{{ page.header.image_fullwidth }}" alt="thumbnail" width="0px" height="0px">

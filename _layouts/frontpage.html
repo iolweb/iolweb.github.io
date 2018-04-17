@@ -9,6 +9,9 @@ format: frontpage
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
+{% if page.thumbnail %}
+<img src="{{ site.urlimg }}{{ page.thumbnail }}" alt="thumbnail" width="0px" height="0px">
+{% endif %}
 
 {% comment %}
 *
