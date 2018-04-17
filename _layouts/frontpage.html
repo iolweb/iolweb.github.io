@@ -10,7 +10,7 @@ format: frontpage
 </div><!-- /#header-home -->
 
 {% if page.thumbnail %}
-<img src="{{ site.urlimg }}{{ page.thumbnail }}" alt="thumbnail" width="0px" height="0px">
+    <img hidden src="{{ site.urlimg }}{{ page.thumbnail }}" alt="thumbnail">
 {% endif %}
 
 {% comment %}
