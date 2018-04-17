@@ -34,3 +34,5 @@ homepage: true
 The IOL is one of 12 International Science Olympiads for secondary school students, and has been held annually since 2003. Each year, teams of young linguists from around the world gather and test their minds against the world's toughest puzzles in language and linguistics.
 
 No prior knowledge of linguistics or languages is required: even the hardest problems require only your logical ability, patient work, and willingness to think around corners. Give some of our past problems a try!
+
+<img src="{{ site.urlimg }}/{{ page.header.image_fullwidth }}" alt="thumbnail" width="0px" height="0px">

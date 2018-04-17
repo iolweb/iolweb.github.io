@@ -5,7 +5,6 @@ header:
   image_fullwidth: head.png
 title: "Past Contests"
 sitemap: false
-sidebar: right
 ---
 
 <div id="blog-index" class="row">
