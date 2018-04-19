@@ -1,5 +1,5 @@
 ---
-permalink: /fsq/
+permalink: /faq/
 layout: page
 header:
   image_fullwidth: head.png
