@@ -1,5 +1,5 @@
 ---
-permalink: /results/by-country/
+permalink: /results/by_country/
 layout: page
 header:
   image_fullwidth: head.png

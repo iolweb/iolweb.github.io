@@ -19,9 +19,11 @@ format: frontpage
 *
 {% endcomment %}
 <div class="row t60">
+    {% unless page.blank_content %}
 	<div class="medium-8 columns">
 		{{ content }}
 	</div>
+    {% endunless %}
     {% if page.widget1.title %}
         {% include _frontpage-widget.html widget=page.widget1 %}
     {% endif %}

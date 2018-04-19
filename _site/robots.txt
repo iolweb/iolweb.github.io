@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://iolweb.github.io/sitemap.xml
+Sitemap: http://iol.minkyu.kim/sitemap.xml

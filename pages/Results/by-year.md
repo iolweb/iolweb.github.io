@@ -1,5 +1,5 @@
 ---
-permalink: /results/by-year/
+permalink: /results/by_year/
 layout: page
 header:
   image_fullwidth: head.png

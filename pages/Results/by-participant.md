@@ -1,5 +1,5 @@
 ---
-permalink: /results/by-participant/
+permalink: /results/by_participant/
 layout: page
 header:
   image_fullwidth: head.png

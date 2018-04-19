@@ -1,5 +1,5 @@
 ---
-permalink: /past-contests/
+permalink: /past_contests/
 layout: page
 header:
   image_fullwidth: head.png

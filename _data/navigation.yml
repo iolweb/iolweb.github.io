@@ -14,7 +14,7 @@
   - title: "Upcoming"
     url: "/upcoming/"
   - title: "Past Contests"
-    url: "/past-contests/"
+    url: "/past_contests/"
   - title: "How to Participate"
     url: "/participation/"
 
@@ -23,13 +23,13 @@
   side: left
   dropdown:
   - title: "By year"
-    url: "/results/by-year/"
+    url: "/results/by_year/"
   - title: "By country"
-    url: "/results/by-country/"
-  - title: "By participant"
-    url: "/results/by-participant/"
+    url: "/results/by_country/"
+  # - title: "By participant"
+  #   url: "/results/by-participant/"
   - title: "Hall of Fame"
-    url: "/results/hall-of-fame/"
+    url: "/results/hall_of_fame/"
 
 - title: Problems
   url: "/problems/"
@@ -38,7 +38,9 @@
   - title: "Samples"
     url: "/problems/samples/"
   - title: "By year"
-    url: "/problems/by-year"
+    url: "/problems/by_year"
+  - title: "Solvers' Choice"
+    url: "/problems/solvers_choice"
 
 - title: Blog
   url: "/blog/"

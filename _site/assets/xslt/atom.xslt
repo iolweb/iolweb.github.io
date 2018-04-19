@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="https://iolweb.github.io/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://iol.minkyu.kim/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="https://iolweb.github.io/assets/js/modernizr.min.js"></script>
+	<script src="http://iol.minkyu.kim/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -38,13 +38,13 @@
 	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
 	
 	
-	<link rel="canonical" href="https://iolweb.github.io/assets/xslt/atom.xslt">
+	<link rel="canonical" href="http://iol.minkyu.kim/assets/xslt/atom.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
 	<meta property="og:description" content="International Linguistics Olympiad official website">
-	<meta property="og:url" content="https://iolweb.github.io/assets/xslt/atom.xslt">
+	<meta property="og:url" content="http://iol.minkyu.kim/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="International Linguistics Olympiad">
@@ -62,34 +62,34 @@
 	
 	
 
-	<link type="text/plain" rel="author" href="https://iolweb.github.io/humans.txt">
+	<link type="text/plain" rel="author" href="http://iol.minkyu.kim/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="https://iolweb.github.io/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="http://iol.minkyu.kim/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="https://iolweb.github.io/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="http://iol.minkyu.kim/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://iolweb.github.io/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://iol.minkyu.kim/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://iolweb.github.io/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://iol.minkyu.kim/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://iolweb.github.io/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://iol.minkyu.kim/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://iolweb.github.io/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://iol.minkyu.kim/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://iolweb.github.io/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://iol.minkyu.kim/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://iolweb.github.io/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://iol.minkyu.kim/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://iolweb.github.io/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://iol.minkyu.kim/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="https://iolweb.github.io/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="http://iol.minkyu.kim/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="https://iolweb.github.io/assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="http://iol.minkyu.kim/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -105,7 +105,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="hide-for-large-up"><a href="https://iolweb.github.io" class="icon-home"> IOL</a></h1>
+      <h1 class="hide-for-large-up"><a href="http://iol.minkyu.kim" class="icon-home"> IOL</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
@@ -163,7 +163,7 @@
 
             
             
-              <li><a  href="https://iolweb.github.io/">Home</a></li>
+              <li><a  href="http://iol.minkyu.kim/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -180,24 +180,24 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://iolweb.github.io/contests/">Contests</a>
+                <a  href="http://iol.minkyu.kim/contests/">Contests</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://iolweb.github.io/upcoming/">Upcoming</a></li>
+                      <li><a  href="http://iol.minkyu.kim/upcoming/">Upcoming</a></li>
                     
 
                       
 
-                      <li><a  href="https://iolweb.github.io/past-contests/">Past Contests</a></li>
+                      <li><a  href="http://iol.minkyu.kim/past_contests/">Past Contests</a></li>
                     
 
                       
 
-                      <li><a  href="https://iolweb.github.io/participation/">How to Participate</a></li>
+                      <li><a  href="http://iol.minkyu.kim/participation/">How to Participate</a></li>
                     
                   </ul>
 
@@ -216,29 +216,24 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://iolweb.github.io/results/">Results</a>
+                <a  href="http://iol.minkyu.kim/results/">Results</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://iolweb.github.io/results/by-year/">By year</a></li>
+                      <li><a  href="http://iol.minkyu.kim/results/by_year/">By year</a></li>
                     
 
                       
 
-                      <li><a  href="https://iolweb.github.io/results/by-country/">By country</a></li>
+                      <li><a  href="http://iol.minkyu.kim/results/by_country/">By country</a></li>
                     
 
                       
 
-                      <li><a  href="https://iolweb.github.io/results/by-participant/">By participant</a></li>
-                    
-
-                      
-
-                      <li><a  href="https://iolweb.github.io/results/hall-of-fame/">Hall of Fame</a></li>
+                      <li><a  href="http://iol.minkyu.kim/results/hall_of_fame/">Hall of Fame</a></li>
                     
                   </ul>
 
@@ -257,19 +252,24 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://iolweb.github.io/problems/">Problems</a>
+                <a  href="http://iol.minkyu.kim/problems/">Problems</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://iolweb.github.io/problems/samples/">Samples</a></li>
+                      <li><a  href="http://iol.minkyu.kim/problems/samples/">Samples</a></li>
                     
 
                       
 
-                      <li><a  href="https://iolweb.github.io/problems/by-year">By year</a></li>
+                      <li><a  href="http://iol.minkyu.kim/problems/by_year">By year</a></li>
+                    
+
+                      
+
+                      <li><a  href="http://iol.minkyu.kim/problems/solvers_choice">Solvers&#39; Choice</a></li>
                     
                   </ul>
 
@@ -288,14 +288,14 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://iolweb.github.io/blog/">Blog</a>
+                <a  href="http://iol.minkyu.kim/blog/">Blog</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://iolweb.github.io/blog/archive/">Blog Archive</a></li>
+                      <li><a  href="http://iol.minkyu.kim/blog/archive/">Blog Archive</a></li>
                     
                   </ul>
 
@@ -312,7 +312,7 @@
 
             
             
-              <li><a  href="https://iolweb.github.io/contact/">Contact</a></li>
+              <li><a  href="http://iol.minkyu.kim/contact/">Contact</a></li>
               <li class="divider"></li>
 
             
@@ -330,7 +330,7 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://iolweb.github.io/" title="International Linguistics Olympiad – International Linguistics Olympiad">
+			<a id="logo" href="http://iol.minkyu.kim/" title="International Linguistics Olympiad – International Linguistics Olympiad">
 				<h2>International Linguistics Olympiad</h2>
 			</a>
 		</div><!-- /.small-12.columns -->
@@ -409,19 +409,19 @@
               <ul class="no-bullet shadow-black">
               
                   <li>
-                    <a href="https://iolweb.github.io/blog/201709102245/" title="All solutions and problems now up for IOL 2017!"><b>All solutions and problems now up for IOL 2017!</b></a>
+                    <a href="http://iol.minkyu.kim/blog/201709102245/" title="All solutions and problems now up for IOL 2017!"><b>All solutions and problems now up for IOL 2017!</b></a>
                   </li>
               
                   <li>
-                    <a href="https://iolweb.github.io/blog/201708291836/" title="Team problems of IOL 2017"><b>Team problems of IOL 2017</b></a>
+                    <a href="http://iol.minkyu.kim/blog/201708291836/" title="Team problems of IOL 2017"><b>Team problems of IOL 2017</b></a>
                   </li>
               
                   <li>
-                    <a href="https://iolweb.github.io/blog/201708280901/" title="Errors in names in IOL Hall of Fame"><b>Errors in names in IOL Hall of Fame</b></a>
+                    <a href="http://iol.minkyu.kim/blog/201708280901/" title="Errors in names in IOL Hall of Fame"><b>Errors in names in IOL Hall of Fame</b></a>
                   </li>
               
                   <li>
-                    <a href="https://iolweb.github.io/blog/201708272147/" title="Solutions IOL 2017 problems"><b>Solutions IOL 2017 problems</b></a>
+                    <a href="http://iol.minkyu.kim/blog/201708272147/" title="Solutions IOL 2017 problems"><b>Solutions IOL 2017 problems</b></a>
                   </li>
               
               </ul>
@@ -447,27 +447,27 @@
               
                 
                   <li >
-                    <a href="https://iolweb.github.io"  title=""><b></b></a>
+                    <a href="http://iol.minkyu.kim"  title=""><b></b></a>
                   </li>
               
                 
                   <li >
-                    <a href="https://iolweb.github.io/contact/"  title="IOL Board"><b>IOL Board</b></a>
+                    <a href="http://iol.minkyu.kim/contact/"  title="IOL Board"><b>IOL Board</b></a>
                   </li>
               
                 
                   <li >
-                    <a href="https://iolweb.github.io/feed.xml"  title="Problem Committee"><b>Problem Committee</b></a>
+                    <a href="http://iol.minkyu.kim/feed.xml"  title="Problem Committee"><b>Problem Committee</b></a>
                   </li>
               
                 
                   <li >
-                    <a href="https://iolweb.github.io/atom.xml"  title="Local Organizers"><b>Local Organizers</b></a>
+                    <a href="http://iol.minkyu.kim/atom.xml"  title="Local Organizers"><b>Local Organizers</b></a>
                   </li>
               
                 
                   <li >
-                    <a href="https://iolweb.github.io/atom.xml"  title="All Participants"><b>All Participants</b></a>
+                    <a href="http://iol.minkyu.kim/atom.xml"  title="All Participants"><b>All Participants</b></a>
                   </li>
               
               </ul>
@@ -493,27 +493,27 @@
             
               
                 <li >
-                  <a href="https://iolweb.github.io"  title=""><b></b></a>
+                  <a href="http://iol.minkyu.kim"  title=""><b></b></a>
                 </li>
             
               
                 <li >
-                  <a href="https://iolweb.github.io/FAQ/"  title="FAQ"><b>FAQ</b></a>
+                  <a href="http://iol.minkyu.kim/FAQ/"  title="FAQ"><b>FAQ</b></a>
                 </li>
             
               
                 <li >
-                  <a href="https://iolweb.github.io/history/"  title="History"><b>History</b></a>
+                  <a href="http://iol.minkyu.kim/history/"  title="History"><b>History</b></a>
                 </li>
             
               
                 <li >
-                  <a href="https://iolweb.github.io/regulations/"  title="Regulations"><b>Regulations</b></a>
+                  <a href="http://iol.minkyu.kim/regulations/"  title="Regulations"><b>Regulations</b></a>
                 </li>
             
               
                 <li >
-                  <a href="https://iolweb.github.io/contact/"  title="Contact"><b>Contact</b></a>
+                  <a href="http://iol.minkyu.kim/contact/"  title="Contact"><b>Contact</b></a>
                 </li>
             
             </ul>
@@ -548,7 +548,7 @@
 		
 
 
-<script src="https://iolweb.github.io/assets/js/javascript.min.js"></script>
+<script src="http://iol.minkyu.kim/assets/js/javascript.min.js"></script>
 
 
 
