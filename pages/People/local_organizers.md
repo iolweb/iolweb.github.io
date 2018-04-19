@@ -7,4 +7,4 @@ thumbnail: thumbnail.png
 title: "Local Organizers"
 sitemap: false
 ---
-Local Organizers
+List of Local Organizers
