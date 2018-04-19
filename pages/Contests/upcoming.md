@@ -30,7 +30,7 @@ Feb 1, 2018 – Apr 30, 2018
 
 
 ### Future hosting cities
-Year   | City
+| Year
 ------ | ------
 2019   | Yongin, Korea 🇰🇷
 2020   | (TBD)
