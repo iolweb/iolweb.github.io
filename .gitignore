@@ -1,2 +1,2 @@
 *.command
-./_site/
+/_site/*
