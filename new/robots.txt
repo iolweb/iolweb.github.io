@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://localhost:4000/new/sitemap.xml
+Sitemap: http://ioling.org/new/sitemap.xml

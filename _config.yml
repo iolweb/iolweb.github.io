@@ -29,6 +29,9 @@ author: IOL
 url: 'http://iol.minkyu.kim'
 baseurl: ''
 
+# url: 'http://ioling.org'
+# baseurl: '/new'
+
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
 improve_content: 
@@ -40,6 +43,8 @@ improve_content:
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 urlimg: 'http://iol.minkyu.kim/images/'
+
+# urlimg: 'http://ioling.org/new/images/'
 
 
 # Logo size is 600x80 pixels

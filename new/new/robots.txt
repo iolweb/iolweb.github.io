@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: http://ioling.org/new/sitemap.xml
