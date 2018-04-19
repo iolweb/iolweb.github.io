@@ -27,3 +27,11 @@ Feb 1 – Apr 30, 2018
 
 #### Payment for the teams with Standard registration
 Feb 1, 2018 – Apr 30, 2018
+
+| Future hosting cities
+------ | --------------- 
+2019   | Yongin, Korea 🇰🇷
+2020   | (TBD)
+2021   | (TBD)
+2022   | (TBD)
+2023   | (TBD)

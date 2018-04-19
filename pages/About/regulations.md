@@ -4,7 +4,7 @@ layout: page
 header:
   image_fullwidth: head.png
 thumbnail: thumbnail.png
-title: "Regulations"
+title: "Regulations of the IOL"
 sitemap: false
 ---
 The following document represents the most recent version of the full IOL rules.
