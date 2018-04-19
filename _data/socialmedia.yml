@@ -1,15 +1,23 @@
 - name: Facebook
   url: http://www.facebook.com/international.linguistics.olympiad
   class: icon-facebook
-  # title: ""
+  title: "Facebook"
 
 - name: Twitter
   url: http://twitter.com/IOLing_official
   class: icon-twitter
-  # title: ""
+  title: "Twitter"
 
+- name: Instagram
+  url: http://instagram.com/IOLing.official
+  class: icon-instagram
+  title: "Instagram"
 
-  
+- name: Subscribe
+  url: /subscribe
+  class: icon-rss
+  title: "Subscribe to RSS/Atom Feed"
+
 # - name: GitHub
 #   url: http://github.com/phlow
 #   class: icon-github
