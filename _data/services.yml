@@ -1,17 +1,17 @@
 - menu_name: "People"
 
 - name: "IOL Board"
-  url: "/contact/"
+  url: "/board/"
   title: "IOL Board"
 
 - name: "Problem Committee"
-  url: "/contact/"
+  url: "/pc/"
   title: "Problem Committee"
 
 - name: "Local Organizers"
-  url: "/contact/"
+  url: "/local_organizers/"
   title: "Local Organizers"
 
 - name: "All Participants"
-  url: "/atom.xml"
+  url: "/contact/"
   title: "All Participants"
