@@ -9,17 +9,17 @@ blank_content: true
 widget1:
   title: "Samples"
   url: '/problems/samples/'
-  image: prague.jpg
-  text: '<b>Prague, Czechia</b> has been chosen as the host of the 16th International Linguistics Olympiad on July 26-30th, 2018. You can find the official website <a href="http://iol.ff.cuni.cz/">here</a>.'
+  image: samples.png
+  text: 'If you're new to Linguistics Olympiads problems, check out some of our sample puzzles to see what it's all about.'
 widget2:
   title: "Problems by Year"
-  url: '/problems/by-year/'
-  image: prague.jpg
-  text: '<b>Prague, Czechia</b> has been chosen as the host of the 16th International Linguistics Olympiad on July 26-30th, 2018. You can find the official website <a href="http://iol.ff.cuni.cz/">here</a>.'
+  url: '/problems/by_year/'
+  image: by_year.png
+  text: 'You can browse the problem sets from each year of the International Linguistics Olympiad.'
 widget3:
   title: "Solvers' Choice"
   url: '/problems/solvers_choice/'
-  image: prague.jpg
-  text: '<b>Prague, Czechia</b> has been chosen as the host of the 16th International Linguistics Olympiad on July 26-30th, 2018. You can find the official website <a href="http://iol.ff.cuni.cz/">here</a>.'
+  image: solvers_choice.png
+  text: 'The Solvers' Choice Award is awarded each year to the authors of the most popular problem, determined by a survey of that year's contestants.'
 sitemap: false
 ---

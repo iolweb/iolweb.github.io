@@ -3,7 +3,7 @@ permalink: /problems/by_year/
 layout: page
 header:
   image_fullwidth: head.png
-title: "IOL Problems by Yearr"
+title: "IOL Problems by Year"
 sitemap: false
 ---
 <p>Below are listed the problem sets from each year of the International Olympiad in Linguistics.</p>
