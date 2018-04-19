@@ -14,12 +14,12 @@ widget1:
 widget2:
   title: "Past Contests"
   url: '/past-contests/'
-  image: dublin2017.png
+  image: dublin2017.jpg
   text: '<b>Prague, Czechia</b> has been chosen as the host of the 16th International Linguistics Olympiad on July 26-30th, 2018. You can find the official website <a href="http://iol.ff.cuni.cz/">here</a>.'
 widget3:
   title: "How to Participiate"
   url: '/participation/'
-  image: participation.png
+  image: participation.jpg
   text: '<b>Prague, Czechia</b> has been chosen as the host of the 16th International Linguistics Olympiad on July 26-30th, 2018. You can find the official website <a href="http://iol.ff.cuni.cz/">here</a>.'
 sitemap: false
 ---
