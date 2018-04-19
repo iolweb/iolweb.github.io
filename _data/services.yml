@@ -5,11 +5,11 @@
   title: "IOL Board"
 
 - name: "Problem Committee"
-  url: "/feed.xml"
+  url: "/contact/"
   title: "Problem Committee"
 
 - name: "Local Organizers"
-  url: "/atom.xml"
+  url: "/contact/"
   title: "Local Organizers"
 
 - name: "All Participants"

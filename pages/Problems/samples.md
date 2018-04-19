@@ -7,11 +7,11 @@ title: "Samples"
 sitemap: false
 ---
 
-If the puzzle on Ancient Greek below "looks Greek to you", don't panic – we guarantee that no previous knowledge of Greek is necessary to solve it.
+If the puzzle on Ancient Greek below "looks Greek to you", don't panic – we guarantee that _no previous knowledge_ of Greek is necessary to solve it.
 
 All of the information you need to solve the puzzles below is in the puzzles themselves. All you need to add is some analytical reasoning and tricky thinking.
 
-Once you've mastered these puzzles from national-level competition, why not try your skills against our past international-level problems? They're difficult enough to puzzle professional linguists... but still solvable by secondary-school students.
+Once you've mastered these puzzles from national-level competition, why not try your skills against our [past international-level problems](/problems/by_year/)? They're difficult enough to puzzle professional linguists... but still solvable by secondary-school students.
 
 ### Easy Problems
 1. Georgian Countries
@@ -38,5 +38,15 @@ Once you've mastered these puzzles from national-level competition, why not try 
 1. Toki Pona
 
 ### Download sample problems
+<button href="#" data-dropdown="drop1" aria-controls="drop1" aria-expanded="false" class="button dropdown small">Select a language</button><br>
+<ul id="drop1" data-dropdown-content class="f-dropdown" aria-hidden="true">
+  <li><a href="/problems/samples/">English</a></li>
+  <li><a href="/problems/samples/">English</a></li>
+</ul>
 
 ### Download sample problem solutions
+<button href="#" data-dropdown="drop1" aria-controls="drop1" aria-expanded="false" class="button dropdown small">Select a language</button><br>
+<ul id="drop1" data-dropdown-content class="f-dropdown" aria-hidden="true">
+  <li><a href="/problems/samples/">English</a></li>
+  <li><a href="/problems/samples/">English</a></li>
+</ul>
