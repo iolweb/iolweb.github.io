@@ -63,7 +63,7 @@
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="{{ site.title }}">
 	{% if page.thumbnail %}<meta property="og:image:secure_url" content="{{ site.urlimg }}{{ page.thumbnail }}">
-	{% elsif page.image.title %}<meta property="og:image:secure_url" content="{{ site.urlimg }}{{ page.image.title }}">{% endif %}
+	{% elsif page.image.title %}<meta property="og:image:secure_url" content="{{ site.urlimg }}{{ page.image.title }}">
 	{% elsif page.header.image_fullwidth %}<meta property="og:image:secure_url" content="{{ site.urlimg }}{{ page.header.image_fullwidth }}">{% endif %}
 	{% if site.socialmedia.facebook %}<meta property="article:author" content="https://www.facebook.com/{{ site.socialmedia.facebook }}">{% endif %}
 
