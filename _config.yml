@@ -26,7 +26,7 @@ author: IOL
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://iol.minkyu.kim'
+url: 'https://iol.minkyu.kim'
 baseurl: ''
 
 # url: 'http://ioling.org'
@@ -42,7 +42,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://iol.minkyu.kim/images/'
+urlimg: 'https://iol.minkyu.kim/images/'
 
 # urlimg: 'http://ioling.org/new/images/'
 
