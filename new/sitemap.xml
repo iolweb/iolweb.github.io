@@ -5,24 +5,9 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/2003/</loc>
+	<loc>http://ioling.org/new/2003/</loc>
 	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/2004/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -35,9 +20,9 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/404.html</loc>
+	<loc>http://ioling.org/new/2004/</loc>
 	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -50,9 +35,9 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/archive/</loc>
+	<loc>http://ioling.org/new/404.html</loc>
 	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -64,12 +49,10 @@
 	
 
 	
-
-	
 	<url>
-	<loc>http://iol.minkyu.kim/atom.xml</loc>
+	<loc>http://ioling.org/new/blog/archive/</loc>
 	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -84,388 +67,9 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/board/</loc>
+	<loc>http://ioling.org/new/atom.xml</loc>
 	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/results/by_country/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/results/by_participant/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/results/by_year/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/problems/by_year/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/contact/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/contests/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/faq/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/feed.xml</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/results/hall_of_fame/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/history/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/humans.txt</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/blog/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/local_organizers/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/participants/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/participation/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/past_contests/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/pc/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/problems/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/regulations/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/results/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/robots.txt</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/problems/samples/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/sitemap.xml</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/problems/solvers_choice/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -480,24 +84,9 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/subscribe/</loc>
+	<loc>http://ioling.org/new/board/</loc>
 	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/upcoming/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -510,24 +99,9 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/page2/</loc>
+	<loc>http://ioling.org/new/results/by_country/</loc>
 	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/blog/page3/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -540,24 +114,9 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/page4/</loc>
+	<loc>http://ioling.org/new/results/by_participant/</loc>
 	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/blog/page5/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -570,24 +129,9 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/page6/</loc>
+	<loc>http://ioling.org/new/results/by_year/</loc>
 	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/blog/page7/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -600,24 +144,9 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/page8/</loc>
+	<loc>http://ioling.org/new/problems/by_year/</loc>
 	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://iol.minkyu.kim/blog/page9/</loc>
-	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -630,9 +159,480 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/page10/</loc>
+	<loc>http://ioling.org/new/contact/</loc>
 	
-		<lastmod>2018-04-19T22:34:26+09:00</lastmod>
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/contests/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/faq/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/feed.xml</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/results/hall_of_fame/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/history/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/humans.txt</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/blog/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/local_organizers/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/participants/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/participation/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/past_contests/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/pc/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/problems/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/regulations/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/results/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/robots.txt</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/problems/samples/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/sitemap.xml</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/problems/solvers_choice/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/subscribe/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/upcoming/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/blog/page2/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/blog/page3/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/blog/page4/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/blog/page5/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/blog/page6/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/blog/page7/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/blog/page8/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/blog/page9/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ioling.org/new/blog/page10/</loc>
+	
+		<lastmod>2018-04-20T13:35:44+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -648,7 +648,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201709102245/</loc>
+	<loc>http://ioling.org/new/blog/201709102245/</loc>
 	
 		<lastmod>2017-09-10T22:45:00+09:00</lastmod>
 	
@@ -663,7 +663,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201708291836/</loc>
+	<loc>http://ioling.org/new/blog/201708291836/</loc>
 	
 		<lastmod>2017-08-29T18:36:00+09:00</lastmod>
 	
@@ -678,7 +678,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201708280901/</loc>
+	<loc>http://ioling.org/new/blog/201708280901/</loc>
 	
 		<lastmod>2017-08-28T09:01:00+09:00</lastmod>
 	
@@ -693,7 +693,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201708272147/</loc>
+	<loc>http://ioling.org/new/blog/201708272147/</loc>
 	
 		<lastmod>2017-08-27T21:47:00+09:00</lastmod>
 	
@@ -708,7 +708,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201708160848/</loc>
+	<loc>http://ioling.org/new/blog/201708160848/</loc>
 	
 		<lastmod>2017-08-16T08:48:00+09:00</lastmod>
 	
@@ -723,7 +723,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201708071439/</loc>
+	<loc>http://ioling.org/new/blog/201708071439/</loc>
 	
 		<lastmod>2017-08-07T14:39:00+09:00</lastmod>
 	
@@ -738,7 +738,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201708052024/</loc>
+	<loc>http://ioling.org/new/blog/201708052024/</loc>
 	
 		<lastmod>2017-08-05T20:24:00+09:00</lastmod>
 	
@@ -753,7 +753,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201707311056/</loc>
+	<loc>http://ioling.org/new/blog/201707311056/</loc>
 	
 		<lastmod>2017-07-31T10:56:00+09:00</lastmod>
 	
@@ -768,7 +768,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201707291054/</loc>
+	<loc>http://ioling.org/new/blog/201707291054/</loc>
 	
 		<lastmod>2017-07-29T10:54:00+09:00</lastmod>
 	
@@ -783,7 +783,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201707281602/</loc>
+	<loc>http://ioling.org/new/blog/201707281602/</loc>
 	
 		<lastmod>2017-07-28T16:02:00+09:00</lastmod>
 	
@@ -798,7 +798,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201707281346/</loc>
+	<loc>http://ioling.org/new/blog/201707281346/</loc>
 	
 		<lastmod>2017-07-28T13:46:00+09:00</lastmod>
 	
@@ -813,7 +813,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201706161641/</loc>
+	<loc>http://ioling.org/new/blog/201706161641/</loc>
 	
 		<lastmod>2017-06-16T16:41:00+09:00</lastmod>
 	
@@ -828,7 +828,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201705270056/</loc>
+	<loc>http://ioling.org/new/blog/201705270056/</loc>
 	
 		<lastmod>2017-05-27T00:56:00+09:00</lastmod>
 	
@@ -843,7 +843,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201705270042/</loc>
+	<loc>http://ioling.org/new/blog/201705270042/</loc>
 	
 		<lastmod>2017-05-27T00:42:00+09:00</lastmod>
 	
@@ -858,7 +858,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201705270038/</loc>
+	<loc>http://ioling.org/new/blog/201705270038/</loc>
 	
 		<lastmod>2017-05-27T00:38:00+09:00</lastmod>
 	
@@ -873,7 +873,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201704252234/</loc>
+	<loc>http://ioling.org/new/blog/201704252234/</loc>
 	
 		<lastmod>2017-04-25T22:34:00+09:00</lastmod>
 	
@@ -888,7 +888,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201608231701/</loc>
+	<loc>http://ioling.org/new/blog/201608231701/</loc>
 	
 		<lastmod>2016-08-23T17:01:00+09:00</lastmod>
 	
@@ -903,7 +903,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201608092313/</loc>
+	<loc>http://ioling.org/new/blog/201608092313/</loc>
 	
 		<lastmod>2016-08-09T23:13:00+09:00</lastmod>
 	
@@ -918,7 +918,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201608011909/</loc>
+	<loc>http://ioling.org/new/blog/201608011909/</loc>
 	
 		<lastmod>2016-08-01T19:09:00+09:00</lastmod>
 	
@@ -933,7 +933,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201608011759/</loc>
+	<loc>http://ioling.org/new/blog/201608011759/</loc>
 	
 		<lastmod>2016-08-01T17:59:00+09:00</lastmod>
 	
@@ -948,7 +948,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201607280653/</loc>
+	<loc>http://ioling.org/new/blog/201607280653/</loc>
 	
 		<lastmod>2016-07-28T06:53:00+09:00</lastmod>
 	
@@ -963,7 +963,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201602020759/</loc>
+	<loc>http://ioling.org/new/blog/201602020759/</loc>
 	
 		<lastmod>2016-02-02T07:59:00+09:00</lastmod>
 	
@@ -978,7 +978,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201509071804/</loc>
+	<loc>http://ioling.org/new/blog/201509071804/</loc>
 	
 		<lastmod>2015-09-07T18:04:00+09:00</lastmod>
 	
@@ -993,7 +993,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201507302243/</loc>
+	<loc>http://ioling.org/new/blog/201507302243/</loc>
 	
 		<lastmod>2015-07-30T22:43:00+09:00</lastmod>
 	
@@ -1008,7 +1008,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201507290154/</loc>
+	<loc>http://ioling.org/new/blog/201507290154/</loc>
 	
 		<lastmod>2015-07-29T01:54:00+09:00</lastmod>
 	
@@ -1023,7 +1023,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201507271237/</loc>
+	<loc>http://ioling.org/new/blog/201507271237/</loc>
 	
 		<lastmod>2015-07-27T12:37:00+09:00</lastmod>
 	
@@ -1038,7 +1038,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201507252350/</loc>
+	<loc>http://ioling.org/new/blog/201507252350/</loc>
 	
 		<lastmod>2015-07-25T23:50:00+09:00</lastmod>
 	
@@ -1053,7 +1053,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201507250151/</loc>
+	<loc>http://ioling.org/new/blog/201507250151/</loc>
 	
 		<lastmod>2015-07-25T01:51:00+09:00</lastmod>
 	
@@ -1068,7 +1068,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201507242105/</loc>
+	<loc>http://ioling.org/new/blog/201507242105/</loc>
 	
 		<lastmod>2015-07-24T21:05:00+09:00</lastmod>
 	
@@ -1083,7 +1083,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201507241451/</loc>
+	<loc>http://ioling.org/new/blog/201507241451/</loc>
 	
 		<lastmod>2015-07-24T14:51:00+09:00</lastmod>
 	
@@ -1098,7 +1098,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201507221705/</loc>
+	<loc>http://ioling.org/new/blog/201507221705/</loc>
 	
 		<lastmod>2015-07-22T17:05:00+09:00</lastmod>
 	
@@ -1113,7 +1113,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201507212102/</loc>
+	<loc>http://ioling.org/new/blog/201507212102/</loc>
 	
 		<lastmod>2015-07-21T21:02:00+09:00</lastmod>
 	
@@ -1128,7 +1128,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201507211538/</loc>
+	<loc>http://ioling.org/new/blog/201507211538/</loc>
 	
 		<lastmod>2015-07-21T15:38:00+09:00</lastmod>
 	
@@ -1143,7 +1143,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201507192338/</loc>
+	<loc>http://ioling.org/new/blog/201507192338/</loc>
 	
 		<lastmod>2015-07-19T23:38:00+09:00</lastmod>
 	
@@ -1158,7 +1158,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201507190354/</loc>
+	<loc>http://ioling.org/new/blog/201507190354/</loc>
 	
 		<lastmod>2015-07-19T03:54:00+09:00</lastmod>
 	
@@ -1173,7 +1173,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201507181639/</loc>
+	<loc>http://ioling.org/new/blog/201507181639/</loc>
 	
 		<lastmod>2015-07-18T16:39:00+09:00</lastmod>
 	
@@ -1188,7 +1188,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201507171141/</loc>
+	<loc>http://ioling.org/new/blog/201507171141/</loc>
 	
 		<lastmod>2015-07-17T11:41:00+09:00</lastmod>
 	
@@ -1203,7 +1203,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201507151519/</loc>
+	<loc>http://ioling.org/new/blog/201507151519/</loc>
 	
 		<lastmod>2015-07-15T15:19:00+09:00</lastmod>
 	
@@ -1218,7 +1218,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201507140210/</loc>
+	<loc>http://ioling.org/new/blog/201507140210/</loc>
 	
 		<lastmod>2015-07-14T02:10:00+09:00</lastmod>
 	
@@ -1233,7 +1233,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201507110259/</loc>
+	<loc>http://ioling.org/new/blog/201507110259/</loc>
 	
 		<lastmod>2015-07-11T02:59:00+09:00</lastmod>
 	
@@ -1248,7 +1248,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201507040500/</loc>
+	<loc>http://ioling.org/new/blog/201507040500/</loc>
 	
 		<lastmod>2015-07-04T05:00:00+09:00</lastmod>
 	
@@ -1263,7 +1263,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201506011549/</loc>
+	<loc>http://ioling.org/new/blog/201506011549/</loc>
 	
 		<lastmod>2015-06-01T15:49:00+09:00</lastmod>
 	
@@ -1278,7 +1278,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201505312020/</loc>
+	<loc>http://ioling.org/new/blog/201505312020/</loc>
 	
 		<lastmod>2015-05-31T20:20:00+09:00</lastmod>
 	
@@ -1293,7 +1293,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201408270827/</loc>
+	<loc>http://ioling.org/new/blog/201408270827/</loc>
 	
 		<lastmod>2014-08-27T08:27:00+09:00</lastmod>
 	
@@ -1308,7 +1308,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201408192332/</loc>
+	<loc>http://ioling.org/new/blog/201408192332/</loc>
 	
 		<lastmod>2014-08-19T23:32:00+09:00</lastmod>
 	
@@ -1323,7 +1323,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201408180203/</loc>
+	<loc>http://ioling.org/new/blog/201408180203/</loc>
 	
 		<lastmod>2014-08-18T02:03:00+09:00</lastmod>
 	
@@ -1338,7 +1338,7 @@
 
 	
 	<url>
-	<loc>http://iol.minkyu.kim/blog/201408180149/</loc>
+	<loc>http://ioling.org/new/blog/201408180149/</loc>
 	
 		<lastmod>2014-08-18T01:49:00+09:00</lastmod>
 	

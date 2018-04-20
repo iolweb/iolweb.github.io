@@ -1,6 +1,6 @@
 ---
 permalink: /faq/
-layout: page
+layout: page-fullwidth
 header:
   image_fullwidth: head.png
 title: "Frequently Asked Questions"
@@ -11,6 +11,23 @@ If you are about to send a message to IOL via [our contact form](/contact/), ple
 The International Linguistics Olympiad (IOL) is a contest for students up to secondary school level where they compete in solving problems based in the scientific study of languages - linguistics. The contest does not involve knowing lots of languages. Participants compete in teams representing their countries. They qualify by winning a national contest, organised by the national organisation. The IOL has certain criteria that need to be met in order for the national organisation to send a delegation, but does not run these individual national contests. Non-accredited delegations may participate as guests (at the discretion of the hosts), paying full expenses.
 
 This is a document based on common questions and important information concerning the IOL, starting a new contest, applying, accreditation and more. We strongly advised anyone who's interested in this to also read [our rules](/regulations/). Please read this page before writing to us. If you contact us asking for information that is found here, we will take longer time to get back to you - so please read this before contacting us.
+
+## Questions
+<div id="blog-index" class="row">
+	<div class="medium-12 columns">
+		<dl class="accordion" data-accordion>
+			<dd class="accordion-navigation">
+			<a href="#panel1"><span class="iconfont"></span><strong>My country does not have a contest (yet)/is not listed in the menu on IOLs website</strong></a>
+				<div id="panel1" class="content">
+					<p>In order to partake in the international contest, students need to qualify through a national contest. Countries can partake for a limited time as guests while they're starting up a contest. However, after 2 years the contest need to be accredited. You can read more about starting up a contest and getting accredited in questions below.</p>
+					<p>Please note that students CANNOT PARTAKE unless they have qualified through an accredited national contest or are associated with a serious enterprise to start one in a country. Students cannot participate on their own. No exceptions.</p>
+					<p>The IOL does not run each national contest in all countries. They are organised independently and are accredited by the IOL. Hence, we do not start up contests in more countries directly from the IOL.</p>
+					<p>This is the most common question we get, please read this page and our rules to learn more about our contest.</p>
+				</div>
+			</dd>
+		</dl>
+	</div><!-- /.small-12.columns -->
+</div><!-- /.row -->
 
 #### My country does not have a contest (yet)/is not listed in the menu on IOLs website
 In order to partake in the international contest, students need to qualify through a national contest. Countries can partake for a limited time as guests while they're starting up a contest. However, after 2 years the contest need to be accredited. You can read more about starting up a contest and getting accredited in questions below.

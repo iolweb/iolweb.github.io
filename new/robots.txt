@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://iol.minkyu.kim/sitemap.xml
+Sitemap: http://ioling.org/new/sitemap.xml
