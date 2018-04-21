@@ -1,0 +1,16 @@
+<table>
+	<thead>
+		<tr>
+			<th>Year</th>
+			<th>Host city</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for contest_item in site.data.ioling.contests %}
+		<tr>
+			<td>{{ contest_item.year }}</td>
+			<td>{{ contest_item.city }}, {{ contest_item.country }}</td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>

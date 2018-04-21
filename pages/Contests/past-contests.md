@@ -6,6 +6,7 @@ header:
 title: "Past Contests"
 sitemap: false
 ---
+<!--
 <div id="blog-index" class="row">
 	<div class="small-12 columns">
 		<dl class="accordion" data-accordion>
@@ -23,5 +24,8 @@ sitemap: false
 			{% endif %}
 			{% endfor %}
 		</dl>
-	</div><!-- /.small-12.columns -->
-</div><!-- /.row -->
+	</div>
+</div>
+-->
+
+{% include ioling/past_contests.html %}
