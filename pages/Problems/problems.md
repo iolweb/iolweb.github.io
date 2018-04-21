@@ -3,7 +3,6 @@ permalink: /problems/
 layout: frontpage
 header:
   image_fullwidth: head.png
-thumbnail: thumbnail.png
 title: "Problems"
 blank_content: true
 widget1:

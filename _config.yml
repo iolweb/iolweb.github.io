@@ -46,11 +46,10 @@ urlimg: 'http://iol.minkyu.kim/images/'
 
 # urlimg: 'http://ioling.org/new/images/'
 
-
 # Logo size is 600x80 pixels
 logo: "newlogo.png"
 
-asterisks: "asterisks.png"
+thumbnail: "thumbnail.png"
 
 # Gems
 gems:

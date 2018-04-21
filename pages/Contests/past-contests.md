@@ -28,4 +28,4 @@ sitemap: false
 </div>
 -->
 
-{% include ioling/past_contests.html %}
+{% include ioling/past_contests.html n=1 %} 

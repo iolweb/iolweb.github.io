@@ -3,7 +3,6 @@ permalink: /results/
 layout: frontpage
 header:
   image_fullwidth: head.png
-thumbnail: thumbnail.png
 title: "Results"
 blank_content: true
 widget1:

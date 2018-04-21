@@ -3,7 +3,6 @@ permalink: /regulations/
 layout: page
 header:
   image_fullwidth: head.png
-thumbnail: thumbnail.png
 title: "Regulations of the IOL"
 sitemap: false
 ---

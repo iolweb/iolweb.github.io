@@ -7,7 +7,6 @@
 layout: frontpage
 header:
   image_fullwidth: head.png
-thumbnail: thumbnail.png
 widget3:
   title: "Prague 2018"
   url: '/upcoming/'

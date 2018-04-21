@@ -3,7 +3,6 @@ permalink: /contests/
 layout: frontpage
 header:
   image_fullwidth: head.png
-thumbnail: thumbnail.png
 title: "Contests"
 blank_content: true
 widget1:
