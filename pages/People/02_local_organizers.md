@@ -107,8 +107,9 @@ Team Canada (Francophone) is chosen through the Olympiade Linguistique Canadienn
 * Team Spain is chosen through the Competición Lingüística de España (OLE).
 
 #### Republic of Korea
-* Team Korea is chosen through the 한국언어학올림피아드.
-	* Contact: Minkyu Kim <[mail@minkyu.kim](mailto:mail@minkyu.kim)>
+* Team Korea is chosen through the Korea Linguistics Olympiad.
+	* Website: [한국언어학올림피아드](http://krlo.kr/)
+	* Contact: [Minkyu Kim](/profile/10001) <[mail@minkyu.kim](mailto:mail@minkyu.kim)>
 
 #### Sweden
 * Team Sweden is chosen through the results of the Lingolympiad.

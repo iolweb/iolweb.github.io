@@ -5,6 +5,7 @@ header:
   image_fullwidth: head.png
 title: "Problems by Year"
 sitemap: false
+category: problems
 widget:
   title: "Problems by Year"
   url: '/problems/by_year/'

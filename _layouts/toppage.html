@@ -19,8 +19,10 @@ format: toppage
 <div class="row t60">
 
     {% for page_item in site.pages %}
-        {% if page_item.category == "contests" %}
+        {% if page_item.category == page.category %}
+        {% unless page_item.layout == "toppage" %}
             {% include _frontpage-widget.html widget=page_item.widget %}
+        {% endunless %}
         {% endif %}
     {% endfor %}
 

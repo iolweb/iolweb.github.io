@@ -5,6 +5,7 @@ header:
   image_fullwidth: head.png
 title: "Solvers' Choice"
 sitemap: false
+category: problems
 widget:
   title: "Solvers' Choice"
   url: '/problems/solvers_choice/'

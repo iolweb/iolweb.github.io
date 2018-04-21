@@ -5,6 +5,7 @@ header:
   image_fullwidth: head.png
 title: "By Country"
 sitemap: false
+category: results
 widget:
   title: "Results by Country"
   url: '/results/by_country/'

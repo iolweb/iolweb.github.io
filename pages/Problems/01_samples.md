@@ -5,6 +5,7 @@ header:
   image_fullwidth: head.png
 title: "Samples"
 sitemap: false
+category: problems
 widget:
   title: "Samples"
   url: '/problems/samples/'

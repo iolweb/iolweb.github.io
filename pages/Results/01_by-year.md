@@ -5,6 +5,7 @@ header:
   image_fullwidth: head.png
 title: "By Year"
 sitemap: false
+category: results
 widget:
   title: "Results by Year"
   url: '/results/by_year/'
