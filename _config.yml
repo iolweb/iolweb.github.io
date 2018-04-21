@@ -51,6 +51,7 @@ logo: "newlogo.png"
 
 thumbnail: "thumbnail.png"
 default_header: "head.png"
+default_profile: "default.png"
 
 # Gems
 gems:
