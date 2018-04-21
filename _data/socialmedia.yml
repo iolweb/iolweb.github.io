@@ -1,17 +1,17 @@
 - name: Facebook
   url: http://www.facebook.com/international.linguistics.olympiad
   class: icon-facebook
-  title: "Facebook"
+  title: "IOL official Facebook"
 
 - name: Twitter
   url: http://twitter.com/IOLing_official
   class: icon-twitter
-  title: "Twitter"
+  title: "IOL official Twitter"
 
-- name: Instagram
-  url: http://instagram.com/IOLing.official
-  class: icon-instagram
-  title: "Instagram"
+- name: Blogger
+  url: https://international-linguistics-olympiad.blogspot.kr
+  class: icon-blogger
+  title: "IOL official Blog"
 
 - name: Subscribe
   url: /subscribe
