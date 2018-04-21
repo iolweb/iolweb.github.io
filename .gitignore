@@ -1,4 +1,7 @@
 *.command
-/new/*
-/_site/*
-/_data/ioling/*
+/new/
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+_data/ioling/
