@@ -4,10 +4,16 @@ layout: page
 header:
   image_fullwidth: head.png
 title: "Upcoming Contest"
+teaser: '<b>Prague, Czechia</b> has been chosen as the host of the 16th International Linguistics Olympiad on July 26-30th, 2018. You can find the official website <a href="http://iol.ff.cuni.cz/">here</a>.'
+image: prague.jpg
+category: contests
 sitemap: false
+widget:
+  title: "Upcoming Contest"
+  url: '/upcoming/'
+  image: prague.jpg
+  text: '<b>Prague, Czechia</b> has been chosen as the host of the 16th International Linguistics Olympiad on July 26-30th, 2018. You can find the official website <a href="http://iol.ff.cuni.cz/">here</a>.'
 ---
-
-Prague, Czechia has been chosen as the host of the 16th International Linguistics Olympiad on July 26-30th, 2018. You can find the official website <a href="http://iol.ff.cuni.cz/">here</a>.
 
 ### Important Dates
 

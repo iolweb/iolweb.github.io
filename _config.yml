@@ -50,6 +50,7 @@ urlimg: 'http://iol.minkyu.kim/images/'
 logo: "newlogo.png"
 
 thumbnail: "thumbnail.png"
+default_header: "head.png"
 
 # Gems
 gems:

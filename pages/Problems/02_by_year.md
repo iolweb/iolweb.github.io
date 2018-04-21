@@ -5,6 +5,11 @@ header:
   image_fullwidth: head.png
 title: "Problems by Year"
 sitemap: false
+widget:
+  title: "Problems by Year"
+  url: '/problems/by_year/'
+  image: by_year.jpg
+  text: "You can browse the problem sets from each year of the International Linguistics Olympiad."
 ---
 <p>Below are listed the problem sets from each year of the International Olympiad in Linguistics.</p>
 
