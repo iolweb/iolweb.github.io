@@ -49,7 +49,7 @@ urlimg: 'http://iol.minkyu.kim/images/'
 
 # Logo size is 600x80 pixels
 logo: "newlogo.png"
-
+thumbnail: "thumbnail.png"
 asterisks: "asterisks.png"
 
 # Gems
