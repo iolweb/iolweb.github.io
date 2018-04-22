@@ -3,7 +3,7 @@
 		<tr>
 			<th>Year</th>
 			<th>Host city</th>
-			{% if include.link == 'results' %}
+			{% if include.link %}
 			<th>Link</th>
 			{% endif %}
 		</tr>
@@ -13,8 +13,8 @@
 		<tr>
 			<td>{{ contest_item.year }}</td>
 			<td>{{ contest_item.city }}, {{ contest_item.country }}</td>
-			{% if include.link == 'results' %}
-			<th><a href="/results/{{ contest_item.year }}/"><!-- <span class="iconfont"></span> -->See Results</a></th>
+			{% if include.link %}
+			<th><a href="/{{ include.link }}/{{ contest_item.year }}/"><span class="iconfont"></span> See Details</a></th>
 			{% endif %}
 		</tr>
 		{% endfor %}

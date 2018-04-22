@@ -1,8 +1,10 @@
-<table>
+<table width="100%">
 	<thead>
 		<tr>
 			<th>Year</th>
 			<th>Host city</th>
+			<th>Contact</th>
+			<th>Website</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -11,8 +13,16 @@
 			<td>{{ contest_item.year }}</td>
 			{% if contest_item.country %}
 			<td>{{ contest_item.city }}, {{ contest_item.country }}</td>
+			<td>{{ contest_item.poc }} <<a href="mailto:{{ contest_item.contact }}">{{ contest_item.contact }}</a>></td>
+			{% if contest_item.website %}
+			<td><a href="{{ contest_item.website }}">Link</a></td>
+			{% else %}
+			<td>N/A</td>
+			{% endif %}
 			{% else %}
 			<td>(TBD)</td>
+			<td></td>
+			<td></td>
 			{% endif %}
 		</tr>
 		{% endfor %}
