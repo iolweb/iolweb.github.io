@@ -1,0 +1,69 @@
+{% assign contest_meta = site.data.ioling.contests | where: "year", include.year %}
+{% for one_contest_meta in contest_meta %}
+{% assign number_of_participants = one_contest_meta.number_of_participants %}
+{% endfor %}
+
+{% assign contest = site.data.ioling.individual_results | where: "year", include.year %}
+{% for contest_item in contest %}
+
+The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.individual.silver.size | plus: contest_item.individual.bronze.size }} medals ({{ contest_item.individual.gold.size }} gold, {{ contest_item.individual.silver.size }} silver, and {{ contest_item.individual.bronze.size }} bronze) out of {{ number_of_participants }} participants, as well as {{ contest_item.individual.honorable_mention.size }} honorable mentions, xx team contest trophies, xx team cup for highest average score, and xx best solution prizes.
+
+<h3>Individual Contest Medalists</h3>
+<table width="100%">
+	<thead>
+		<tr>
+			<th>Medal</th>
+			<th>Score</th>
+			<th>Name</th>
+			<th>Team</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for participant_item in contest_item.individual.gold %}
+		<tr bgcolor="#FFFB9B">
+			<td>Gold</td>
+			<td>{{ participant_item.score }}</td>
+			<td>{{ participant_item.name }}</td>
+			<td>{{ participant_item.team }}</td>
+		</tr>
+		{% endfor %}
+		{% for participant_item in contest_item.individual.silver %}
+		<tr bgcolor="#EEEEEE">
+			<td>Silver</td>
+			<td>{{ participant_item.score }}</td>
+			<td>{{ participant_item.name }}</td>
+			<td>{{ participant_item.team }}</td>
+		</tr>
+		{% endfor %}
+		{% for participant_item in contest_item.individual.bronze %}
+		<tr bgcolor="#EEDECC">
+			<td>Bronze</td>
+			<td>{{ participant_item.score }}</td>
+			<td>{{ participant_item.name }}</td>
+			<td>{{ participant_item.team }}</td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>
+{% if contest_item.individual.honorable_mention %}
+<h3>Honorable Mentions</h3>
+<table width="100%">
+	<thead>
+		<tr>
+			<th>Score</th>
+			<th>Name</th>
+			<th>Team</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for participant_item in contest_item.individual.honorable_mention %}
+		<tr>
+			<td>{{ participant_item.score }}</td>
+			<td>{{ participant_item.name }}</td>
+			<td>{{ participant_item.team }}</td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>
+{% endif %}
+{% endfor %}

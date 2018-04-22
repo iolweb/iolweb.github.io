@@ -31,7 +31,7 @@ sitemap: false
 * Hedvig Skirgård
 
 ### Archives and Website
-* Minkyu Kim
+* [Minkyu Kim](/profile/10001/)
 
 ### Secretary to Problem Committee
 * Stanislav Gurevich

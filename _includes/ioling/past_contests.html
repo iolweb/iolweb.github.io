@@ -1,8 +1,11 @@
-<table>
+<table width="100%">
 	<thead>
 		<tr>
 			<th>Year</th>
 			<th>Host city</th>
+			{% if include.link == 'results' %}
+			<th>Link</th>
+			{% endif %}
 		</tr>
 	</thead>
 	<tbody>
@@ -10,7 +13,10 @@
 		<tr>
 			<td>{{ contest_item.year }}</td>
 			<td>{{ contest_item.city }}, {{ contest_item.country }}</td>
+			{% if include.link == 'results' %}
+			<th><a href="/results/{{ contest_item.year }}/"><!-- <span class="iconfont"></span> -->See Results</a></th>
+			{% endif %}
 		</tr>
 		{% endfor %}
 	</tbody>
-</table>
+</table> 

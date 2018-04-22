@@ -110,11 +110,9 @@ $table-margin-bottom: rem-calc(20) !default;
       font-size: $table-row-font-size;
       color: $table-row-font-color;
       text-align: $default-float;
+      border-bottom: 1px solid $table-border-color;
     }
 
-    &.even,
-    &.alt,
-    &:nth-of-type(even) { background: $table-even-row-bg; }
   }
 
   thead tr th,

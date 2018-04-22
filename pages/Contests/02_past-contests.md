@@ -34,4 +34,4 @@ sitemap: false
 </div>
 -->
 
-{% include ioling/past_contests.html n=1 %} 
+{% include ioling/past_contests.html link='contests' %} 

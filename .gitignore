@@ -1,3 +1,5 @@
+*.py
+*.xml
 *.command
 /new/
 _site/
