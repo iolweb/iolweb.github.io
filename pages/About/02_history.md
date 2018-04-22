@@ -11,3 +11,8 @@ The first linguistic olympiad for secondary school students was organised in 196
 Linguistic contests have also been held regularly in Bulgaria since 1982, being organised by the Union of Bulgarian Mathematicians and the Ministry of Education. In more recent years analogous events were launched in Oregon (US) and the Netherlands. At the same time teams of award-holders of the Moscow Olympiad in Linguistics competed successfully in Bulgaria and vice versa, which demonstrated the potential for international co-operation in this field. Thus was born the idea of the IOL.
 
 {% include ioling/history.html %}
+
+<script id="infogram_0_countries_of_the_international_linguistics_olympiad_iol" src="//e.infogram.com/js/dist/embed.js?9nl" title="Countries of the International Linguistics Olympiad (IOL)" type="text/javascript"></script><br />
+<div style="border-top: 1px solid #dadada; font-family: &quot;arial important&quot;; font-size: 13px; line-height: 15px; margin: 0 30px; padding: 8px 0; text-align: center;">
+<a href="https://infogram.com/countries_of_the_international_linguistics_olympiad_iol" style="color: #989898!important; text-decoration: none!important;" target="_blank">Countries of the International Linguistics Olympiad (IOL)</a><br />
+<a href="https://infogram.com/" rel="nofollow" style="color: #989898!important; text-decoration: none!important;" target="_blank">Infogram</a></div>
