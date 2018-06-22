@@ -13,9 +13,9 @@ format: post
 				<div class="medium-4 columns frontpage-widget t10">
 				<a href="{{ widget_url }}">
 					{% if page.profile.image %}
-						<img src="{{ site.urlimg }}{{ page.profile.image }}" alt="" />
+						<img class="profile" src="{{ site.urlimg }}{{ page.profile.image }}" alt="" />
 					{% else %}
-						<img src="{{ site.urlimg }}{{ site.default_profile }}" alt="" />
+						<img class="profile" src="{{ site.urlimg }}{{ site.default_profile }}" alt="" />
 					{% endif %}
 				</a>
 				</div>

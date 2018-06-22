@@ -42,11 +42,22 @@
   - title: "Solvers' Choice"
     url: "/problems/solvers_choice"
 
-- title: Blog
+- title: "About"
+  url: "/about/"
+  side: left
+  dropdown:
+  - title: "FAQ"
+    url: "/faq/"
+  - title: "History"
+    url: "/history/"
+  - title: "Regulations"
+    url: "/regulations/"
+
+- title: News
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog Archive"
+  - title: "News Archive"
     url: "/blog/archive/"
 
 - title: "Contact"

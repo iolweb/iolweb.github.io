@@ -64,7 +64,7 @@
 	<meta property="og:site_name" content="{{ site.title }}">
 
 	{% if page.image.title %}<meta property="og:image" content="{{ site.urlimg }}{{ page.image.title }}">
-	{% elsif page.image.thumbnail %}<meta property="og:image" content="{{ site.urlimg }}{{ page.thumbnail }}">
+	{% elsif page.thumbnail %}<meta property="og:image" content="{{ site.urlimg }}{{ page.thumbnail }}">
 	{% else %}<meta property="og:image" content="{{ site.urlimg }}{{ site.thumbnail }}">{% endif %}
 	{% if site.socialmedia.facebook %}<meta property="article:author" content="https://www.facebook.com/{{ site.socialmedia.facebook }}">{% endif %}
 
@@ -77,7 +77,7 @@
 	<meta name="twitter:title" content="{{ title }}">
 	<meta name="twitter:description" content="{{ description }}">
 	{% if page.image.title %}<meta property="twitter:image" content="{{ site.urlimg }}{{ page.image.title }}">
-	{% elsif page.image.thumbnail %}<meta property="twitter:image" content="{{ site.urlimg }}{{ page.thumbnail }}">
+	{% elsif page.thumbnail %}<meta property="twitter:image" content="{{ site.urlimg }}{{ page.thumbnail }}">
 	{% else %}<meta name="twitter:image" content="{{ site.urlimg }}{{ site.thumbnail }}">{% endif %}
 	{% endif %}
 

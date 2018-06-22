@@ -1,4 +1,5 @@
 <table width="100%">
+	<caption>List of future IOL host cities</caption>
 	<thead>
 		<tr>
 			<th>Year</th>
@@ -12,7 +13,9 @@
 		<tr>
 			<td>{{ contest_item.year }}</td>
 			{% if contest_item.country %}
-			<td>{{ contest_item.city }}, {{ contest_item.country }}</td>
+			<td>{{ contest_item.city }}, {{ contest_item.country }}
+			{% if contest_item.flag %} <img class="tinyflag" alt="Flag" src="{{ contest_item.flag }}" />{% endif %}
+			</td>
 			<td>{{ contest_item.poc }} <<a href="mailto:{{ contest_item.contact }}">{{ contest_item.contact }}</a>></td>
 			{% if contest_item.website %}
 			<td><a href="{{ contest_item.website }}">Link</a></td>
