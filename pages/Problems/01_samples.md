@@ -19,6 +19,20 @@ All of the information you need to solve the puzzles below is in the puzzles the
 
 Once you've mastered these puzzles from national-level competition, why not try your skills against our [past international-level problems](/problems/by_year/)? They're difficult enough to puzzle professional linguists... but still solvable by secondary-school students.
 
+### Download sample problems
+<button href="#" data-dropdown="drop1" aria-controls="drop1" aria-expanded="false" class="button dropdown small">Select a language</button><br>
+<ul id="drop1" data-dropdown-content class="f-dropdown" aria-hidden="true">
+  <li><a href="/problems/samples/">English</a></li>
+  <li><a href="/problems/samples/">English</a></li>
+</ul>
+
+### Download sample problem solutions
+<button href="#" data-dropdown="drop1" aria-controls="drop1" aria-expanded="false" class="button dropdown small">Select a language</button><br>
+<ul id="drop1" data-dropdown-content class="f-dropdown" aria-hidden="true">
+  <li><a href="/problems/samples/">English</a></li>
+  <li><a href="/problems/samples/">English</a></li>
+</ul>
+
 ### Easy Problems
 1. Georgian Countries
 1. Ancient Greek
@@ -42,17 +56,3 @@ Once you've mastered these puzzles from national-level competition, why not try 
 1. Guaraní Verbs
 1. Aymara
 1. Toki Pona
-
-### Download sample problems
-<button href="#" data-dropdown="drop1" aria-controls="drop1" aria-expanded="false" class="button dropdown small">Select a language</button><br>
-<ul id="drop1" data-dropdown-content class="f-dropdown" aria-hidden="true">
-  <li><a href="/problems/samples/">English</a></li>
-  <li><a href="/problems/samples/">English</a></li>
-</ul>
-
-### Download sample problem solutions
-<button href="#" data-dropdown="drop1" aria-controls="drop1" aria-expanded="false" class="button dropdown small">Select a language</button><br>
-<ul id="drop1" data-dropdown-content class="f-dropdown" aria-hidden="true">
-  <li><a href="/problems/samples/">English</a></li>
-  <li><a href="/problems/samples/">English</a></li>
-</ul>

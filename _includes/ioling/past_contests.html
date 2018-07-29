@@ -14,7 +14,7 @@
 			<td>{{ contest_item.year }}</td>
 			<td>{{ contest_item.city }}, {{ contest_item.country }}</td>
 			{% if include.link %}
-			<th><a href="/{{ include.link }}/{{ contest_item.year }}/"><span class="iconfont"></span> See Details</a></th>
+			<th><a href="/{{ contest_item.year }}/"><span class="iconfont"></span> See Details</a></th>
 			{% endif %}
 		</tr>
 		{% endfor %}
