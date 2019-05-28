@@ -4,17 +4,17 @@ layout: page
 header:
   image_fullwidth: head.png
 subheadline:  "Upcoming Contest"
-title: "Prague 2018"
-teaser: '<b>Prague, Czechia</b> has been chosen as the host of the 16th International Linguistics Olympiad on July 26-30th, 2018. You can find the official website <a href="http://iol.ff.cuni.cz/">here</a>.'
+title: "Yongin 2019"
+teaser: '<b>Yongin, Korea</b> has been chosen as the host of the 17th International Linguistics Olympiad on July 29 - August 2nd, 2019. You can find the official website <a href="http://iol2019.com/">here</a>.'
 image: 
-  title: prague.jpg
+  title: yongin.jpg
 category: contests
 sitemap: false
 widget:
   title: "Upcoming Contest"
   url: '/upcoming/'
-  image: prague.jpg
-  text: '<b>Prague, Czechia</b> has been chosen as the host of the 16th International Linguistics Olympiad on July 26-30th, 2018. You can find the official website <a href="http://iol.ff.cuni.cz/">here</a>.'
+  image: yongin.png
+  text: '<b>Yongin, Korea</b> has been chosen as the host of the 17th International Linguistics Olympiad on July 29 - August 2nd, 2019. You can find the official website <a href="http://iol2019.com/">here</a>.'
 ---
 
 ---

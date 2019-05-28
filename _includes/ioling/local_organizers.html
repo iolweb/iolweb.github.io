@@ -1,0 +1,17 @@
+<button href="#" data-dropdown="drop1" aria-controls="drop1" aria-expanded="false" class="button dropdown">Select a region</button><br>
+<ul id="drop1" data-dropdown-content class="f-dropdown" aria-hidden="true">
+{% for country_item in site.data.ioling.countries %}
+{% if country_item.active != 'no' %}
+<li><a href="/local_organizers/#{{ country_item.iol_code }}">{{ country_item.iol_name }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+
+{% for country_item in site.data.ioling.countries %}
+{% if country_item.active != 'no' %}
+<h3><a name="{{ country_item.iol_code }}" href="/"><img class="tinyflag" alt="Flag" src="/images/flags/{{ country_item.flag }}" /> {{ country_item.iol_name }}</a></h3>
+* Team {{ country_item.iol_name }} is chosen through {% if country_item.abbreviation %}{{ country_item.abbreviation }}, {% endif %}{{ country_item.selection_en }}{% if country_item.selection_local %} ({{ country_item.selection_local }}){% endif %}.
+{% if country_item.link %}	* Website: [Link]({{ country_item.link }}){% endif %}
+{% if country_item.contact %}	* Contact: [Minkyu Kim](/profile/10001) <[mail@minkyu.kim](mailto:mail@minkyu.kim)>{% endif %}
+{% endif %}
+{% endfor %}

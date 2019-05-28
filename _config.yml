@@ -26,7 +26,7 @@ author: IOL
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://iol.minkyu.kim'
+url: 'http://iolweb.github.io'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -51,6 +51,7 @@ gems:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+    - jekyll-redirect-from
 
 
 #       ____              _             __  _
