@@ -1,0 +1,46 @@
+{% assign individual_problems = site.data.ioling.problems | where: "year", include.year | where: "round", "Individual" %}
+{% assign team_problems = site.data.ioling.problems | where: "year", include.year | where: "round", "Team" %}
+
+<h3>Individual Contest</h3>
+<div class="row">
+<div class="medium-6 columns">
+<ol>
+{% for problem_item in individual_problems %}
+<li><a href="/problems/{{ contest_item.year }}/i{{ problem_item.number }}/">{{ problem_item.name }}</a></li>
+{% endfor %}
+</ol>
+</div>
+<div class="medium-6 columns">
+<button href="#" data-dropdown="drop1" aria-controls="drop1" aria-expanded="false" class="button dropdown small">Problems</button>
+<ul id="drop1" data-dropdown-content class="f-dropdown" aria-hidden="true">
+  <li><a href="/rules/rules.pdf">English (UK)</a></li>
+</ul>
+<br/>
+<button href="#" data-dropdown="drop2" aria-controls="drop2" aria-expanded="false" class="button dropdown small">Solutions</button>
+<ul id="drop2" data-dropdown-content class="f-dropdown" aria-hidden="true">
+  <li><a href="/rules/rules.pdf">English (UK)</a></li>
+</ul></div>
+</div>
+
+<h3>Team Contest</h3>
+<div class="row">
+<div class="medium-6 columns">
+<ol>
+{% for problem_item in team_problems %}
+<li><a href="/problems/{{ contest_item.year }}/t{{ problem_item.number }}/">{{ problem_item.name }}</a></li>
+{% endfor %}
+</ol>
+</div>
+<div class="medium-6 columns">
+<button href="#" data-dropdown="drop3" aria-controls="drop3" aria-expanded="false" class="button dropdown small">Problems</button>
+<ul id="drop3" data-dropdown-content class="f-dropdown" aria-hidden="true">
+  <li><a href="/rules/rules.pdf">English (UK)</a></li>
+</ul>
+<br/>
+<button href="#" data-dropdown="drop4" aria-controls="drop4" aria-expanded="false" class="button dropdown small">Solutions</button>
+<ul id="drop4" data-dropdown-content class="f-dropdown" aria-hidden="true">
+  <li><a href="/rules/rules.pdf">English (UK)</a></li>
+</ul>
+</div>
+</div>
+
