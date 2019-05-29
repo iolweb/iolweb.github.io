@@ -10,9 +10,10 @@
 	</thead>
 	<tbody>
 		{% for contest_item in site.data.ioling.contests %}
+		{% assign flag_country = site.data.ioling.countries | where: "iol_name", contest_item.country | first %}
 		<tr>
 			<td>{{ contest_item.year }}</td>
-			<td>{{ contest_item.city }}, {{ contest_item.country }}</td>
+			<td>{% if flag_country %}<img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" /> {% endif %}{{ contest_item.city }}, {{ contest_item.country }}</td>
 			{% if include.link == 'results' %}
 			<th><a href="/results/{{ contest_item.year }}/"><span class="iconfont"></span> See Results</a></th>
 			{% else %}

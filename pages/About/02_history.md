@@ -4,7 +4,13 @@ layout: page
 header:
   image_fullwidth: head.png
 title: "History"
+category: about
 sitemap: false
+widget:
+  title: "History"
+  url: '/history/'
+  image: samples.jpg
+  text: "History of the IOL."
 ---
 The first linguistic olympiad for secondary school students was organised in 1965 in Moscow on the initiative of Alfred Zhurinsky (1938-1991), eventually a prominent philologist but then only a fifth-year student of linguistics, and under the guidance of the mathematician Vladimir Uspensky. The Olympiad, farsightedly called Traditional since its very beginning, was regularly held at the Moscow State University from 1965 until 1982. In 1988 the Olympiad was resumed at the Moscow State Institute for History and Archives (now the Russian State University for the Humanities), and since 1989 it has been organised jointly by the two institutions. Since 1996 a mirror of Moscow's Traditional Olympiad in Linguistics has been held in Russia's northern capital by St Petersburg State University.
 

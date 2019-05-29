@@ -4,7 +4,13 @@ layout: page
 header:
   image_fullwidth: head.png
 title: "Regulations of the International Linguistics Olympiad"
+category: about
 sitemap: false
+widget:
+  title: "Regulations"
+  url: '/regulations/'
+  image: samples.jpg
+  text: "Regulations of the IOL."
 ---
 Whereas the faculty of using language is one of the most prominent defining characteristics of the human species, and curiosity towards language is natural and universal,
 

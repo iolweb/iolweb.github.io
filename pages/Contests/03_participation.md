@@ -33,7 +33,7 @@ Note that the IOL is a contest for secondary-school students; current university
 
 Below is the complete list of currently accredited countries and regions as of {{ site.time | date: '%B %Y' }}.
 
-Armenia, Australia, Bangladesh, Brazil, Bulgaria, Canada (Anglophone), Canada (Francophone), China, Czechia, Denmark, Estonia, Finland, Hungary, India, Ireland, Isle of Man, Japan, Kazakhstan, Latvia, Malaysia, Nepal, Netherlands, Poland, Republic of Korea, Romania, Russia, Slovenia, Spain, Sweden, Taiwan, UK, Ukraine, USA.
+{% include ioling/accredit_list.html %}
 
 ### How is my country's team chosen?
 

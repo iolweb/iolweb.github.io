@@ -3,18 +3,18 @@ permalink: /upcoming/
 layout: page
 header:
   image_fullwidth: head.png
-subheadline:  "Upcoming Contest"
-title: "Yongin 2019"
-teaser: '<b>Yongin, Korea</b> has been chosen as the host of the 17th International Linguistics Olympiad on July 29 - August 2nd, 2019. You can find the official website <a href="http://iol2019.com/">here</a>.'
-image: 
-  title: yongin.jpg
-category: contests
-sitemap: false
+subheadline: "Upcoming Contest"
 widget:
   title: "Upcoming Contest"
   url: '/upcoming/'
   image: yongin.png
   text: '<b>Yongin, Korea</b> has been chosen as the host of the 17th International Linguistics Olympiad on July 29 - August 2nd, 2019. You can find the official website <a href="http://iol2019.com/">here</a>.'
+title: "Yongin 2019"
+teaser: '<b>Yongin, Korea</b> has been chosen as the host of the 17th International Linguistics Olympiad on July 29 - August 2, 2019. You can find the official website <a href="http://iol2019.com/">here</a>.'
+image: 
+  title: hufs.jpg
+category: contests
+sitemap: false
 ---
 
 ---
