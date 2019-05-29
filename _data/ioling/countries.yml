@@ -1,0 +1,644 @@
+- iol_name: Australia
+  official_name: Australia
+  iso_2: AU
+  iso_3: AUS
+  iol_code: AUS
+  flag: au.png
+  selection_en: Australian Computational and Linguistics Olympiad
+  selection_local: Australian Computational and Linguistics Olympiad
+  abbreviation: OzCLO
+  link: http://www.ozclo.org.au/
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Bangladesh
+  official_name: Bangladesh
+  iso_2: BD
+  iso_3: BGD
+  iol_code: BGD
+  flag: bd.png
+  selection_en: National Linguistics Olympiad in Bangladesh
+  selection_local: National Linguistics Olympiad in Bangladesh
+  abbreviation: 
+  link: http://www.ls-bd.org/
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Belarus
+  official_name: Belarus
+  iso_2: BY
+  iso_3: BLR
+  iol_code: BLR
+  flag: by.png
+  selection_en: 
+  selection_local: Минская олимпиада по лингвистике
+  abbreviation: http://minsklingolymp.by
+  link: 
+  active: no
+  accredit: no
+  footnote: 
+
+- iol_name: Brazil
+  official_name: Brazil
+  iso_2: BR
+  iso_3: BRA
+  iol_code: BRA
+  flag: br.png
+  selection_en: 
+  selection_local: Olimpíada Brasileira de Linguística
+  abbreviation: OBL
+  link: http://www.obling.org/
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Bulgaria
+  official_name: Bulgaria
+  iso_2: BG
+  iso_3: BGR
+  iol_code: BGR
+  flag: bg.png
+  selection_en: Bulgarian National Olympiad in Linguistics
+  selection_local: Bulgarian National Olympiad in Linguistics
+  abbreviation: 
+  link: http://mon.bg/go=page&pageId=16&subpageId=80
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Canada
+  official_name: Canada
+  iso_2: CA
+  iso_3: CAN
+  iol_code: CAN
+  flag: ca.png
+  selection_en: North American Computational Linguistics Olympiad
+  selection_local: North American Computational Linguistics Olympiad
+  abbreviation: NACLO
+  link: http://www.nacloweb.org
+  active: no
+  accredit: no
+  footnote: Canada is now sending two separate teams.
+
+- iol_name: Canada Anglophone
+  official_name: Canada
+  iso_2: CA
+  iso_3: CAN
+  iol_code: CEN
+  flag: ca.png
+  selection_en: North American Computational Linguistics Olympiad
+  selection_local: North American Computational Linguistics Olympiad
+  abbreviation: NACLO
+  link: http://www.nacloweb.org
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Canada Francophone
+  official_name: Canada
+  iso_2: CA
+  iso_3: CAN
+  iol_code: CFR
+  flag: ca.png
+  selection_en: Canada Linguistics Olympiad
+  selection_local: Olympiade Linguistique Canadienne
+  abbreviation: OLC/CLO
+  link: http://olc-clo.org
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: China
+  official_name: China
+  iso_2: CN
+  iso_3: CHN
+  iol_code: CHN
+  flag: cn.png
+  selection_en: China Linguistics Olympiad
+  selection_local: 
+  abbreviation: 
+  link: http://www.ioling.org.cn
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Czechia
+  official_name: Czechia
+  iso_2: CZ
+  iso_3: CZE
+  iol_code: CZE
+  flag: cz.png
+  selection_en: Czech Linguistics Olympiad
+  selection_local: Česká lingvistická olympiáda
+  abbreviation: 
+  link: http://lingol.cz
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Denmark
+  official_name: Denmark
+  iso_2: DK
+  iso_3: DNK
+  iol_code: DNK
+  flag: dk.png
+  selection_en: 
+  selection_local: 
+  abbreviation: 
+  link: 
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Estonia
+  official_name: Estonia
+  iso_2: EE
+  iso_3: EST
+  iol_code: EST
+  flag: ee.png
+  selection_en: Estonia Linguistics Olympiad
+  selection_local: Lingvistikaolümpiaad
+  abbreviation: 
+  link: http://www.teaduskool.ut.ee/et/olumpiaadid/lingvistikaolumpiaad
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Finland
+  official_name: Finland
+  iso_2: FI
+  iso_3: FIN
+  iol_code: FIN
+  flag: fi.png
+  selection_en: Finnish Linguistics Olympiad
+  selection_local: Suomen kielitieteen olympialaiset
+  abbreviation: 
+  link: http://www.linguistics.fi/kiol/
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: France
+  official_name: France
+  iso_2: FR
+  iso_3: FRA
+  iol_code: FRA
+  flag: fr.png
+  selection_en: 
+  selection_local: 
+  abbreviation: 
+  link: 
+  active: no
+  accredit: no
+  footnote: 
+
+- iol_name: Germany
+  official_name: Germany
+  iso_2: DE
+  iso_3: DEU
+  iol_code: DEU
+  flag: de.png
+  selection_en: 
+  selection_local: 
+  abbreviation: 
+  link: 
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Greece
+  official_name: Greece
+  iso_2: GR
+  iso_3: GRC
+  iol_code: GRC
+  flag: gr.png
+  selection_en: 
+  selection_local: 
+  abbreviation: 
+  link: 
+  active: no
+  accredit: no
+  footnote: 
+
+- iol_name: Hungary
+  official_name: Hungary
+  iso_2: HU
+  iso_3: HUN
+  iol_code: HUN
+  flag: hu.png
+  selection_en: Hungary Linguistics Olympiad
+  selection_local: Magyar Nyelvészeti Diákolimpia
+  abbreviation: 
+  link: http://ioling.ppke.hu
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: India
+  official_name: India
+  iso_2: IN
+  iso_3: IND
+  iol_code: IND
+  flag: in.png
+  selection_en: Panini Linguistics Olympiad
+  selection_local: Panini Linguistics Olympiad
+  abbreviation: PLO
+  link: http://plo-in.org
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Ireland
+  official_name: Ireland
+  iso_2: IE
+  iso_3: IRL
+  iol_code: IRL
+  flag: ie.png
+  selection_en: All Ireland Linguistics Olympiad
+  selection_local: All Ireland Linguistics Olympiad
+  abbreviation: AILO
+  link: www.adaptcentre.ie/ailo/
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Isle of Man
+  official_name: Isle of Man
+  iso_2: IM
+  iso_3: IMN
+  iol_code: IMN
+  flag: im.png
+  selection_en: 
+  selection_local: 
+  abbreviation: 
+  link: https://sites.google.com/site/lingomann/home
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Israel
+  official_name: Israel
+  iso_2: IL
+  iso_3: ISR
+  iol_code: ISR
+  flag: il.png
+  selection_en: 
+  selection_local: 
+  abbreviation: 
+  link: 
+  active: no
+  accredit: no
+  footnote: 
+
+- iol_name: Japan
+  official_name: Japan
+  iso_2: JP
+  iso_3: JPN
+  iol_code: JPN
+  flag: jp.png
+  selection_en: IOLing Japan
+  selection_local: 国際言語学オリンピック―日本
+  abbreviation: 
+  link: http://iolingjapan.org
+  active: no
+  accredit: no
+  footnote: 
+
+- iol_name: Kazakhstan
+  official_name: Kazakhstan
+  iso_2: KZ
+  iso_3: KAZ
+  iol_code: KAZ
+  flag: kz.png
+  selection_en: 
+  selection_local: 
+  abbreviation: 
+  link: 
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Latvia
+  official_name: Latvia
+  iso_2: LV
+  iso_3: LVA
+  iol_code: LVA
+  flag: lv.png
+  selection_en: Latvia Linguistics Olympiad
+  selection_local: Latvijas Lingvistikas Olimpiade
+  abbreviation: 
+  link: http://www.loling.lv
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Lithuania
+  official_name: Lithuania
+  iso_2: LT
+  iso_3: LTU
+  iol_code: LTU
+  flag: lt.png
+  selection_en: 
+  selection_local: 
+  abbreviation: 
+  link: 
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Malaysia
+  official_name: Malaysia
+  iso_2: MY
+  iso_3: MYS
+  iol_code: MYS
+  flag: my.png
+  selection_en: Malaysian Computational Linguistics Olympiad
+  selection_local: Malaysian Computational Linguistics Olympiad
+  abbreviation: MyCLO
+  link: https://www.myclo.my/
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Netherlands
+  official_name: Netherlands
+  iso_2: NL
+  iso_3: NLD
+  iol_code: NLD
+  flag: nl.png
+  selection_en: 
+  selection_local: Taalkunde Olympiade
+  abbreviation: 
+  link: http://onderwijs.leidenuniv.nl/honoursacademy/olympiade/
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Norway
+  official_name: Norway
+  iso_2: NO
+  iso_3: NOR
+  iol_code: NOR
+  flag: no.png
+  selection_en: 
+  selection_local: 
+  abbreviation: 
+  link: 
+  active: no
+  accredit: no
+  footnote: 
+
+- iol_name: Pakistan
+  official_name: Pakistan
+  iso_2: PK
+  iso_3: PAK
+  iol_code: PAK
+  flag: pk.png
+  selection_en: 
+  selection_local: 
+  abbreviation: 
+  link: 
+  active: no
+  accredit: no
+  footnote: 
+
+- iol_name: Poland
+  official_name: Poland
+  iso_2: PL
+  iso_3: POL
+  iol_code: POL
+  flag: pl.png
+  selection_en: 
+  selection_local: Olimpiada Lingwistyki Matematycznej
+  abbreviation: 
+  link: http://www.math.uni.wroc.pl/fmw/dla-uczniow-lingwistyka-matematyczna/olimpiada-lingwistyczna/olimpiada-lingwistyki-matematycznej
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Republic of Korea
+  official_name: Republic of Korea
+  iso_2: KR
+  iso_3: KOR
+  iol_code: KOR
+  flag: kr.png
+  selection_en: Korea Linguistics Olympiad
+  selection_local: 한국언어학올림피아드
+  abbreviation: KLO
+  link: http://krlo.kr
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Romania
+  official_name: Romania
+  iso_2: RO
+  iso_3: ROU
+  iol_code: ROU
+  flag: ro.png
+  selection_en: 
+  selection_local: Olimpiada Naţională de Lingvistică
+  abbreviation: 
+  link: http://www.unibuc.ro/facultati/litere/Olimpiada_Nationala_de_Lingvistica.php
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Russia
+  official_name: Russian Federation
+  iso_2: RU
+  iso_3: RUS
+  iol_code: RUS
+  flag: ru.png
+  selection_en: 
+  selection_local: Московская традиционная олимпиада по лингвистике
+  abbreviation: 
+  link: http://www.lingling.ru/olymps/mos_olymp/index.php
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Serbia
+  official_name: Serbia
+  iso_2: RS
+  iso_3: SRB
+  iol_code: SRB
+  flag: rs.png
+  selection_en: 
+  selection_local: 
+  abbreviation: 
+  link: 
+  active: no
+  accredit: no
+  footnote: 
+
+- iol_name: Singapore
+  official_name: Singapore
+  iso_2: SG
+  iso_3: SGP
+  iol_code: SGP
+  flag: sg.png
+  selection_en: 
+  selection_local: 
+  abbreviation: 
+  link: 
+  active: no
+  accredit: no
+  footnote: 
+
+- iol_name: Slovenia
+  official_name: Slovenia
+  iso_2: SI
+  iso_3: SVN
+  iol_code: SVN
+  flag: si.png
+  selection_en: 
+  selection_local: 
+  abbreviation: 
+  link: https://www.zotks.si/logika
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Spain
+  official_name: Spain
+  iso_2: ES
+  iso_3: ESP
+  iol_code: ESP
+  flag: es.png
+  selection_en: 
+  selection_local: 
+  abbreviation: 
+  link: Competición Lingüística de España
+  active: no
+  accredit: no
+  footnote: 
+
+- iol_name: Sri Lanka
+  official_name: Sri Lanka
+  iso_2: LK
+  iso_3: LKA
+  iol_code: LKA
+  flag: lk.png
+  selection_en: 
+  selection_local: 
+  abbreviation: 
+  link: 
+  active: no
+  accredit: no
+  footnote: 
+
+- iol_name: Sweden
+  official_name: Sweden
+  iso_2: SE
+  iso_3: SWE
+  iol_code: SWE
+  flag: se.png
+  selection_en: 
+  selection_local: Lingolympiad
+  abbreviation: 
+  link: http://www.lingolympiad.org
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Taiwan
+  official_name: Taiwan
+  iso_2: TW
+  iso_3: TWN
+  iol_code: TWN
+  flag: tw.png
+  selection_en: 
+  selection_local: 語言學奧林匹亞競賽臺灣隊
+  abbreviation: 
+  link: https://sites.google.com/site/twlingolympiad
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Turkey
+  official_name: Turkey
+  iso_2: TR
+  iso_3: TUR
+  iol_code: TUR
+  flag: tr.png
+  selection_en: 
+  selection_local: Ulusal Linguistik Olimpiyatı
+  abbreviation: 
+  link: https://linguisticturkey.com
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: UK
+  official_name: United Kingdom
+  iso_2: GB
+  iso_3: GBR
+  iol_code: GBR
+  flag: gb.png
+  selection_en: UK Linguistics Olympiad
+  selection_local: UK Linguistics Olympiad
+  abbreviation: UKLO
+  link: http://www.uklo.org
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: USA
+  official_name: United States of America
+  iso_2: US
+  iso_3: USA
+  iol_code: USA
+  flag: us.png
+  selection_en: North American Computational Linguistics Olympiad
+  selection_local: North American Computational Linguistics Olympiad
+  abbreviation: NACLO
+  link: http://www.nacloweb.org
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: Ukraine
+  official_name: Ukraine
+  iso_2: UA
+  iso_3: UKR
+  iol_code: UKR
+  flag: ua.png
+  selection_en: 
+  selection_local: Київська відкрита олімпіада з лінгвістики
+  abbreviation: 
+  link: https://ling.org.ua
+  active: yes
+  accredit: yes
+  footnote: 
+
+- iol_name: United Arab Emirates
+  official_name: United Arab Emirates
+  iso_2: AE
+  iso_3: ARE
+  iol_code: ARE
+  flag: ae.png
+  selection_en: 
+  selection_local: 
+  abbreviation: 
+  link: 
+  active: no
+  accredit: no
+  footnote: 
+
+- iol_name: Vietnam
+  official_name: Viet Nam
+  iso_2: VN
+  iso_3: VNM
+  iol_code: VNM
+  flag: vn.png
+  selection_en: 
+  selection_local: 
+  abbreviation: 
+  link: 
+  active: no
+  accredit: no
+  footnote: 
+

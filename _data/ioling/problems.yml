@@ -1,0 +1,1204 @@
+- year: 2003
+  round: Individual
+  id: iol-2003-i-1
+  name: Transcendental Algebra
+  number: 1
+  page: 1
+  language:
+    - name: Transcendental Algebra
+      family: 
+  author:
+    - name: Ksenia Gilyarova
+  solvers_choice: True
+
+- year: 2003
+  round: Individual
+  id: iol-2003-i-2
+  name: Arabic Arithmetic
+  number: 2
+  page: 2
+  language:
+    - name: Arabic
+      family: Afroasiatic
+  author:
+    - name: Ivan Derzhanski
+
+- year: 2003
+  round: Individual
+  id: iol-2003-i-3
+  name: Basque Dates
+  number: 3
+  page: 2
+  language:
+    - name: Basque
+      family: Isolate
+  author:
+    - name: Alexandre Arkhipov
+
+- year: 2003
+  round: Individual
+  id: iol-2003-i-4
+  name: Adyghe
+  number: 4
+  page: 3
+  language:
+    - name: Adyghe
+      family: Abkhaz-Adyghean (North-West Caucasian)
+  author:
+    - name: Yakov Testelets
+
+- year: 2003
+  round: Individual
+  id: iol-2003-i-5
+  name: French
+  number: 5
+  page: 4
+  language:
+    - name: French
+      family: Indo-European
+  author:
+    - name: Boris Iomdin
+
+- year: 2003
+  round: Team
+  id: iol-2003-t-1
+  name: Tocharian
+  number: 1
+  page: 5
+  language:
+    - name: Tocharian A
+      family: Indo-European
+    - name: Tocharian B
+      family: Indo-Eurorean
+  author:
+    - name: Svetlana Burlak
+
+- year: 2003
+  round: Team
+  id: iol-2003-t-2
+  name: Subscripts
+  number: 2
+  page: 6
+  author:
+    - name: Maria Rubinstein
+
+- year: 2003
+  round: Team
+  id: iol-2003-t-3
+  name: Verbs
+  number: 3
+  page: 6
+  author:
+    - name: Boris Iomdin
+
+- year: 2004
+  round: Individual
+  id: iol-2004-i-1
+  name: Kayapo
+  number: 1
+  page: 1
+  language:
+    - name: Kayapo
+      family: Ge
+  author:
+    - name: Peter Zubkov
+
+- year: 2004
+  round: Individual
+  id: iol-2004-i-2
+  name: Swift News Agency
+  number: 2
+  page: 1-2
+  author:
+    - name: Boris Iomdin
+    - name: Leonid Iomdin
+
+- year: 2004
+  round: Individual
+  id: iol-2004-i-3
+  name: Latin
+  number: 3
+  page: 2-3
+  language:
+    - name: Latin
+      family: Indo-European
+    - name: English
+      family: Indo-European
+  author:
+    - name: Svetlana Burlak
+    - name: Ilya Itkin
+
+- year: 2004
+  round: Individual
+  id: iol-2004-i-4
+  name: Lakhota
+  number: 4
+  page: 3-4
+  language:
+    - name: Lakhota
+      family: Siouxan
+  author:
+    - name: Ivan Derzhanski
+  solvers_choice: True
+
+- year: 2004
+  round: Individual
+  id: iol-2004-i-5
+  name: Chuvash
+  number: 5
+  page: 4
+  language:
+    - name: Chuvash
+      family: Turkic
+  author:
+    - name: Boris Iomdin
+
+- year: 2004
+  round: Team
+  id: iol-2004-t-1
+  name: Armenian
+  number: 1
+  page: 5
+  language:
+    - name: Armenian
+      family: Indo-European
+  author:
+    - name: Alexander Berdichevsky
+    - name: Boris Iomdin
+
+- year: 2005
+  round: Individual
+  id: iol-2005-i-1
+  name: Tzotzil
+  number: 1
+  page: 1
+  language:
+    - name: Tzotzil
+      family: Mayan
+  author:
+    - name: Boris Iomdin
+  solvers_choice: True
+
+- year: 2005
+  round: Individual
+  id: iol-2005-i-2
+  name: Lango
+  number: 2
+  page: 2
+  language:
+    - name: Lango
+      family: Nilo-Saharan
+  author:
+    - name: Ksenia Guiliarova
+
+- year: 2005
+  round: Individual
+  id: iol-2005-i-3
+  name: Mansi
+  number: 3
+  page: 2
+  language:
+    - name: Mansi
+      family: Uralic
+  author:
+    - name: Ivan Derzhanski
+
+- year: 2005
+  round: Individual
+  id: iol-2005-i-4
+  name: Yoruba
+  number: 4
+  page: 3
+  language:
+    - name: Yoruba
+      family: Niger-Congo
+  author:
+    - name: Ivan Derzhanski
+
+- year: 2005
+  round: Individual
+  id: iol-2005-i-5
+  name: Lithuanian
+  number: 5
+  page: 4
+  language:
+    - name: Lithuanian
+      family: Indo-European
+  author:
+    - name: Alexander Lubotsky
+
+- year: 2005
+  round: Team
+  id: iol-2005-t-1
+  name: Figuig
+  number: 1
+  page: 5
+  language:
+    - name: Figuig
+      family: Afroasiatic
+  author:
+    - name: Maarten Kossmann
+    - name: Alexander Lubotsky
+
+- year: 2006
+  round: Individual
+  id: iol-2006-i-1
+  name: Lakhota
+  number: 1
+  page: 1
+  language:
+    - name: Lakhota
+      family: Siouxan
+  author:
+    - name: Pyotr Arkadiev
+  solvers_choice: True
+
+- year: 2006
+  round: Individual
+  id: iol-2006-i-2
+  name: Catalan
+  number: 2
+  page: 2
+  language:
+    - name: Catalan
+      family: Indo-European
+  author:
+    - name: Boris Iomdin
+
+- year: 2006
+  round: Individual
+  id: iol-2006-i-3
+  name: Khmer
+  number: 3
+  page: 3
+  language:
+    - name: Khmer
+      family: Austro-Asiatic
+  author:
+    - name: Sergey Dmitrenko
+
+- year: 2006
+  round: Individual
+  id: iol-2006-i-4
+  name: Udihe
+  number: 4
+  page: 4
+  language:
+    - name: Udihe
+      family: Tungusic
+  author:
+    - name: Boris Iomdin
+
+- year: 2006
+  round: Individual
+  id: iol-2006-i-5
+  name: Ngoni
+  number: 5
+  page: 5
+  language:
+    - name: Ngoni
+      family: Niger-Congo
+  author:
+    - name: Olga Fyodorova
+
+- year: 2006
+  round: Team
+  id: iol-2006-t-1
+  name: American Sign Language
+  number: 1
+  page: 6
+  language:
+    - name: American Sign Language
+      family: LSF Family
+  author:
+    - name: Alexander Berdichevsky
+
+- year: 2007
+  round: Individual
+  id: iol-2007-i-1
+  name: Braille
+  number: 1
+  page: 1
+  language:
+    - name: English
+      family: Indo-European
+  writing_system:
+    - name: Braille
+  author:
+    - name: Alexander Berdichevsky
+  solvers_choice: True
+
+- year: 2007
+  round: Individual
+  id: iol-2007-i-2
+  name: Movima
+  number: 2
+  page: 2
+  language:
+    - name: Movima
+      family: Isolate
+  author:
+    - name: Dmitry Gerasimov
+
+- year: 2007
+  round: Individual
+  id: iol-2007-i-3
+  name: Georgian
+  number: 3
+  page: 3
+  language:
+    - name: Georgian
+      family: South Caucasian
+  author:
+    - name: Yakov Testelets
+
+- year: 2007
+  round: Individual
+  id: iol-2007-i-4
+  name: Ndom
+  number: 4
+  page: 3
+  language:
+    - name: Ndom
+      family: Trans-New Guinea
+  author:
+    - name: Ivan Derzhanski
+
+- year: 2007
+  round: Individual
+  id: iol-2007-i-5
+  name: Turkish and Tatar
+  number: 5
+  page: 4
+  language:
+    - name: Turkish
+      family: Turkic
+    - name: Tatar
+      family: Turkic
+  author:
+    - name: Ivan Derzhanski
+
+- year: 2007
+  round: Team
+  id: iol-2007-t-1
+  name: Hawaiian
+  number: 1
+  page: 5-6
+  language:
+    - name: Hawaiian
+      family: Austronesian
+  author:
+    - name: Olga Fyodorova
+
+- year: 2008
+  round: Individual
+  id: iol-2008-i-1
+  name: Micmac
+  number: 1
+  page: 1
+  language:
+    - name: Micmac
+      family: Algonquian
+  author:
+    - name: Bozhidar Bozhanov
+
+- year: 2008
+  round: Individual
+  id: iol-2008-i-2
+  name: Old Norse
+  number: 2
+  page: 2
+  language:
+    - name: Old Norse
+      family: Indo-European
+  author:
+    - name: Alexander Piperski
+
+- year: 2008
+  round: Individual
+  id: iol-2008-i-3
+  name: Drehu and Cemuhî
+  number: 3
+  page: 3
+  language:
+    - name: Drehu
+      family: Austronesian
+    - name: Cemuhî
+      family: Austronesian
+  author:
+    - name: Ksenia Gilyarova
+  solvers_choice: True
+
+- year: 2008
+  round: Individual
+  id: iol-2008-i-4
+  name: Copainalá Zoque
+  number: 4
+  page: 3
+  language:
+    - name: Copainalá Zoque
+      family: Mixe-Zoquean
+  author:
+    - name: Ivan Derzhanski
+
+- year: 2008
+  round: Individual
+  id: iol-2008-i-5
+  name: Inuktitut
+  number: 5
+  page: 4
+  language:
+    - name: Inuktitut
+      family: Inuit-Aleut
+  author:
+    - name: Bozhidar Bozhanov
+
+- year: 2008
+  round: Team
+  id: iol-2008-t-1
+  name: Fanqie
+  number: 1
+  page: 5-7
+  language:
+    - name: Mandarin
+      family: Sino-Tibetan
+    - name: Cantonese
+      family: Sino-Tibetan
+  author:
+    - name: Todor Tchervenkov
+
+- year: 2009
+  round: Individual
+  id: iol-2009-i-1
+  name: Sulka
+  number: 1
+  page: 1
+  language:
+    - name: Sulka
+      family: East Papuan
+  author:
+    - name: Evgenia Korovina
+    - name: Ivan Derzhanski
+  solvers_choice: True
+
+- year: 2009
+  round: Individual
+  id: iol-2009-i-2
+  name: Maninka and Bamana
+  number: 2
+  page: 2
+  language:
+    - name: Bamana
+      family: Mande
+    - name: Maninka
+      family: Mande
+  writing_system:
+    - name: N'Ko
+  author:
+    - name: Ivan Derzhanski
+
+- year: 2009
+  round: Individual
+  id: iol-2009-i-3
+  name: Burmese Names
+  number: 3
+  page: 3
+  language:
+    - name: Burmese
+      family: Sino-Tibetan
+  author:
+    - name: Ivan Derzhanski
+    - name: Maria Cydzik
+
+- year: 2009
+  round: Individual
+  id: iol-2009-i-4
+  name: Old Indic
+  number: 4
+  page: 3
+  language:
+    - name: Old Indic
+      family: Indo-European
+  author:
+    - name: Alexander Piperski
+
+- year: 2009
+  round: Individual
+  id: iol-2009-i-5
+  name: Nahuatl
+  number: 5
+  page: 4
+  language:
+    - name: Nahuatl
+      family: Uto-Aztecan
+  author:
+    - name: Bozhidar Bozhanov
+    - name: Todor Tchervenkov
+
+- year: 2009
+  round: Team
+  id: iol-2009-t-1
+  name: Vietnamese
+  number: 1
+  page: 5-8
+  language:
+    - name: Vietnamese
+      family: Austro-Asiatic
+  author:
+    - name: Boris Iomdin
+
+- year: 2010
+  round: Individual
+  id: iol-2010-i-1
+  name: Budukh
+  number: 1
+  page: 1
+  language:
+    - name: Budukh
+      family: Northeast Causasian
+  author:
+    - name: Ivan Derzhanski
+
+- year: 2010
+  round: Individual
+  id: iol-2010-i-2
+  name: Drehu Numerals
+  number: 2
+  page: 2
+  language:
+    - name: Drehu
+      family: Austronesian
+  author:
+    - name: Ksenia Gilyarova
+
+- year: 2010
+  round: Individual
+  id: iol-2010-i-3
+  name: Blissymbolics
+  number: 3
+  page: 2
+  writing_system:
+    - name: Blissymbolics
+  author:
+    - name: Alexander Piperski
+  solvers_choice: True
+
+- year: 2010
+  round: Individual
+  id: iol-2010-i-4
+  name: mRNA Sequencing
+  number: 4
+  page: 3
+  author:
+    - name: Alexander Berdichevski
+
+- year: 2010
+  round: Individual
+  id: iol-2010-i-5
+  name: Romansch
+  number: 5
+  page: 4
+  language:
+    - name: Romansch
+      family: Indo-European
+  author:
+    - name: Boris Iomdin
+
+- year: 2010
+  round: Team
+  id: iol-2010-t-1
+  name: Mongolian
+  number: 1
+  page: 5-6
+  language:
+    - name: Mongolian
+      family: Mongolic
+  author:
+    - name: Boris Iomdin
+
+- year: 2011
+  round: Individual
+  id: iol-2011-i-1
+  name: Menominee
+  number: 1
+  page: 01
+  language:
+    - name: Menominee
+      family: Algonquin
+  author:
+    - name: Ivan Derzhanski
+
+- year: 2011
+  round: Individual
+  id: iol-2011-i-2
+  name: Faroese
+  number: 2
+  page: 02
+  language:
+    - name: Faroese
+      family: North Germanic
+  author:
+    - name: Alexander Piperski
+
+- year: 2011
+  round: Individual
+  id: iol-2011-i-3
+  name: Vai
+  number: 3
+  page: 03
+  language:
+    - name: Vai
+      family: Mande
+  author:
+    - name: Olga Kuznetsova
+
+- year: 2011
+  round: Individual
+  id: iol-2011-i-4
+  name: Nahuatl
+  number: 4
+  page: 03
+  language:
+    - name: Nahuatl
+      family: Uto-Aztecan
+  author:
+    - name: Liudmila Fedorova
+
+- year: 2011
+  round: Individual
+  id: iol-2011-i-5
+  name: EAN-13
+  number: 5
+  page: 04-06
+  writing_system:
+    - name: EAN-13
+  author:
+    - name: Hugh Dobbs
+  solvers_choice: True
+
+- year: 2011
+  round: Team
+  id: iol-2011-t-1
+  name: Sanskrit Poetry
+  number: 1
+  page: 07-13
+  language:
+    - name: Sanskrit
+      family: Indo-Aryan
+  author:
+    - name: Adam Hesterberg
+
+- year: 2012
+  round: Individual
+  id: iol-2012-i-1
+  name: Dyirbal
+  number: 1
+  page: 01
+  language:
+    - name: Dyirbal
+      family: Pama-Nyungan
+  author:
+    - name: Artūrs Semeņuks
+
+- year: 2012
+  round: Individual
+  id: iol-2012-i-2
+  name: Umbu-Ungu
+  number: 2
+  page: 03
+  language:
+    - name: Umbu-Ungu
+      family: Trans-New Guinea
+  author:
+    - name: Ksenia Gilyarova
+  solvers_choice: True
+
+- year: 2012
+  round: Individual
+  id: iol-2012-i-3
+  name: Basque
+  number: 3
+  page: 03
+  language:
+    - name: Basque
+      family: Isolate
+  author:
+    - name: Natalya Zaika
+
+- year: 2012
+  round: Individual
+  id: iol-2012-i-4
+  name: Teop
+  number: 4
+  page: 04
+  language:
+    - name: Teop
+      family: Austronesian
+  author:
+    - name: Maria Konoshenko
+
+- year: 2012
+  round: Individual
+  id: iol-2012-i-5
+  name: Rotuman
+  number: 5
+  page: 05
+  language:
+    - name: Rotuman
+      family: Austronesian
+  author:
+    - name: Boris Iomdin
+    - name: Alexander Pipersky
+
+- year: 2012
+  round: Team
+  id: iol-2012-t-1
+  name: Lao
+  number: 1
+  page: 07-13
+  language:
+    - name: Lao
+      family: Tai-Kadai
+
+- year: 2013
+  round: Individual
+  id: iol-2013-i-1
+  name: Yidiny
+  number: 1
+  page: 01
+  language:
+    - name: Yidiny
+      family: Pama-Nyungan
+  author:
+    - name: Bozhidar Bozhanov
+    - name: Ivan Derzhanski
+
+- year: 2013
+  round: Individual
+  id: iol-2013-i-2
+  name: Tundra Yukaghir
+  number: 2
+  page: 02
+  language:
+    - name: Tundra Yukaghir
+      family: Yukaghir
+  author:
+    - name: Ivan Derzhanski
+
+- year: 2013
+  round: Individual
+  id: iol-2013-i-3
+  name: Pirahã
+  number: 3
+  page: 03
+  language:
+    - name: Pirahã
+      family: Mura
+  author:
+    - name: Artūrs Semeņuks
+
+- year: 2013
+  round: Individual
+  id: iol-2013-i-4
+  name: Muna
+  number: 4
+  page: 04
+  language:
+    - name: Muna
+      family: Austronesian
+  author:
+    - name: Ksenia Gilyarova
+
+- year: 2013
+  round: Individual
+  id: iol-2013-i-5
+  name: Telepathy
+  number: 5
+  page: 05
+  language:
+    - name: English
+      family: Indo-European
+  author:
+    - name: Boris Iomdin
+  solvers_choice: True
+
+- year: 2013
+  round: Team
+  id: iol-2013-t-1
+  name: Georgian
+  number: 1
+  page: 06-08
+  language:
+    - name: Georgian
+      family: 
+  author:
+    - name: Ivan Derzhanski
+
+- year: 2014
+  round: Individual
+  id: iol-2014-i-1
+  name: Benabena
+  number: 1
+  page: 01
+  language:
+    - name: Benabena
+      family: Trans-New Guinea
+  author:
+    - name: Ivan Derzhanski
+
+- year: 2014
+  round: Individual
+  id: iol-2014-i-2
+  name: Kiowa
+  number: 2
+  page: 02
+  language:
+    - name: Kiowa
+      family: Tanoan
+  author:
+    - name: Aleksejs Peguševs
+
+- year: 2014
+  round: Individual
+  id: iol-2014-i-3
+  name: Tangut
+  number: 3
+  page: 03
+  language:
+    - name: Tangut
+      family: Tibeto-Burman
+  author:
+    - name: Ivan Derzhanski
+  solvers_choice: True
+
+- year: 2014
+  round: Individual
+  id: iol-2014-i-4
+  name: Engenni
+  number: 4
+  page: 04-05
+  language:
+    - name: Engenni
+      family: Niger-Congo
+  author:
+    - name: Artūrs Semeņuks
+
+- year: 2014
+  round: Individual
+  id: iol-2014-i-5
+  name: Gbaya
+  number: 5
+  page: 05
+  language:
+    - name: Gbaya
+      family: Niger-Congo
+  author:
+    - name: Boris Iomdin
+
+- year: 2014
+  round: Team
+  id: iol-2014-t-1
+  name: Armenian
+  number: 1
+  page: 06-09
+  language:
+    - name: Armenian
+      family: Indo-European
+  author:
+    - name: Boris Iomdin
+    - name: Ivan Derzhanski
+
+- year: 2015
+  round: Individual
+  id: iol-2015-i-1
+  name: Nahuatl and Arammba
+  number: 1
+  page: 01
+  language:
+    - name: Nahuatl
+      family: Uto-Aztecan
+    - name: Arammba
+      family: South Central Papuan
+  author:
+    - name: Milena Veneva
+
+- year: 2015
+  round: Individual
+  id: iol-2015-i-2
+  name: Kabardian
+  number: 2
+  page: 02
+  language:
+    - name: Kabardian
+      family: North Caucasian
+  author:
+    - name: Peter Arkadiev
+
+- year: 2015
+  round: Individual
+  id: iol-2015-i-3
+  name: Soundex
+  number: 3
+  page: 03
+  author:
+    - name: Alexander Piperski
+  solvers_choice: True
+
+- year: 2015
+  round: Individual
+  id: iol-2015-i-4
+  name: Wambaya
+  number: 4
+  page: 04-05
+  language:
+    - name: Wambaya
+      family: West Barkly
+  author:
+    - name: Ksenia Gilyarova
+
+- year: 2015
+  round: Individual
+  id: iol-2015-i-5
+  name: Somali Masafo
+  number: 5
+  page: 05
+  language:
+    - name: Somali
+      family: Afroasiatic
+  author:
+    - name: Alexander Piperski
+
+- year: 2015
+  round: Team
+  id: iol-2015-t-1
+  name: Northern Sotho
+  number: 1
+  page: 06-09
+  language:
+    - name: Northern Sotho
+      family: Niger-Congo
+  author:
+    - name: Boris Iomdin
+
+- year: 2016
+  round: Individual
+  id: iol-2016-i-1
+  name: Aralle-Tabulahan
+  number: 1
+  page: 01-02
+  language:
+    - name: Aralle-Tabulahan
+      family: Austronesian
+  author:
+    - name: Ksenia Gilyarova
+  solvers_choice: True
+
+- year: 2016
+  round: Individual
+  id: iol-2016-i-2
+  name: Luwian
+  number: 2
+  page: 03
+  language:
+    - name: Luwian
+      family: Indo-European
+  author:
+    - name: Tae Hun Lee
+
+- year: 2016
+  round: Individual
+  id: iol-2016-i-3
+  name: Kunuz Nubian
+  number: 3
+  page: 04
+  language:
+    - name: Kunuz Nubian
+      family: Eastern Sudanic
+  author:
+    - name: Aleksejs Peguševs
+
+- year: 2016
+  round: Individual
+  id: iol-2016-i-4
+  name: Iatmül
+  number: 4
+  page: 05
+  language:
+    - name: Iatmül
+      family: Sepik
+  author:
+    - name: Artūrs Semeņuks
+
+- year: 2016
+  round: Individual
+  id: iol-2016-i-5
+  name: Jaqaru
+  number: 5
+  page: 06
+  language:
+    - name: Jaqaru
+      family: Aymaran
+  author:
+    - name: Ivan Derzhanski
+
+- year: 2016
+  round: Team
+  id: iol-2016-t-1
+  name: Taa
+  number: 1
+  page: 07
+  language:
+    - name: Taa
+      family: Tuu
+  author:
+    - name: Danylo Mysak
+
+- year: 2017
+  round: Individual
+  id: iol-2017-i-1
+  name: Birom
+  number: 1
+  page: 01
+  language:
+    - name: Birom
+      family: Atlantic Congo
+  author:
+    - name: Milena Veneva
+
+- year: 2017
+  round: Individual
+  id: iol-2017-i-2
+  name: Abui
+  number: 2
+  page: 02
+  language:
+    - name: Abui
+      family: Timor-Alor-Pantar
+  author:
+    - name: Aleksejs Peguševs
+
+- year: 2017
+  round: Individual
+  id: iol-2017-i-3
+  name: Kimbundu
+  number: 3
+  page: 03
+  language:
+    - name: Kimbundu
+      family: Atlantic-Congo
+  author:
+    - name: Bruno L'Astorina
+
+- year: 2017
+  round: Individual
+  id: iol-2017-i-4
+  name: Khom script/Laven
+  number: 4
+  page: 04
+  language:
+    - name: Laven (Jru')
+      family: Austroasiatic
+  writing_system:
+    - name: Khom
+  author:
+    - name: Tae Hun Lee
+  solvers_choice: True
+
+- year: 2017
+  round: Individual
+  id: iol-2017-i-5
+  name: Madak
+  number: 5
+  page: 07
+  language:
+    - name: Madak
+      family: Austronesian
+  author:
+    - name: Ivan Derzhanski
+
+- year: 2017
+  round: Team
+  id: iol-2017-t-1
+  name: Emoji/Indonesian
+  number: 1
+  page: 07
+  language:
+    - name: Indonesian
+      family: 
+  writing_system:
+    - name: Emoji
+  author:
+    - name: Boris Iomdin
+
+- year: 2018
+  round: Individual
+  id: iol-2018-i-1
+  name: Creek
+  number: 1
+  page: 01
+  language:
+    - name: Creek
+      family: Muskogean
+  author:
+    - name: Aleksejs Peguševs
+
+- year: 2018
+  round: Individual
+  id: iol-2018-i-2
+  name: Hakhun
+  number: 2
+  page: 02
+  language:
+    - name: Hakhun
+      family: Sino-Tibetan
+  author:
+    - name: Peter Arkadiev
+  solvers_choice: True
+
+- year: 2018
+  round: Individual
+  id: iol-2018-i-3
+  name: Terêna
+  number: 3
+  page: 03
+  language:
+    - name: Terêna
+      family: Arawakan
+  author:
+    - name: André Nikulin
+
+- year: 2018
+  round: Individual
+  id: iol-2018-i-4
+  name: Mountain Arapesh (Bukiyip)
+  number: 4
+  page: 04
+  language:
+    - name: Mountain Arapesh
+      family: Torricelli
+  author:
+    - name: Aleksejs Peguševs
+
+- year: 2018
+  round: Individual
+  id: iol-2018-i-5
+  name: Akan
+  number: 5
+  page: 05
+  language:
+    - name: Akan
+      family: Atlantic-Congo
+  author:
+    - name: Ksenia Gilyarova
+
+- year: 2018
+  round: Team
+  id: iol-2018-t-1
+  name: Mẽbêngôkre, Xavante and Krĩkatí
+  number: 1
+  page: 06
+  language:
+    - name: Mẽbêngôkre, Xavante and Krĩkatí
+      family: Jê
+  author:
+    - name: André Nikulin
