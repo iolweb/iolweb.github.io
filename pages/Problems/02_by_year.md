@@ -14,7 +14,7 @@ widget:
 ---
 Below are listed the problem sets from each year of the International Olympiad in Linguistics.
 
-If you're new to Linguistics Olympiads problems,	check out some of our 
+If you're new to Linguistics Olympiads problems, check out some of our 
 [sample puzzles](/problems/samples/) to see what it's all about.
 
 {% include ioling/problems.html %}
