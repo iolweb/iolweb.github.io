@@ -20,38 +20,32 @@ The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.indiv
 	</thead>
 	<tbody>
 		{% for participant_item in contest_item.individual.gold %}
-		{% assign flag_country = site.data.ioling.countries | where: "iol_name", participant_item.country %}
+		{% assign flag_country = site.data.ioling.countries | where: "iol_name", participant_item.country | first %}
 		<tr bgcolor="#FFFB9B">
 			<td>Gold</td>
 			<td>{{ participant_item.score }}</td>
 			<td>{{ participant_item.name }}</td>
-			<td>{% for country in flag_country %}
-				<img class="tinyflag" alt="Flag" src="/images/flags/{{ country.flag }}" />
-				{% endfor %}
+			<td>{% if flag_country %}<img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" />{% endif %}
 			{{ participant_item.team }}</td>
 		</tr>
 		{% endfor %}
 		{% for participant_item in contest_item.individual.silver %}
-		{% assign flag_country = site.data.ioling.countries | where: "iol_name", participant_item.country %}
+		{% assign flag_country = site.data.ioling.countries | where: "iol_name", participant_item.country | first %}
 		<tr bgcolor="#EEEEEE">
 			<td>Silver</td>
 			<td>{{ participant_item.score }}</td>
 			<td>{{ participant_item.name }}</td>
-			<td>{% for country in flag_country %}
-				<img class="tinyflag" alt="Flag" src="/images/flags/{{ country.flag }}" />
-				{% endfor %}
+			<td>{% if flag_country %}<img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" />{% endif %}
 			{{ participant_item.team }}</td>
 		</tr>
 		{% endfor %}
 		{% for participant_item in contest_item.individual.bronze %}
-		{% assign flag_country = site.data.ioling.countries | where: "iol_name", participant_item.country %}
+		{% assign flag_country = site.data.ioling.countries | where: "iol_name", participant_item.country | first %}
 		<tr bgcolor="#EEDECC">
 			<td>Bronze</td>
 			<td>{{ participant_item.score }}</td>
 			<td>{{ participant_item.name }}</td>
-			<td>{% for country in flag_country %}
-				<img class="tinyflag" alt="Flag" src="/images/flags/{{ country.flag }}" />
-				{% endfor %}
+			<td>{% if flag_country %}<img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" />{% endif %}
 			{{ participant_item.team }}</td>
 		</tr>
 		{% endfor %}
@@ -70,14 +64,12 @@ The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.indiv
 	</thead>
 	<tbody>
 		{% for participant_item in contest_item.individual.honorable_mention %}
-		{% assign flag_country = site.data.ioling.countries | where: "iol_name", participant_item.country %}
+		{% assign flag_country = site.data.ioling.countries | where: "iol_name", participant_item.country | first %}
 		<tr>
 			<td>HM</td>
 			<td>{{ participant_item.score }}</td>
 			<td>{{ participant_item.name }}</td>
-			<td>{% for country in flag_country %}
-				<img class="tinyflag" alt="Flag" src="/images/flags/{{ country.flag }}" />
-				{% endfor %}
+			<td>{% if flag_country %}<img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" />{% endif %}
 			{{ participant_item.team }}</td>
 		</tr>
 		{% endfor %}
@@ -96,35 +88,29 @@ The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.indiv
 	</thead>
 	<tbody>
 		{% for team_average_item in contest_item.average.gold %}
-		{% assign flag_country = site.data.ioling.countries | where: "iol_name", team_average_item.country %}
+		{% assign flag_country = site.data.ioling.countries | where: "iol_name", team_average_item.country | first %}
 		<tr bgcolor="#FFFB9B">
 			<td>1st</td>
 			<td>{{ team_average_item.average }}</td>
-			<td>{% for country in flag_country %}
-				<img class="tinyflag" alt="Flag" src="/images/flags/{{ country.flag }}" />
-				{% endfor %}
+			<td>{% if flag_country %}<img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" />{% endif %}
 			{{ team_average_item.team }}</td>
 		</tr>
 		{% endfor %}
 		{% for team_average_item in contest_item.average.silver %}
-		{% assign flag_country = site.data.ioling.countries | where: "iol_name", team_average_item.country %}
+		{% assign flag_country = site.data.ioling.countries | where: "iol_name", team_average_item.country | first %}
 		<tr bgcolor="#EEEEEE">
 			<td>2nd</td>
 			<td>{{ team_average_item.average }}</td>
-			<td>{% for country in flag_country %}
-				<img class="tinyflag" alt="Flag" src="/images/flags/{{ country.flag }}" />
-				{% endfor %}
+			<td>{% if flag_country %}<img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" />{% endif %}
 			{{ team_average_item.team }}</td>
 		</tr>
 		{% endfor %}
 		{% for team_average_item in contest_item.average.bronze %}
-		{% assign flag_country = site.data.ioling.countries | where: "iol_name", team_average_item.country %}
+		{% assign flag_country = site.data.ioling.countries | where: "iol_name", team_average_item.country | first %}
 		<tr bgcolor="#EEDECC">
 			<td>3rd</td>
 			<td>{{ team_average_item.average }}</td>
-			<td>{% for country in flag_country %}
-				<img class="tinyflag" alt="Flag" src="/images/flags/{{ country.flag }}" />
-				{% endfor %}
+			<td>{% if flag_country %}<img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" />{% endif %}
 			{{ team_average_item.team }}</td>
 		</tr>
 		{% endfor %}
@@ -142,35 +128,29 @@ The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.indiv
 	</thead>
 	<tbody>
 		{% for team_item in contest_item.team.gold %}
-		{% assign flag_country = site.data.ioling.countries | where: "iol_name", team_item.country %}
+		{% assign flag_country = site.data.ioling.countries | where: "iol_name", team_item.country | first %}
 		<tr bgcolor="#FFFB9B">
 			<td>Gold</td>
 			<td>{{ team_item.score }}</td>
-			<td>{% for country in flag_country %}
-				<img class="tinyflag" alt="Flag" src="/images/flags/{{ country.flag }}" />
-				{% endfor %}
+			<td>{% if flag_country %}<img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" />{% endif %}
 			{{ team_item.team }}</td>
 		</tr>
 		{% endfor %}
 		{% for team_item in contest_item.team.silver %}
-		{% assign flag_country = site.data.ioling.countries | where: "iol_name", team_item.country %}
+		{% assign flag_country = site.data.ioling.countries | where: "iol_name", team_item.country | first %}
 		<tr bgcolor="#EEEEEE">
 			<td>Silver</td>
 			<td>{{ team_item.score }}</td>
-			<td>{% for country in flag_country %}
-				<img class="tinyflag" alt="Flag" src="/images/flags/{{ country.flag }}" />
-				{% endfor %}
+			<td>{% if flag_country %}<img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" />{% endif %}
 			{{ team_item.team }}</td>
 		</tr>
 		{% endfor %}
 		{% for team_item in contest_item.team.bronze %}
-		{% assign flag_country = site.data.ioling.countries | where: "iol_name", team_item.country %}
+		{% assign flag_country = site.data.ioling.countries | where: "iol_name", team_item.country | first %}
 		<tr bgcolor="#EEDECC">
 			<td>Bronze</td>
 			<td>{{ team_item.score }}</td>
-			<td>{% for country in flag_country %}
-				<img class="tinyflag" alt="Flag" src="/images/flags/{{ country.flag }}" />
-				{% endfor %}
+			<td>{% if flag_country %}<img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" />{% endif %}
 			{{ team_item.team }}</td>
 		</tr>
 		{% endfor %}
@@ -188,13 +168,11 @@ The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.indiv
 	</thead>
 	<tbody>
 		{% for best_sol_item in contest_item.individual.best_solution %}
-		{% assign flag_country = site.data.ioling.countries | where: "iol_name", best_sol_item.country %}
+		{% assign flag_country = site.data.ioling.countries | where: "iol_name", best_sol_item.country | first %}
 		<tr bgcolor="#FFFFFF">
 			<td>{{ best_sol_item.problem }}</td>
 			<td>{{ best_sol_item.name }}</td>
-			<td>{% for country in flag_country %}
-				<img class="tinyflag" alt="Flag" src="/images/flags/{{ country.flag }}" />
-				{% endfor %}
+			<td>{% if flag_country %}<img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" />{% endif %}
 			{{ best_sol_item.team }}</td>
 		</tr>
 		{% endfor %}
