@@ -1,10 +1,7 @@
-{% assign contest_meta = site.data.ioling.contests | where: "year", include.year %}
-{% for one_contest_meta in contest_meta %}
-{% assign number_of_participants = one_contest_meta.number_of_participants %}
-{% endfor %}
+{% assign contest_meta = site.data.ioling.contests | where: "year", include.year | first %}
+{% assign number_of_participants = contest_meta.number_of_participants %}
 
-{% assign contest = site.data.ioling.full_results | where: "year", include.year %}
-{% for contest_item in contest %}
+{% assign contest_item = site.data.ioling.full_results | where: "year", include.year | first %}
 
 The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.individual.silver.size | plus: contest_item.individual.bronze.size }} medals ({{ contest_item.individual.gold.size }} gold, {{ contest_item.individual.silver.size }} silver, and {{ contest_item.individual.bronze.size }} bronze) out of {{ number_of_participants }} participants, as well as {% if contest_item.individual.honorable_mention %}{{ contest_item.individual.honorable_mention.size }} honorable mentions, {% endif %}{{ contest_item.team.gold.size | plus: contest_item.team.silver.size | plus: contest_item.team.bronze.size }} team contest trophies, {{ contest_item.average.gold.size | plus: contest_item.average.silver.size | plus: contest_item.average.bronze.size }} team cups for highest average score, and {{ contest_item.individual.best_solution.size }} best solution prizes.
 
@@ -178,5 +175,3 @@ The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.indiv
 		{% endfor %}
 	</tbody>
 </table>
-
-{% endfor %}
