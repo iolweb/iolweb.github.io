@@ -12,8 +12,8 @@
 		{% for contest_item in site.data.ioling.future %}
 		<tr>
 			<td>{{ contest_item.year }}</td>
-			{% if contest_item.country %}
-			<td>{{ contest_item.city }}, {{ contest_item.country }}
+			{% if contest_item.city %}
+			<td>{{ contest_item.city }}{% if contest_item.country %}, {{ contest_item.country }}{% endif %}
 			{% if contest_item.flag %} <img class="tinyflag" alt="Flag" src="{{ contest_item.flag }}" />{% endif %}
 			</td>
 			<td>{{ contest_item.poc }} 

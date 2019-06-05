@@ -19,7 +19,7 @@ Each participating country sends 1-2 teams of four contestants each.  The method
 
 No prior knowledge is necessary to compete at the IOL: every problem is self-contained.
 
-The best preparation possible is to attempt as many past problems as you can.  Start with the [samples](/problems/samples/) if you're new to IOL problems and when you're ready take a stab at our [past problems](/problems/by_year/).  If you've done all those and can't get enough, the [national olympiads](#by_country) below also keep archives of past problems.
+The best preparation possible is to attempt as many past problems as you can.  Start with the [samples](/problems/samples/) if you're new to IOL problems and when you're ready take a stab at our [past problems](/problems/by_year/).  If you've done all those and can't get enough, the [national olympiads](/local_organizers/) below also keep archives of past problems.
 
 ### What if my country doesn't participate?
 

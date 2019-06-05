@@ -1,25 +1,28 @@
 - year: 2019
-  country: Korea 
   city: Yongin
+  country: Korea
   flag: /images/flags/kr.png
   poc: Minkyu Kim
   contact: iol2019@krlo.kr
   website: http://iol2019.com
 
 - year: 2020
-  country: Latvia
   city: Riga
+  country: Latvia
   flag: /images/flags/lv.png
-  poc: Vladimir Litvinsky
+  poc: Vladimirs Ļitvinskis
+  contact: lit@progmeistars.lv
 
 - year: 2021
-  # country: Isle of Man
-  city: (TBD)
+  city: Isle of Man
+  country: 
+  flag: /images/flags/im.png
+  poc: N/A
+  contact:
 
 - year: 2022
-  # country: Canada
-  city: (TBD)
-
-- year: 2023
-  # country: Canada
-  city: (TBD)
+  city: Quebec
+  country: Canada
+  flag: /images/flags/cfr.png
+  poc: N/A
+  contact:
