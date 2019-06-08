@@ -20,6 +20,14 @@
 <li><a href="/problems/{{ contest_item.year }}/i{{ problem_item.number }}/">{{ problem_item.name }}</a></li>
 {% endfor %}
 </ol>
+<button href="#" data-dropdown="drop{{ contest_item.year }}ip" aria-controls="drop{{ contest_item.year }}ip" aria-expanded="false" class="button dropdown small">Problems</button>
+<ul id="drop{{ contest_item.year }}ip" data-dropdown-content class="f-dropdown" aria-hidden="true">
+  <li><a href="/rules/rules.pdf">English (UK)</a></li>
+</ul>
+<button href="#" data-dropdown="drop{{ contest_item.year }}is" aria-controls="drop{{ contest_item.year }}is" aria-expanded="false" class="button dropdown small">Solutions</button>
+<ul id="drop{{ contest_item.year }}is" data-dropdown-content class="f-dropdown" aria-hidden="true">
+  <li><a href="/rules/rules.pdf">English (UK)</a></li>
+</ul>
 </div>
 <div class="medium-6 columns">
 <h4>Team Contest</h4>

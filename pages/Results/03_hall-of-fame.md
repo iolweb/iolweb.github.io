@@ -10,7 +10,7 @@ widget:
   title: "Hall of Fame"
   url: '/results/hall_of_fame/'
   image: hall_of_fame.jpg
-  text: 'Hall of Fame'
+  text: 
 ---
 
 The Hall of Fame documents unusual or rare achievements among contestants and teams.

@@ -22,6 +22,10 @@
       family: Afroasiatic
   author:
     - name: Ivan Derzhanski
+  best_solutions:
+  - country: Russia
+    team: Russia-St. Petersburg
+    name: Yulia Glazova
 
 - year: 2003
   round: Individual
@@ -46,6 +50,16 @@
       family: Abkhaz-Adyghean (North-West Caucasian)
   author:
     - name: Yakov Testelets
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 3
+    name: Ivaylo Grozdev
+  - country: Estonia
+    team: Estonia
+    name: Kadri Rosmaa
+  - country: Russia
+    team: Russia-St. Petersburg
+    name: Alexandra Petrova
 
 - year: 2003
   round: Individual
@@ -58,6 +72,22 @@
       family: Indo-European
   author:
     - name: Boris Iomdin
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 3
+    name: Ivaylo Grozdev
+  - country: Czechia
+    team: Czech Republic
+    name: Jana Kuřetová
+  - country: Latvia
+    team: Latvia
+    name: Margarita Borovkova
+  - country: Russia
+    team: Russia-Moscow
+    name: Maria Shkapa
+  - country: Russia
+    team: Russia-St. Petersburg
+    name: Alexandra Petrova
 
 - year: 2003
   round: Team
@@ -81,6 +111,10 @@
   page: 6
   author:
     - name: Maria Rubinstein
+  best_solutions:
+  - country: Russia
+    team: Russia-St. Petersburg
+    name: Yulia Glazova
 
 - year: 2003
   round: Team
@@ -102,6 +136,19 @@
       family: Ge
   author:
     - name: Peter Zubkov
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 2
+    name: Desislava Radieva
+  - country: Estonia
+    team: Estonia
+    name: Natalja Hartšenko
+  - country: Russia
+    team: Russia-St. Petersburg
+    name: Sophia Oskolskaya
+  - country: Russia
+    team: Russia-St. Petersburg
+    name: Kirill Grigoryev
 
 - year: 2004
   round: Individual
@@ -112,6 +159,13 @@
   author:
     - name: Boris Iomdin
     - name: Leonid Iomdin
+  best_solutions:
+  - country: Netherlands
+    team: Netherlands
+    name: Alexey Nazarov
+  - country: Poland
+    team: Poland
+    name: Tymon Słoczyński
 
 - year: 2004
   round: Individual
@@ -127,6 +181,10 @@
   author:
     - name: Svetlana Burlak
     - name: Ilya Itkin
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 1
+    name: Ralitsa Markova
 
 - year: 2004
   round: Individual
@@ -140,6 +198,13 @@
   author:
     - name: Ivan Derzhanski
   solvers_choice: True
+  best_solutions:
+  - country: Estonia
+    team: Estonia
+    name: Natalja Hartšenko
+  - country: Latvia
+    team: Latvia
+    name: Taisija Šantare
 
 - year: 2004
   round: Individual
@@ -165,6 +230,19 @@
   author:
     - name: Alexander Berdichevsky
     - name: Boris Iomdin
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 2
+    name: Desislava Radieva
+  - country: Estonia
+    team: Estonia
+    name: Natalja Hartšenko
+  - country: Russia
+    team: Russia-St. Petersburg
+    name: Sophia Oskolskaya
+  - country: Russia
+    team: Russia-St. Petersburg
+    name: Kirill Grigoryev
 
 - year: 2005
   round: Individual
@@ -178,6 +256,10 @@
   author:
     - name: Boris Iomdin
   solvers_choice: True
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 1
+    name: Ivan Dobrev
 
 - year: 2005
   round: Individual
@@ -190,6 +272,16 @@
       family: Nilo-Saharan
   author:
     - name: Ksenia Guiliarova
+  best_solutions:
+  - country: Russia
+    team: Moscow
+    name: Alexander Piperski
+  - country: Netherlands
+    team: Netherlands 1
+    name: Alexei Nazarov
+  - country: Serbia
+    team: Yugoslavia
+    name: Jovana Ateljević
 
 - year: 2005
   round: Individual
@@ -202,6 +294,13 @@
       family: Uralic
   author:
     - name: Ivan Derzhanski
+  best_solutions:
+  - country: Estonia
+    team: Estonia
+    name: Simon Vigonski
+  - country: Poland
+    team: Poland 2
+    name: Maciej Kanafa
 
 - year: 2005
   round: Individual
@@ -214,6 +313,10 @@
       family: Niger-Congo
   author:
     - name: Ivan Derzhanski
+  best_solutions:
+  - country: Russia
+    team: Moscow
+    name: Elena Khanina
 
 - year: 2005
   round: Individual
@@ -226,6 +329,10 @@
       family: Indo-European
   author:
     - name: Alexander Lubotsky
+  best_solutions:
+  - country: Netherlands
+    team: Netherlands 2
+    name: Robin Jastrzebski
 
 - year: 2005
   round: Team
@@ -239,6 +346,10 @@
   author:
     - name: Maarten Kossmann
     - name: Alexander Lubotsky
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 1
+    name: Ivan Dobrev
 
 - year: 2006
   round: Individual
@@ -264,6 +375,10 @@
       family: Indo-European
   author:
     - name: Boris Iomdin
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 2
+    name: Ivaylo Dimitrov
 
 - year: 2006
   round: Individual
@@ -276,6 +391,10 @@
       family: Austro-Asiatic
   author:
     - name: Sergey Dmitrenko
+  best_solutions:
+  - country: Russia
+    team: St. Petersburg
+    name: Maria Kholodilova
 
 - year: 2006
   round: Individual
@@ -288,6 +407,10 @@
       family: Tungusic
   author:
     - name: Boris Iomdin
+  best_solutions:
+  - country: Russia
+    team: St. Petersburg
+    name: Natalia Ostapuk
 
 - year: 2006
   round: Individual
@@ -300,6 +423,16 @@
       family: Niger-Congo
   author:
     - name: Olga Fyodorova
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 2
+    name: Desislava Radieva
+  - country: Estonia
+    team: Estonia 1
+    name: Diana Aitai
+  - country: Poland
+    team: Poland 2
+    name: Paweł Świątkowski
 
 - year: 2006
   round: Team
@@ -339,6 +472,10 @@
       family: Isolate
   author:
     - name: Dmitry Gerasimov
+  best_solutions:
+  - country: Estonia
+    team: Estonia 2
+    name: Melissa Saviste
 
 - year: 2007
   round: Individual
@@ -351,6 +488,10 @@
       family: South Caucasian
   author:
     - name: Yakov Testelets
+  best_solutions:
+  - country: Poland
+    team: Poland 1
+    name: Łukasz Cegieła
 
 - year: 2007
   round: Individual
@@ -363,6 +504,10 @@
       family: Trans-New Guinea
   author:
     - name: Ivan Derzhanski
+  best_solutions:
+  - country: Poland
+    team: Poland 1
+    name: Mateusz Dolata
 
 - year: 2007
   round: Individual
@@ -401,6 +546,10 @@
       family: Algonquian
   author:
     - name: Bozhidar Bozhanov
+  best_solutions:
+  - country: USA
+    team: USA 2
+    name: Hanzhi Zhu
 
 - year: 2008
   round: Individual
@@ -413,6 +562,13 @@
       family: Indo-European
   author:
     - name: Alexander Piperski
+  best_solutions:
+  - country: Netherlands
+    team: Netherlands
+    name: Erle Morgaine Monfils
+  - country: Slovenia
+    team: Slovenia
+    name: Miha Čančula
 
 - year: 2008
   round: Individual
@@ -428,6 +584,13 @@
   author:
     - name: Ksenia Gilyarova
   solvers_choice: True
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria West
+    name: Alexander Daskalov
+  - country: Poland
+    team: Poland 2
+    name: Radosław Burny
 
 - year: 2008
   round: Individual
@@ -440,6 +603,10 @@
       family: Mixe-Zoquean
   author:
     - name: Ivan Derzhanski
+  best_solutions:
+  - country: USA
+    team: USA 2
+    name: Jae-Kyu Lee
 
 - year: 2008
   round: Individual
@@ -466,6 +633,10 @@
       family: Sino-Tibetan
   author:
     - name: Todor Tchervenkov
+  best_solutions:
+  - country: USA
+    team: USA 2
+    name: Hanzhi Zhu
 
 - year: 2009
   round: Individual
@@ -480,6 +651,13 @@
     - name: Evgenia Korovina
     - name: Ivan Derzhanski
   solvers_choice: True
+  best_solutions:
+  - country: Russia
+    team: Moscow
+    name: Andrey Nikulin
+  - country: USA
+    team: USA Red
+    name: Alan Huang
 
 - year: 2009
   round: Individual
@@ -496,6 +674,10 @@
     - name: N'Ko
   author:
     - name: Ivan Derzhanski
+  best_solutions:
+  - country: Russia
+    team: Moscow
+    name: Elena Volkova
 
 - year: 2009
   round: Individual
@@ -509,6 +691,13 @@
   author:
     - name: Ivan Derzhanski
     - name: Maria Cydzik
+  best_solutions:
+  - country: India
+    team: India
+    name: Aakanksha Sarda
+  - country: Republic of Korea
+    team: Korea 1
+    name: Hye jin Ryu
 
 - year: 2009
   round: Individual
@@ -521,6 +710,16 @@
       family: Indo-European
   author:
     - name: Alexander Piperski
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 1
+    name: Diana Rumenova Sofronieva
+  - country: Poland
+    team: Poland 1
+    name: Łukasz Cegieła
+  - country: Russia
+    team: Moscow
+    name: Andrey Nikulin
 
 - year: 2009
   round: Individual
@@ -534,6 +733,10 @@
   author:
     - name: Bozhidar Bozhanov
     - name: Todor Tchervenkov
+  best_solutions:
+  - country: USA
+    team: USA Blue
+    name: John Berman
 
 - year: 2009
   round: Team
@@ -546,6 +749,13 @@
       family: Austro-Asiatic
   author:
     - name: Boris Iomdin
+  best_solutions:
+  - country: Russia
+    team: Moscow
+    name: Andrey Nikulin
+  - country: USA
+    team: USA Red
+    name: Alan Huang
 
 - year: 2010
   round: Individual
@@ -558,6 +768,13 @@
       family: Northeast Causasian
   author:
     - name: Ivan Derzhanski
+  best_solutions:
+  - country: Poland
+    team: Poland 1
+    name: Szymon Kanonowicz
+  - country: USA
+    team: USA Blue
+    name: Tian-Yi Damien Jiang
 
 - year: 2010
   round: Individual
@@ -570,6 +787,13 @@
       family: Austronesian
   author:
     - name: Ksenia Gilyarova
+  best_solutions:
+  - country: Republic of Korea
+    team: Korea 1
+    name: Jeeun Song
+  - country: USA
+    team: USA Blue
+    name: Martin Camacho
 
 - year: 2010
   round: Individual
@@ -582,6 +806,13 @@
   author:
     - name: Alexander Piperski
   solvers_choice: True
+  best_solutions:
+  - country: Germany
+    team: Germany
+    name: Nadine Sedlaczeck
+  - country: Russia
+    team: Moscow
+    name: Vitaly Pavlenko
 
 - year: 2010
   round: Individual
@@ -591,6 +822,16 @@
   page: 3
   author:
     - name: Alexander Berdichevski
+  best_solutions:
+  - country: Latvia
+    team: Latvia
+    name: Aleksejs Peguševs
+  - country: Slovenia
+    team: Slovenia 1
+    name: Tadej Novak
+  - country: USA
+    team: USA Red
+    name: Ben Sklaroff
 
 - year: 2010
   round: Individual
@@ -603,6 +844,16 @@
       family: Indo-European
   author:
     - name: Boris Iomdin
+  best_solutions:
+  - country: Russia
+    team: Moscow
+    name: Andrey Nikulin
+  - country: Russia
+    team: St. Petersburg
+    name: Alexey Doilnitsyn
+  - country: UK
+    team: UK 2
+    name: Nathan Somers
 
 - year: 2010
   round: Team
@@ -615,6 +866,13 @@
       family: Mongolic
   author:
     - name: Boris Iomdin
+  best_solutions:
+  - country: Poland
+    team: Poland 1
+    name: Szymon Kanonowicz
+  - country: USA
+    team: USA Blue
+    name: Tian-Yi Damien Jiang
 
 - year: 2011
   round: Individual
@@ -639,6 +897,13 @@
       family: North Germanic
   author:
     - name: Alexander Piperski
+  best_solutions:
+  - country: Slovenia
+    team: Slovenia
+    name: Rok Kaufman
+  - country: USA
+    team: USA Red
+    name: Morris Alper
 
 - year: 2011
   round: Individual
@@ -651,6 +916,10 @@
       family: Mande
   author:
     - name: Olga Kuznetsova
+  best_solutions:
+  - country: USA
+    team: USA Blue
+    name: Caroline Ellison
 
 - year: 2011
   round: Individual
@@ -663,6 +932,13 @@
       family: Uto-Aztecan
   author:
     - name: Liudmila Fedorova
+  best_solutions:
+  - country: Russia
+    team: St. Petersburg
+    name: Vadim Tukh
+  - country: USA
+    team: USA Blue
+    name: Alexander Wade
 
 - year: 2011
   round: Individual
@@ -699,6 +975,10 @@
       family: Pama-Nyungan
   author:
     - name: Artūrs Semeņuks
+  best_solutions:
+  - country: USA
+    team: USA 1
+    name: Darryl Wu
 
 - year: 2012
   round: Individual
@@ -712,6 +992,16 @@
   author:
     - name: Ksenia Gilyarova
   solvers_choice: True
+  best_solutions:
+  - country: Brazil
+    team: Brazil
+    name: Rafael Kazuhiro Miyazaki
+  - country: Estonia
+    team: Estonia
+    name: Ants-Oskar Mäesalu
+  - country: India
+    team: India
+    name: Yash Sinha
 
 - year: 2012
   round: Individual
@@ -724,6 +1014,13 @@
       family: Isolate
   author:
     - name: Natalya Zaika
+  best_solutions:
+  - country: Latvia
+    team: Latvia
+    name: Estere Šeinkmane
+  - country: USA
+    team: USA 2
+    name: Alexander Wade
 
 - year: 2012
   round: Individual
@@ -736,6 +1033,13 @@
       family: Austronesian
   author:
     - name: Maria Konoshenko
+  best_solutions:
+  - country: Russia
+    team: Moscow
+    name: Anita Mudzhumdar
+  - country: USA
+    team: USA 1
+    name: Anderson  Wang
 
 - year: 2012
   round: Individual
@@ -749,6 +1053,13 @@
   author:
     - name: Boris Iomdin
     - name: Alexander Pipersky
+  best_solutions:
+  - country: Russia
+    team: St. Petersburg
+    name: Anton Sokolov
+  - country: USA
+    team: USA 2
+    name: Alexander Wade
 
 - year: 2012
   round: Team
@@ -759,6 +1070,10 @@
   language:
     - name: Lao
       family: Tai-Kadai
+  best_solutions:
+  - country: USA
+    team: USA 1
+    name: Darryl Wu
 
 - year: 2013
   round: Individual
@@ -772,6 +1087,13 @@
   author:
     - name: Bozhidar Bozhanov
     - name: Ivan Derzhanski
+  best_solutions:
+  - country: Czechia
+    team: Czech Republic
+    name: Matyáš Medek
+  - country: Republic of Korea
+    team: Korea Sori
+    name: Huisu Yun
 
 - year: 2013
   round: Individual
@@ -784,6 +1106,13 @@
       family: Yukaghir
   author:
     - name: Ivan Derzhanski
+  best_solutions:
+  - country: Czechia
+    team: Czech Republic
+    name: Matyáš Medek
+  - country: Latvia
+    team: Latvia
+    name: Estere Šeinkmane
 
 - year: 2013
   round: Individual
@@ -808,6 +1137,10 @@
       family: Austronesian
   author:
     - name: Ksenia Gilyarova
+  best_solutions:
+  - country: Russia
+    team: St. Petersburg
+    name: Kuzma Smirnov
 
 - year: 2013
   round: Individual
@@ -821,6 +1154,13 @@
   author:
     - name: Boris Iomdin
   solvers_choice: True
+  best_solutions:
+  - country: Brazil
+    team: Brazil
+    name: Gabriel Alves da Silva Diniz
+  - country: India
+    team: India
+    name: Nilai Sarda
 
 - year: 2013
   round: Team
@@ -833,6 +1173,13 @@
       family: 
   author:
     - name: Ivan Derzhanski
+  best_solutions:
+  - country: Czechia
+    team: Czech Republic
+    name: Matyáš Medek
+  - country: Republic of Korea
+    team: Korea Sori
+    name: Huisu Yun
 
 - year: 2014
   round: Individual
@@ -845,6 +1192,13 @@
       family: Trans-New Guinea
   author:
     - name: Ivan Derzhanski
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 1
+    name: Elena Chaparova
+  - country: Russia
+    team: Russia 2
+    name: Gleb Nikolaev
 
 - year: 2014
   round: Individual
@@ -857,6 +1211,16 @@
       family: Tanoan
   author:
     - name: Aleksejs Peguševs
+  best_solutions:
+  - country: Romania
+    team: Romania
+    name: Dan Mircea Mirea
+  - country: USA
+    team: USA Red
+    name: Darryl Wu
+  - country: Poland
+    team: Poland 1
+    name: Miłosz Mazurkiewicz-Dubieński
 
 - year: 2014
   round: Individual
@@ -870,6 +1234,13 @@
   author:
     - name: Ivan Derzhanski
   solvers_choice: True
+  best_solutions:
+  - country: Canada
+    team: Canada
+    name: Simon Huang
+  - country: India
+    team: India
+    name: Anindya Sharma
 
 - year: 2014
   round: Individual
@@ -882,6 +1253,10 @@
       family: Niger-Congo
   author:
     - name: Artūrs Semeņuks
+  best_solutions:
+  - country: USA
+    team: USA Blue
+    name: Catherine Wu
 
 - year: 2014
   round: Individual
@@ -894,6 +1269,10 @@
       family: Niger-Congo
   author:
     - name: Boris Iomdin
+  best_solutions:
+  - country: China
+    team: China 1
+    name: Tianlu Chen
 
 - year: 2014
   round: Team
@@ -907,6 +1286,13 @@
   author:
     - name: Boris Iomdin
     - name: Ivan Derzhanski
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 1
+    name: Elena Chaparova
+  - country: Russia
+    team: Russia 2
+    name: Gleb Nikolaev
 
 - year: 2015
   round: Individual
@@ -921,6 +1307,10 @@
       family: South Central Papuan
   author:
     - name: Milena Veneva
+  best_solutions:
+  - country: Slovenia
+    team: Slovenia
+    name: Matija Lovšin
 
 - year: 2015
   round: Individual
@@ -933,6 +1323,10 @@
       family: North Caucasian
   author:
     - name: Peter Arkadiev
+  best_solutions:
+  - country: Poland
+    team: Poland White
+    name: Stanislaw Frejlak
 
 - year: 2015
   round: Individual
@@ -943,6 +1337,13 @@
   author:
     - name: Alexander Piperski
   solvers_choice: True
+  best_solutions:
+  - country: Ukraine
+    team: Ukraine 1
+    name: Ada Melentyeva
+  - country: USA
+    team: USA Red
+    name: James Bloxham
 
 - year: 2015
   round: Individual
@@ -955,6 +1356,10 @@
       family: West Barkly
   author:
     - name: Ksenia Gilyarova
+  best_solutions:
+  - country: Romania
+    team: Romania
+    name: Dan Mircea Mirea
 
 - year: 2015
   round: Individual
@@ -967,6 +1372,13 @@
       family: Afroasiatic
   author:
     - name: Alexander Piperski
+  best_solutions:
+  - country: USA
+    team: USA Red
+    name: James Wedgwood
+  - country: Taiwan
+    team: Taiwan
+    name: Isabelle Lee Yen
 
 - year: 2015
   round: Team
@@ -979,6 +1391,10 @@
       family: Niger-Congo
   author:
     - name: Boris Iomdin
+  best_solutions:
+  - country: Slovenia
+    team: Slovenia
+    name: Matija Lovšin
 
 - year: 2016
   round: Individual
@@ -992,6 +1408,13 @@
   author:
     - name: Ksenia Gilyarova
   solvers_choice: True
+  best_solutions:
+  - country: Canada
+    team: Canada
+    name: Kevin Sun
+  - country: UK
+    team: UK
+    name: Liam McKnight
 
 - year: 2016
   round: Individual
@@ -1004,6 +1427,13 @@
       family: Indo-European
   author:
     - name: Tae Hun Lee
+  best_solutions:
+  - country: Australia
+    team: Australia 1
+    name: Max Zhang
+  - country: China
+    team: China 2
+    name: Bai Ruiheng
 
 - year: 2016
   round: Individual
@@ -1016,6 +1446,10 @@
       family: Eastern Sudanic
   author:
     - name: Aleksejs Peguševs
+  best_solutions:
+  - country: Sweden
+    team: Sweden
+    name: David Avellan-Hultman
 
 - year: 2016
   round: Individual
@@ -1028,6 +1462,13 @@
       family: Sepik
   author:
     - name: Artūrs Semeņuks
+  best_solutions:
+  - country: Republic of Korea
+    team: Korea Woori
+    name: Jaeyeong Yang
+  - country: Russia
+    team: Russia Belka
+    name: Ivan Samodelkin
 
 - year: 2016
   round: Individual
@@ -1040,6 +1481,10 @@
       family: Aymaran
   author:
     - name: Ivan Derzhanski
+  best_solutions:
+  - country: Japan
+    team: Japan Samurai
+    name: Hirotaka Sato
 
 - year: 2016
   round: Team
@@ -1052,6 +1497,13 @@
       family: Tuu
   author:
     - name: Danylo Mysak
+  best_solutions:
+  - country: Canada
+    team: Canada
+    name: Kevin Sun
+  - country: UK
+    team: UK
+    name: Liam McKnight
 
 - year: 2017
   round: Individual
@@ -1064,6 +1516,16 @@
       family: Atlantic Congo
   author:
     - name: Milena Veneva
+  best_solutions:
+  - country: India
+    team: India Saffron
+    name: Angikar Ghosal
+  - country: Poland
+    team: Poland Ą
+    name: Przemysław Podleśny
+  - country: Slovenia
+    team: Slovenia
+    name: Ana Meta Dolinar
 
 - year: 2017
   round: Individual
@@ -1076,6 +1538,10 @@
       family: Timor-Alor-Pantar
   author:
     - name: Aleksejs Peguševs
+  best_solutions:
+  - country: Taiwan
+    team: TaiTWO
+    name: Ruei Hung Alex Lee
 
 - year: 2017
   round: Individual
@@ -1088,6 +1554,10 @@
       family: Atlantic-Congo
   author:
     - name: Bruno L'Astorina
+  best_solutions:
+  - country: USA
+    team: USA Red
+    name: Brian Xiao
 
 - year: 2017
   round: Individual
@@ -1103,6 +1573,13 @@
   author:
     - name: Tae Hun Lee
   solvers_choice: True
+  best_solutions:
+  - country: Estonia
+    team: Estonia
+    name: Joonas Jürgen Kisel
+  - country: Poland
+    team: Poland Ą
+    name: Przemysław Podleśny
 
 - year: 2017
   round: Individual
@@ -1115,6 +1592,10 @@
       family: Austronesian
   author:
     - name: Ivan Derzhanski
+  best_solutions:
+  - country: Russia
+    team: Russia Strelka
+    name: Daniel Vedeneev
 
 - year: 2017
   round: Team
@@ -1129,6 +1610,16 @@
     - name: Emoji
   author:
     - name: Boris Iomdin
+  best_solutions:
+  - country: India
+    team: India Saffron
+    name: Angikar Ghosal
+  - country: Poland
+    team: Poland Ą
+    name: Przemysław Podleśny
+  - country: Slovenia
+    team: Slovenia
+    name: Ana Meta Dolinar
 
 - year: 2018
   round: Individual
@@ -1141,6 +1632,13 @@
       family: Muskogean
   author:
     - name: Aleksejs Peguševs
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 1
+    name: Elena Keskinova
+  - country: USA
+    team: USA Red
+    name: Andrew Tockman
 
 - year: 2018
   round: Individual
@@ -1154,6 +1652,13 @@
   author:
     - name: Peter Arkadiev
   solvers_choice: True
+  best_solutions:
+  - country: Taiwan
+    team: Taiwan Earthquake
+    name: You-Kuan Lin
+  - country: India
+    team: India Green
+    name: Aparna Ajit Gupte
 
 - year: 2018
   round: Individual
@@ -1166,6 +1671,16 @@
       family: Arawakan
   author:
     - name: André Nikulin
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 1
+    name: Elena Keskinova
+  - country: Brazil
+    team: Brazil Pães
+    name: Artur Corrêa Souza
+  - country: UK
+    team: UK U
+    name: Sean White
 
 - year: 2018
   round: Individual
@@ -1178,6 +1693,10 @@
       family: Torricelli
   author:
     - name: Aleksejs Peguševs
+  best_solutions:
+  - country: India
+    team: India Saffron
+    name: Rujul Gandhi
 
 - year: 2018
   round: Individual
@@ -1190,6 +1709,16 @@
       family: Atlantic-Congo
   author:
     - name: Ksenia Gilyarova
+  best_solutions:
+  - country: India
+    team: India Saffron
+    name: Angikar Ghosal
+  - country: USA
+    team: USA Red
+    name: Swapnil Garg
+  - country: Poland
+    team: Poland Biali
+    name: Przemysław Podleśny
 
 - year: 2018
   round: Team
@@ -1202,3 +1731,10 @@
       family: Jê
   author:
     - name: André Nikulin
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 1
+    name: Elena Keskinova
+  - country: USA
+    team: USA Red
+    name: Andrew Tockman

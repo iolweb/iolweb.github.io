@@ -10,7 +10,7 @@ widget:
   title: "Results by Country"
   url: '/results/by_country/'
   image: by_country.jpg
-  text: 'Results by Country'
+  text: 
 ---
 
-By Country
+_Under Construction_

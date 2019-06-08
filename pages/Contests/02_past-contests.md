@@ -7,7 +7,7 @@ widget:
   title: "Past Contests"
   url: '/past_contests/'
   image: dublin2017.jpg
-  text: 'Past Contests'
+  text: "Learn more about the past IOL's!"
 title: "Past Contests"
 category: contests
 sitemap: false

@@ -5,6 +5,14 @@
 
 The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.individual.silver.size | plus: contest_item.individual.bronze.size }} medals ({{ contest_item.individual.gold.size }} gold, {{ contest_item.individual.silver.size }} silver, and {{ contest_item.individual.bronze.size }} bronze) out of {{ number_of_participants }} participants, as well as {% if contest_item.individual.honorable_mention %}{{ contest_item.individual.honorable_mention.size }} honorable mentions, {% endif %}{{ contest_item.team.gold.size | plus: contest_item.team.silver.size | plus: contest_item.team.bronze.size }} team contest trophies, {{ contest_item.average.gold.size | plus: contest_item.average.silver.size | plus: contest_item.average.bronze.size }} team cups for highest average score, and {{ contest_item.individual.best_solution.size }} best solution prizes.
 
+<nav id="pagination">
+    <a class="button radius" href="/{{ include.year }}">Summary &raquo;</a>
+    <a class="button radius" href="/problems/{{ include.year }}">Problems &raquo;</a>
+    <a class="button radius" href="/participants/{{ include.year }}">Participants &raquo;</a>
+<!--     <a class="button radius" href="/results/{{ include.year }}">Gallery &raquo;</a>
+ -->  
+</nav>
+
 <h3>Individual Contest Medalists</h3>
 <table width="100%">
 	<thead>

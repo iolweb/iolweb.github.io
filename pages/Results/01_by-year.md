@@ -10,7 +10,7 @@ widget:
   title: "Results by Year"
   url: '/results/by_year/'
   image: by_year.jpg
-  text: 'Results by Year'
+  text: 
 ---
 
 {% include ioling/past_contests.html link='results' %}

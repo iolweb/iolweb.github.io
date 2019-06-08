@@ -2,10 +2,8 @@
 
 The {{ site.data.ioling.numbers[include.n].ordinal_uppercase }} {{ site.data.ioling.contests[include.n].title }} was held in {{ site.data.ioling.contests[include.n].city }}, {{ site.data.ioling.contests[include.n].country }} from {{ site.data.ioling.contests[include.n].startDate }} to {{ site.data.ioling.contests[include.n].endDate }}, {{ site.data.ioling.contests[include.n].year }}.
 
-{% assign contest_meta = site.data.ioling.contests | where: "year", include.year %}
-{% for one_contest_meta in contest_meta %}
-{% assign number_of_participants = one_contest_meta.number_of_participants %}
-{% endfor %}
+{% assign contest_meta = site.data.ioling.contests | where: "year", include.year | first %}
+{% assign number_of_participants = contest_meta.number_of_participants %}
 
 {% assign contest_item = site.data.ioling.full_results | where: "year", include.year | first%}
 
@@ -13,8 +11,10 @@ The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.indiv
 
 <nav id="pagination">
     <a class="button radius" href="/results/{{ include.year }}">Full Results &raquo;</a>
-    <a class="button radius" href="/results/{{ include.year }}">Problems &raquo;</a>
-    <a class="button radius" href="/results/{{ include.year }}">Gallery &raquo;</a>
-  </nav>
+    <a class="button radius" href="/problems/{{ include.year }}">Problems &raquo;</a>
+    <a class="button radius" href="/participants/{{ include.year }}">Participants &raquo;</a>
+<!--     <a class="button radius" href="/results/{{ include.year }}">Gallery &raquo;</a>
+ -->  
+</nav>
 
 <- ->

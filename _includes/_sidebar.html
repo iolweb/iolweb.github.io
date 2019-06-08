@@ -13,4 +13,46 @@
 			{% endfor %}
 	</div>
 	{% endif %}
+	{% if page.past_problems %}
+	<div class="panel radius">
+		<h3>Past Problems</h3>
+			{% assign counter = 1 %}
+			{% for page in site.pages limit:100 %}
+			{% if page.past_problems %}
+			<div id="panel{{ counter }}" class="content">
+				<a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Read {{ page.title | escape_once }}"><strong>{{ page.title }}</strong></a>
+			</div>
+			{% assign counter=counter | plus:1 %}
+			{% endif %}
+			{% endfor %}
+	</div>
+	{% endif %}
+	{% if page.results_by_year %}
+	<div class="panel radius">
+		<h3>Results by Year</h3>
+			{% assign counter = 1 %}
+			{% for page in site.pages limit:100 %}
+			{% if page.results_by_year %}
+			<div id="panel{{ counter }}" class="content">
+				<a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Read {{ page.title | escape_once }}"><strong>{{ page.title }}</strong></a>
+			</div>
+			{% assign counter=counter | plus:1 %}
+			{% endif %}
+			{% endfor %}
+	</div>
+	{% endif %}
+	{% if page.participants_by_year %}
+	<div class="panel radius">
+		<h3>Participants by Year</h3>
+			{% assign counter = 1 %}
+			{% for page in site.pages limit:100 %}
+			{% if page.participants_by_year %}
+			<div id="panel{{ counter }}" class="content">
+				<a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Read {{ page.title | escape_once }}"><strong>{{ page.title }}</strong></a>
+			</div>
+			{% assign counter=counter | plus:1 %}
+			{% endif %}
+			{% endfor %}
+	</div>
+	{% endif %}
 </aside>
