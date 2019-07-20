@@ -1066,6 +1066,33 @@
       - year: 2016
         team: Bulgaria 2
         score: 39
+  individual_contest_team_average_scores:
+    first:
+    - year: 2006
+      team: Bulgaria 1
+      score: 73
+    - year: 2005
+      team: Bulgaria 1
+      score: 81.375
+    - year: 2004
+      team: Bulgaria 1
+      score: 79.5
+    second:
+    - year: 2018
+      team: Bulgaria 1
+      score: 70.15
+    - year: 2015
+      team: Bulgaria 2
+      score: 53.25
+    - year: 2009
+      team: Bulgaria 1
+      score: 62
+    - year: 2007
+      team: Bulgaria 2
+      score: 59.250
+    - year: 2006
+      team: Bulgaria 2
+      score: 72.33
   best_solutions:
       - year: 2018
         team: Bulgaria 1
@@ -1117,7 +1144,7 @@
         problem: 5
   summary_1: Bulgaria was one of the original six countries to participate in the IOL, and has competed in 16 olympiads. They most recently competed in 2018.
   summary_2: They have sent 130 participants in 34 teams.
-  summary_3: In competition, teams from Bulgaria have brought home 62 medals (17 gold, 18 silver and 27 bronze), 7 trophies (2 gold, 3 silver and 2 bronze), 12 best-solution prizes, 20 honorable mentions and 1 team contest honorable mention.
+  summary_3: In competition, teams from Bulgaria have brought home 62 medals (17 gold, 18 silver and 27 bronze), 7 trophies (2 gold, 3 silver and 2 bronze), 3 first-place team cups, 12 best-solution prizes, 20 honorable mentions and 1 team contest honorable mention.
   summary_4: In addition, Bulgaria has sent 12 Repeat Medalists and 5 Dream Teams
 
 - iol_code: CAN
@@ -1252,6 +1279,11 @@
         team: Canada
         name: William Zhang
         score: 40
+  individual_contest_team_average_scores:
+    second:
+    - year: 2014
+      team: Canada
+      score: 52.5
   best_solutions:
       - year: 2016
         team: Canada
@@ -1576,6 +1608,11 @@
       - year: 2016
         team: China 1
         score: 39
+  individual_contest_team_average_scores:
+    third:
+    - year: 2014
+      team: China 1
+      score: 48
   best_solutions:
       - year: 2016
         team: China 2
@@ -2111,6 +2148,15 @@
         team: Estonia
         name: Ivar Merilo
         score: 72
+  individual_contest_team_average_scores:
+    first:
+    - year: 2007
+      team: Estonia 1
+      score: 59.625
+    third:
+    - year: 2011
+      team: Estonia
+      score: 55.75
   best_solutions:
       - year: 2017
         team: Estonia
@@ -2146,7 +2192,7 @@
         problem: 4
   summary_1: Estonia was one of the original six countries to participate in the IOL, and has competed in 16 olympiads. They most recently competed in 2018.
   summary_2: They have sent 71 participants in 18 teams.
-  summary_3: In competition, teams from Estonia have brought home 22 medals (1 gold, 7 silver and 14 bronze), 8 best-solution prizes and 11 honorable mentions.
+  summary_3: In competition, teams from Estonia have brought home 22 medals (1 gold, 7 silver and 14 bronze), 1 first-place team cup, 8 best-solution prizes and 11 honorable mentions.
   summary_4: In addition, Estonia has sent 3 Repeat Medalists and 1 Dream Team
 
 - iol_code: FIN
@@ -3849,6 +3895,11 @@
       - year: 2015
         team: Netherlands
         score: N/A
+  individual_contest_team_average_scores:
+    first:
+    - year: 2003
+      team: Netherlands
+      score: 74.5
   best_solutions:
       - year: 2008
         team: Netherlands
@@ -3868,7 +3919,7 @@
         problem: 2
   summary_1: Netherlands was one of the original six countries to participate in the IOL, and has competed in 16 olympiads. They most recently competed in 2018.
   summary_2: They have sent 67 participants in 17 teams.
-  summary_3: In competition, teams from Netherlands have brought home 7 medals (2 gold, 1 silver and 4 bronze), 6 trophies (2 gold, 3 silver and 1 bronze), 4 best-solution prizes and 16 honorable mentions.
+  summary_3: In competition, teams from Netherlands have brought home 7 medals (2 gold, 1 silver and 4 bronze), 6 trophies (2 gold, 3 silver and 1 bronze), 1 first-place team cup, 4 best-solution prizes and 16 honorable mentions.
   summary_4: 
 
 - iol_code: NOR
@@ -4501,6 +4552,17 @@
       - year: 2006
         team: Poland 1
         score: 72
+  individual_contest_team_average_scores:
+    third:
+    - year: 2014
+      team: Poland 1
+      score: 48
+    - year: 2013
+      team: Poland 1
+      score: 61.5
+    - year: 2009
+      team: Poland 2
+      score: 57
   best_solutions:
       - year: 2018
         team: Poland Biali
@@ -5829,6 +5891,55 @@
       - year: 2016
         team: Russia Belka
         score: 43
+  individual_contest_team_average_scores:
+    first:
+    - year: 2012
+      team: St. Petersburg
+      score: 67
+    - year: 2009
+      team: Moscow
+      score: 63
+    second:
+    - year: 2016
+      team: Russia Belka
+      score: 61.25
+    - year: 2013
+      team: St. Petersburg
+      score: 62.5
+    - year: 2011
+      team: St. Petersburg
+      score: 57.75
+    - year: 2010
+      team: St. Petersburg
+      score: 80.25
+    - year: 2005
+      team: Moscow
+      score: 75.125
+    - year: 2004
+      team: Russia-Moscow 1
+      score: 71
+    - year: 2003
+      team: Russia-St. Petersburg
+      score: 73.5
+    third:
+    - year: 2016
+      team: Russia Strelka
+      score: 57.25
+    - year: 2007
+      team: Moscow
+      score: 58.750
+    - year: 2006
+      team: St. Petersburg
+      score: 72.25
+    - year: 2005
+      team: St. Petersburg
+      score: 65
+    - year: 2004
+      team: Russia-Moscow 2
+      score: 64.5
+    - year: 2003
+      team: Russia-Moscow
+      score: 70.5
   best_solutions:
       - year: 2017
         team: Russia Strelka
@@ -5924,7 +6035,7 @@
         problem: 5
   summary_1: Russia was one of the original six countries to participate in the IOL, and has competed in 16 olympiads. They most recently competed in 2018.
   summary_2: They have sent 140 participants in 35 teams.
-  summary_3: In competition, teams from Russia have brought home 74 medals (16 gold, 24 silver and 34 bronze), 13 trophies (2 gold, 6 silver and 5 bronze), 23 best-solution prizes, 19 honorable mentions and 1 team contest honorable mention.
+  summary_3: In competition, teams from Russia have brought home 74 medals (16 gold, 24 silver and 34 bronze), 13 trophies (2 gold, 6 silver and 5 bronze), 2 first-place team cups, 23 best-solution prizes, 19 honorable mentions and 1 team contest honorable mention.
   summary_4: In addition, Russia has sent 14 Repeat Medalists and 3 Dream Teams
 
 - iol_code: SRB
@@ -7222,6 +7333,15 @@
       - year: 2016
         team: UK
         score: 49
+  individual_contest_team_average_scores:
+    first:
+    - year: 2017
+      team: UK K
+      score: 67.73
+    third:
+    - year: 2018
+      team: UK K
+      score: 69.89
   best_solutions:
       - year: 2018
         team: UK U
@@ -7237,7 +7357,7 @@
         problem: 5
   summary_1: UK first competed in the IOL in 2009, and has competed in 10 olympiads. They most recently competed in 2018.
   summary_2: They have sent 60 participants in 15 teams.
-  summary_3: In competition, teams from UK have brought home 27 medals (10 gold, 6 silver and 11 bronze), 3 trophies (1 gold and 2 bronze), 3 best-solution prizes and 12 honorable mentions.
+  summary_3: In competition, teams from UK have brought home 27 medals (10 gold, 6 silver and 11 bronze), 3 trophies (1 gold and 2 bronze), 1 first-place team cup, 3 best-solution prizes and 12 honorable mentions.
   summary_4: In addition, UK has sent 4 Repeat Medalists and 2 Dream Teams
 
 - iol_code: USA
@@ -7897,6 +8017,46 @@
       - year: 2016
         team: USA Red
         score: 47.5
+  individual_contest_team_average_scores:
+    first:
+    - year: 2018
+      team: USA Blue
+      score: 70.25
+    - year: 2016
+      team: USA Red
+      score: 61.75
+    - year: 2015
+      team: USA Red
+      score: 73.75
+    - year: 2014
+      team: USA Red
+      score: 57.5
+    - year: 2013
+      team: USA Red
+      score: 65.25
+    - year: 2011
+      team: USA Red
+      score: 65.25
+    - year: 2010
+      team: USA Blue
+      score: 86.75
+    second:
+    - year: 2012
+      team: USA 1
+      score: 66.75
+    third:
+    - year: 2015
+      team: USA Blue
+      score: 48.75
+    - year: 2014
+      team: USA Blue
+      score: 48
+    - year: 2012
+      team: USA 2
+      score: 59.5
+    - year: 2010
+      team: USA Red
+      score: 78.5
   best_solutions:
       - year: 2018
         team: USA Red
@@ -7984,7 +8144,7 @@
         problem: 4
   summary_1: USA first competed in the IOL in 2007, and has competed in 12 olympiads. They most recently competed in 2018.
   summary_2: They have sent 100 participants in 25 teams.
-  summary_3: In competition, teams from USA have brought home 67 medals (17 gold, 30 silver and 20 bronze), 11 trophies (8 gold and 3 silver), 21 best-solution prizes, 19 honorable mentions and 2 team contest honorable mentions.
+  summary_3: In competition, teams from USA have brought home 67 medals (17 gold, 30 silver and 20 bronze), 11 trophies (8 gold and 3 silver), 7 first-place team cups, 21 best-solution prizes, 19 honorable mentions and 2 team contest honorable mentions.
   summary_4: In addition, USA has sent 11 Repeat Medalists and 7 Dream Teams
 
 - iol_code: UKR

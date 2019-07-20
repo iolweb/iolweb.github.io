@@ -11,6 +11,8 @@ Total {{ contest_meta.number_of_participants }} contestants of {{ contest_meta.n
  -->  
 </nav>
 
+<hr>
+
 {% assign participants_list = site.data.ioling.participants | where: "year", include.year | first %}
 
 <button href="#" data-dropdown="drop1" aria-controls="drop1" aria-expanded="false" class="button dropdown">Select a region</button><br>

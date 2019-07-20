@@ -6,6 +6,8 @@
  -->  
 </nav>
 
+<hr>
+
 {% assign individual_problems = site.data.ioling.problems | where: "year", include.year | where: "round", "Individual" %}
 {% assign team_problems = site.data.ioling.problems | where: "year", include.year | where: "round", "Team" %}
 

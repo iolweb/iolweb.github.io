@@ -97,6 +97,42 @@ Team {{ country_item.iol_name }} is chosen through {% if country_item.abbreviati
 </table>
 {% endif %}
 
+{% if country_results.individual_contest_team_average_scores %}
+<h3>Individual Contest Team Average Scores</h3>
+<table width="100%">
+	<thead>
+		<tr>
+			<th>Year</th>
+			<th>Place</th>
+			<th>Team</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for team_item in country_results.individual_contest_team_average_scores.first %}
+		<tr bgcolor="#FFFB9B">
+			<td>{{ team_item.year }}</td>
+			<td>1st Place</td>
+			<td>{{ team_item.team }}</td>
+		</tr>
+		{% endfor %}
+		{% for team_item in country_results.individual_contest_team_average_scores.second %}
+		<tr bgcolor="#EEEEEE">
+			<td>{{ team_item.year }}</td>
+			<td>2nd Place</td>
+			<td>{{ team_item.team }}</td>
+		</tr>
+		{% endfor %}
+		{% for team_item in country_results.individual_contest_team_average_scores.third %}
+		<tr bgcolor="#EEDECC">
+			<td>{{ team_item.year }}</td>
+			<td>3rd Place</td>
+			<td>{{ team_item.team }}</td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>
+{% endif %}
+
 {% if country_results.team_contest_winners %}
 <h3>Team Contest Trophies</h3>
 <table width="100%">
@@ -104,7 +140,6 @@ Team {{ country_item.iol_name }} is chosen through {% if country_item.abbreviati
 		<tr>
 			<th>Year</th>
 			<th>Trophy</th>
-			<th>Name</th>
 			<th>Team</th>
 		</tr>
 	</thead>
@@ -113,7 +148,6 @@ Team {{ country_item.iol_name }} is chosen through {% if country_item.abbreviati
 		<tr bgcolor="#FFFB9B">
 			<td>{{ team_item.year }}</td>
 			<td>Gold</td>
-			<td>{{ team_item.name }}</td>
 			<td>{{ team_item.team }}</td>
 		</tr>
 		{% endfor %}
@@ -121,7 +155,6 @@ Team {{ country_item.iol_name }} is chosen through {% if country_item.abbreviati
 		<tr bgcolor="#EEEEEE">
 			<td>{{ team_item.year }}</td>
 			<td>Silver</td>
-			<td>{{ team_item.name }}</td>
 			<td>{{ team_item.team }}</td>
 		</tr>
 		{% endfor %}
@@ -129,7 +162,6 @@ Team {{ country_item.iol_name }} is chosen through {% if country_item.abbreviati
 		<tr bgcolor="#EEDECC">
 			<td>{{ team_item.year }}</td>
 			<td>Bronze</td>
-			<td>{{ team_item.name }}</td>
 			<td>{{ team_item.team }}</td>
 		</tr>
 		{% endfor %}
@@ -144,7 +176,6 @@ Team {{ country_item.iol_name }} is chosen through {% if country_item.abbreviati
 		<tr>
 			<th>Year</th>
 			<th>Award</th>
-			<th>Name</th>
 			<th>Team</th>
 		</tr>
 	</thead>
@@ -153,7 +184,6 @@ Team {{ country_item.iol_name }} is chosen through {% if country_item.abbreviati
 		<tr>
 			<td>{{ team_item.year }}</td>
 			<td>HM</td>
-			<td>{{ team_item.name }}</td>
 			<td>{{ team_item.team }}</td>
 		</tr>
 		{% endfor %}
