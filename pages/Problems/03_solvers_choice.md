@@ -13,7 +13,7 @@ widget:
   text: "The Solvers' Choice Award is awarded each year to the authors of the most popular problem, determined by a survey of that year's contestants."
 ---
 
-Each year, one award goes in the oopposite direction: from the contestants to the Problem Committee! 
+Each year, one award goes in the opposite direction: from the contestants to the Problem Committee! 
 
 The Solvers' Choice Award is awarded each year to the authors of the most popular problem, determined by a survey of that year's contestants.
 
