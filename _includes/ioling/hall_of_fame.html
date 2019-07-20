@@ -17,7 +17,16 @@
 			{{ medalist_item.country }}</td>
 			<td>{{ medalist_item.name }}</td>
 			<td>
-				{% for medal_item in medalist_item.medals %}
+				{% for medal_item in medalist_item.medals %} 
+				{% if medal_item.medal == 'Gold' %}
+				🥇
+				{% endif %}
+				{% if medal_item.medal == 'Silver' %}
+				🥈
+				{% endif %}
+				{% if medal_item.medal == 'Bronze' %}
+				🥉
+				{% endif %} 
 				{{ medal_item.year }} {{ medal_item.medal }}<br/>
 				{% endfor %}
 			</td>

@@ -14,13 +14,13 @@ sitemap: false
 * Harold Somers
 
 ### Jury Chair
-* Hugh Dobbs (2017)
 * Maria Rubinstein (2018)
+* Tae Hun Lee (2019)
 
 ### Local Organizing Chairs
-* Monojit Chaudhuri (2016)
-* Cara Greene (2017)
 * Vojta Diatka (2018)
+* Minkyu Kim (2019)
+* Vladimir Litvinsky (2020)
 
 ### Funding Chair
 * Lori Levin
@@ -31,7 +31,7 @@ sitemap: false
 * Hedvig Skirgård
 
 ### Archives and Website
-* [Minkyu Kim](/profile/10001/)
+* Minkyu Kim
 
 ### Secretary to Problem Committee
 * Stanislav Gurevich

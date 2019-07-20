@@ -45,8 +45,36 @@
 	<div class="panel radius">
 		<h3>Participants by Year</h3>
 			{% assign counter = 1 %}
-			{% for page in site.pages limit:100 %}
+			{% for page in site.pages limit:1000 %}
 			{% if page.participants_by_year %}
+			<div id="panel{{ counter }}" class="content">
+				<a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Read {{ page.title | escape_once }}"><strong>{{ page.title }}</strong></a>
+			</div>
+			{% assign counter=counter | plus:1 %}
+			{% endif %}
+			{% endfor %}
+	</div>
+	{% endif %}
+	{% if page.results_by_country %}
+	<div class="panel radius">
+		<h3>Results by Country</h3>
+			{% assign counter = 1 %}
+			{% for page in site.pages limit:1000 %}
+			{% if page.results_by_country %}
+			<div id="panel{{ counter }}" class="content">
+				<a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Read {{ page.title | escape_once }}"><strong>{{ page.title }}</strong></a>
+			</div>
+			{% assign counter=counter | plus:1 %}
+			{% endif %}
+			{% endfor %}
+	</div>
+	{% endif %}
+	{% if page.participants_by_country %}
+	<div class="panel radius">
+		<h3>Results by Country</h3>
+			{% assign counter = 1 %}
+			{% for page in site.pages limit:1000 %}
+			{% if page.participants_by_country %}
 			<div id="panel{{ counter }}" class="content">
 				<a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Read {{ page.title | escape_once }}"><strong>{{ page.title }}</strong></a>
 			</div>

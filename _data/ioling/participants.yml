@@ -3169,20 +3169,22 @@
         medal: bronze
       - name: Viktor Baltin
         medal: honorable mentions
-  - country: Canada
+  - country: Canada Anglophone
     teams:
-    - team: Canada Castors (Fr)
-      participants:
-      - name: Antonin Benoit
-      - name: Corinne Soucy
-      - name: Georges Awaad
-      - name: Samuel Ouvrard
     - team: Canada Moose (En)
       participants:
       - name: Gabriel Kammer
       - name: James Hogan
       - name: Jane Li
       - name: Kevin Liang
+  - country: Canada Francophone
+    teams:
+    - team: Canada Castors
+      participants:
+      - name: Antonin Benoit
+      - name: Corinne Soucy
+      - name: Georges Awaad
+      - name: Samuel Ouvrard
   - country: China
     teams:
     - team: China
@@ -3581,15 +3583,9 @@
       - name: Martin Nikolov
       - name: Georgi Yotov
         medal: bronze
-  - country: Canada
+  - country: Canada Anglophone
     teams:
-    - team: Canada Castor (Fr)
-      participants:
-      - name: Georges Awaad
-      - name: Yeryomin George
-      - name: Samson Nathan
-      - name: Corinne Soucy
-    - team: Canada Moose (En)
+    - team: Canada Moose
       participants:
       - name: Ken Jiang
         medal: bronze
@@ -3598,6 +3594,14 @@
       - name: Nathan Kim
       - name: Kevin Liang
         medal: bronze
+  - country: Canada Francophone
+    teams:
+    - team: Canada Castor
+      participants:
+      - name: Georges Awaad
+      - name: Yeryomin George
+      - name: Samson Nathan
+      - name: Corinne Soucy
   - country: China
     teams:
     - team: China KUN
