@@ -10,7 +10,7 @@ widget:
   title: "FAQ"
   url: '/faq/'
   image: faq.jpg
-  text: "Freqeuntly Asked Questions"
+  text: "Frequently Asked Questions"
 ---
 If you are about to send a message to IOL via [our contact form](/contact/), please note that 99% of questions we receive are already answered here. Please take your time and search through this document (ctrl + F) before sending a message.
 

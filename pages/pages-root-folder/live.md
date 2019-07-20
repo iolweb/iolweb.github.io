@@ -2,15 +2,17 @@
 permalink: /live/
 layout: video
 subheadline: ""
-title: ""
-teaser: ""
+title: "IOL Yongin 2019 Live"
+teaser: "IOL 2019 is going to be live-streamed on this website!"
 categories:
   - 
 tags:
   - video
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0ykI' frameborder='0' allowfullscreen></iframe>"
+iframe: ""
 video:
     embedURL: ""
     contentURL: ""
     thumbnailUrl: ""
 ---
+
+<!-- <iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0ykI' frameborder='0' allowfullscreen></iframe> -->
