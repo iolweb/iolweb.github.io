@@ -624,20 +624,20 @@
           participants:
             - name: Tina Vladimirova
               medal: silver
-            - name: Borislav Ivanov Georgiev
+            - name: Borislav Georgiev
             - name: Nadezhda Dimitrova
               medal: bronze
-            - name: Valentin Rumenov Dimov
+            - name: Valentin Dimov
               medal: silver
         - team: Bulgaria 2
           participants:
-            - name: Ralitsa Stefanova Dardjonova
+            - name: Ralitsa Dardjonova
               medal: silver
-            - name: Radina Dobromirova Dobreva
+            - name: Radina Dobreva
               medal: bronze
-            - name: Danail Nikolaev Penev
+            - name: Danail Penev
               medal: gold
-            - name: Zdravko Plamenov Ivanov
+            - name: Zdravko Ivanov
               medal: bronze
     - year: 2016
       teams:
@@ -687,7 +687,7 @@
           participants:
             - name: Viktor Baltin
               medal: gold
-            - name: Zdravko Plamenov Ivanov
+            - name: Zdravko Ivanov
               medal: gold
             - name: Elena Keskinova
               medal: silver
@@ -710,7 +710,7 @@
         score: 84.8
       - year: 2018
         team: Bulgaria 1
-        name: Zdravko Plamenov Ivanov
+        name: Zdravko Ivanov
         score: 82
       - year: 2017
         team: Bulgaria 1
@@ -730,7 +730,7 @@
         score: 67
       - year: 2015
         team: Bulgaria 2
-        name: Danail Nikolaev Penev
+        name: Danail Penev
         score: 77
       - year: 2013
         team: Bulgaria 1
@@ -791,11 +791,11 @@
         score: 56
       - year: 2015
         team: Bulgaria 1
-        name: Valentin Rumenov Dimov
+        name: Valentin Dimov
         score: 55
       - year: 2015
         team: Bulgaria 2
-        name: Ralitsa Stefanova Dardjonova
+        name: Ralitsa Dardjonova
         score: 49
       - year: 2015
         team: Bulgaria 1
@@ -876,11 +876,11 @@
         score: 43
       - year: 2015
         team: Bulgaria 2
-        name: Zdravko Plamenov Ivanov
+        name: Zdravko Ivanov
         score: 46
       - year: 2015
         team: Bulgaria 2
-        name: Radina Dobromirova Dobreva
+        name: Radina Dobreva
         score: 41
       - year: 2015
         team: Bulgaria 1
@@ -1145,7 +1145,7 @@
   summary_1: Bulgaria was one of the original six countries to participate in the IOL, and has competed in 16 olympiads. They most recently competed in 2018.
   summary_2: They have sent 130 participants in 34 teams.
   summary_3: In competition, teams from Bulgaria have brought home 62 medals (17 gold, 18 silver and 27 bronze), 7 trophies (2 gold, 3 silver and 2 bronze), 3 first-place team cups, 12 best-solution prizes, 20 honorable mentions and 1 team contest honorable mention.
-  summary_4: In addition, Bulgaria has sent 12 Repeat Medalists and 5 Dream Teams
+  summary_4: In addition, Bulgaria has sent 13 Repeat Medalists and 5 Dream Teams
 
 - iol_code: CAN
   iol_name: Canada

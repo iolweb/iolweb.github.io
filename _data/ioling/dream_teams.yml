@@ -119,13 +119,13 @@
   country: Bulgaria
   team: Bulgaria 2
   results:
-  - name: Ralitsa Stefanova Dardjonova
+  - name: Ralitsa Dardjonova
     medal: Silver
-  - name: Radina Dobromirova Dobreva
+  - name: Radina Dobreva
     medal: Bronze
-  - name: Danail Nikolaev Penev
+  - name: Danail Penev
     medal: Gold
-  - name: Zdravko Plamenov Ivanov
+  - name: Zdravko Ivanov
     medal: Bronze
 
 - year: 2015
@@ -225,7 +225,7 @@
   results:
   - name: Viktor Baltin
     medal: Gold
-  - name: Zdravko Plamenov Ivanov
+  - name: Zdravko Ivanov
     medal: Gold
   - name: Elena Keskinova
     medal: Silver

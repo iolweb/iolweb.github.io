@@ -2379,20 +2379,20 @@
       participants:
       - name: Tina Vladimirova
         medal: silver
-      - name: Borislav Ivanov Georgiev
+      - name: Borislav Georgiev
       - name: Nadezhda Dimitrova
         medal: bronze
-      - name: Valentin Rumenov Dimov
+      - name: Valentin Dimov
         medal: silver
     - team: Bulgaria 2
       participants:
-      - name: Ralitsa Stefanova Dardjonova
+      - name: Ralitsa Dardjonova
         medal: silver
-      - name: Radina Dobromirova Dobreva
+      - name: Radina Dobreva
         medal: bronze
-      - name: Danail Nikolaev Penev
+      - name: Danail Penev
         medal: gold
-      - name: Zdravko Plamenov Ivanov
+      - name: Zdravko Ivanov
         medal: bronze
   - country: Canada
     teams:
@@ -3568,7 +3568,7 @@
       participants:
       - name: Viktor Baltin
         medal: gold
-      - name: Zdravko Plamenov Ivanov
+      - name: Zdravko Ivanov
         medal: gold
       - name: Elena Keskinova
         medal: silver

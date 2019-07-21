@@ -3154,7 +3154,7 @@
         team: USA Red
         country: USA
 
-      - name: Danail Nikolaev Penev
+      - name: Danail Penev
         score: 77
         team: Bulgaria 2
         country: Bulgaria
@@ -3190,7 +3190,7 @@
         team: USA Red
         country: USA
 
-      - name: Valentin Rumenov Dimov
+      - name: Valentin Dimov
         score: 55
         team: Bulgaria 1
         country: Bulgaria
@@ -3220,7 +3220,7 @@
         team: Romania
         country: Romania
 
-      - name: Ralitsa Stefanova Dardjonova
+      - name: Ralitsa Dardjonova
         score: 49
         team: Bulgaria 2
         country: Bulgaria
@@ -3261,7 +3261,7 @@
         country: China
 
       bronze:
-      - name: Zdravko Plamenov Ivanov
+      - name: Zdravko Ivanov
         score: 46
         team: Bulgaria 2
         country: Bulgaria
@@ -3311,7 +3311,7 @@
         team: Bulgaria 1
         country: Bulgaria
 
-      - name: Radina Dobromirova Dobreva
+      - name: Radina Dobreva
         score: 41
         team: Bulgaria 2
         country: Bulgaria
@@ -4616,7 +4616,7 @@
         team: Bulgaria 1
         country: Bulgaria
 
-      - name: Zdravko Plamenov Ivanov
+      - name: Zdravko Ivanov
         score: 82
         team: Bulgaria 1
         country: Bulgaria
