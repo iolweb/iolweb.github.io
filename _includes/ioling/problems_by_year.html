@@ -24,8 +24,8 @@
 </div>
 <div class="medium-6 columns">
 {% if this_year_booklets.indiv.prob %}
-<button href="#" data-dropdown="drop-indiv-prob" aria-controls="drop-indiv-prob" aria-expanded="false" class="button dropdown small">Problems</button>
-<ul id="drop-indiv-prob" data-dropdown-content class="f-dropdown" aria-hidden="true">
+<button href="#" data-dropdown="drop-indiv-prob-{{ contest_item.year }}" aria-controls="drop-indiv-prob-{{ contest_item.year }}" aria-expanded="false" class="button dropdown small">Problems</button>
+<ul id="drop-indiv-prob-{{ contest_item.year }}" data-dropdown-content class="f-dropdown" aria-hidden="true">
   {% for booklet in this_year_booklets.indiv.prob %}
   <li><a href="/booklets/{{ booklet.filename }}">{{ booklet.language }}</a></li>
   {% endfor %}
@@ -33,8 +33,8 @@
 <br/>
 {% endif %}
 {% if this_year_booklets.indiv.sup %}
-<button href="#" data-dropdown="drop-indiv-sup" aria-controls="drop-indiv-sup" aria-expanded="false" class="button dropdown small">Supplements</button>
-<ul id="drop-indiv-sup" data-dropdown-content class="f-dropdown" aria-hidden="true">
+<button href="#" data-dropdown="drop-indiv-sup-{{ contest_item.year }}" aria-controls="drop-indiv-sup-{{ contest_item.year }}" aria-expanded="false" class="button dropdown small">Supplements</button>
+<ul id="drop-indiv-sup-{{ contest_item.year }}" data-dropdown-content class="f-dropdown" aria-hidden="true">
   {% for booklet in this_year_booklets.indiv.sup %}
   <li><a href="/booklets/{{ booklet.filename }}">{{ booklet.language }}</a></li>
   {% endfor %}
@@ -42,8 +42,8 @@
 <br/>
 {% endif %}
 {% if this_year_booklets.indiv.sol %}
-<button href="#" data-dropdown="drop-indiv-sol" aria-controls="drop-indiv-sol" aria-expanded="false" class="button dropdown small">Solutions</button>
-<ul id="drop-indiv-sol" data-dropdown-content class="f-dropdown" aria-hidden="true">
+<button href="#" data-dropdown="drop-indiv-sol-{{ contest_item.year }}" aria-controls="drop-indiv-sol-{{ contest_item.year }}" aria-expanded="false" class="button dropdown small">Solutions</button>
+<ul id="drop-indiv-sol-{{ contest_item.year }}" data-dropdown-content class="f-dropdown" aria-hidden="true">
   {% for booklet in this_year_booklets.indiv.sol %}
   <li><a href="/booklets/{{ booklet.filename }}">{{ booklet.language }}</a></li>
   {% endfor %}
@@ -64,8 +64,8 @@
 </div>
 <div class="medium-6 columns">
 {% if this_year_booklets.team.prob %}
-<button href="#" data-dropdown="drop-team-prob" aria-controls="drop-team-prob" aria-expanded="false" class="button dropdown small">Problems</button>
-<ul id="drop-team-prob" data-dropdown-content class="f-dropdown" aria-hidden="true">
+<button href="#" data-dropdown="drop-team-prob-{{ contest_item.year }}" aria-controls="drop-team-prob-{{ contest_item.year }}" aria-expanded="false" class="button dropdown small">Problems</button>
+<ul id="drop-team-prob-{{ contest_item.year }}" data-dropdown-content class="f-dropdown" aria-hidden="true">
   {% for booklet in this_year_booklets.team.prob %}
   <li><a href="/booklets/{{ booklet.filename }}">{{ booklet.language }}</a></li>
   {% endfor %}
@@ -73,8 +73,8 @@
 <br/>
 {% endif %}
 {% if this_year_booklets.team.sup %}
-<button href="#" data-dropdown="drop-team-sup" aria-controls="drop-team-sup" aria-expanded="false" class="button dropdown small">Supplements</button>
-<ul id="drop-team-sup" data-dropdown-content class="f-dropdown" aria-hidden="true">
+<button href="#" data-dropdown="drop-team-sup-{{ contest_item.year }}" aria-controls="drop-team-sup-{{ contest_item.year }}" aria-expanded="false" class="button dropdown small">Supplements</button>
+<ul id="drop-team-sup-{{ contest_item.year }}" data-dropdown-content class="f-dropdown" aria-hidden="true">
   {% for booklet in this_year_booklets.team.sup %}
   <li><a href="/booklets/{{ booklet.filename }}">{{ booklet.language }}</a></li>
   {% endfor %}
@@ -82,8 +82,8 @@
 <br/>
 {% endif %}
 {% if this_year_booklets.team.sol %}
-<button href="#" data-dropdown="drop-team-sol" aria-controls="drop-team-sol" aria-expanded="false" class="button dropdown small">Solutions</button>
-<ul id="drop-team-sol" data-dropdown-content class="f-dropdown" aria-hidden="true">
+<button href="#" data-dropdown="drop-team-sol-{{ contest_item.year }}" aria-controls="drop-team-sol-{{ contest_item.year }}" aria-expanded="false" class="button dropdown small">Solutions</button>
+<ul id="drop-team-sol-{{ contest_item.year }}" data-dropdown-content class="f-dropdown" aria-hidden="true">
   {% for booklet in this_year_booklets.team.sol %}
   <li><a href="/booklets/{{ booklet.filename }}">{{ booklet.language }}</a></li>
   {% endfor %}

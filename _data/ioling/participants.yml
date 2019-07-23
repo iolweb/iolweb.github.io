@@ -663,21 +663,21 @@
     teams:
     - team: Bulgaria 1
       participants:
-      - name: Diana Rumenova Sofronieva
+      - name: Diana Sofronieva
         medal: gold
-      - name: Yordan Rosenov Mehandzhiyski
+      - name: Yordan Mehandzhiyski
         medal: silver
-      - name: Anastas Plamenov Tenev
+      - name: Anastas Tenev
         medal: honorable mentions
-      - name: Georgi Angelov Rangelov
+      - name: Georgi Rangelov
     - team: Bulgaria 2
       participants:
-      - name: Deyana Rumenova Kamburova
+      - name: Deyana Kamburova
         medal: bronze
-      - name: Victor Yovchev Valov
+      - name: Victor Valov
         medal: honorable mentions
-      - name: Ivaylo Nikolaev Youmerski
-      - name: Antoaneta Viktorova Marinova
+      - name: Ivaylo Youmerski
+      - name: Antoaneta Marinova
   - country: Czechia
     teams:
     - team: Czech Republic

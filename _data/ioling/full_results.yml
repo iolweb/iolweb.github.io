@@ -884,7 +884,7 @@
 - year: 2009
   individual:
       gold:
-      - name: Diana Rumenova Sofronieva
+      - name: Diana Sofronieva
         score: 92
         team: Bulgaria 1
         country: Bulgaria
@@ -910,7 +910,7 @@
         team: Latvia
         country: Latvia
 
-      - name: Yordan Rosenov Mehandzhiyski
+      - name: Yordan Mehandzhiyski
         score: 74
         team: Bulgaria 1
         country: Bulgaria
@@ -941,7 +941,7 @@
         country: India
 
       bronze:
-      - name: Deyana Rumenova Kamburova
+      - name: Deyana Kamburova
         score: 59
         team: Bulgaria 2
         country: Bulgaria
@@ -1052,7 +1052,7 @@
         team: Korea 2
         country: Republic of Korea
 
-      - name: Anastas Plamenov Tenev
+      - name: Anastas Tenev
         score: 47
         team: Bulgaria 1
         country: Bulgaria
@@ -1072,7 +1072,7 @@
         team: Netherlands
         country: Netherlands
 
-      - name: Victor Yovchev Valov
+      - name: Victor Valov
         score: 46
         team: Bulgaria 2
         country: Bulgaria
@@ -1129,7 +1129,7 @@
         country: Russia
         problem: 4
 
-      - name: Diana Rumenova Sofronieva
+      - name: Diana Sofronieva
         team: Bulgaria 1
         country: Bulgaria
         problem: 4

@@ -6,7 +6,7 @@ header:
 title: "IOL Board"
 sitemap: false
 ---
-### General Chairs
+### General Chairs <a href="mailto:chair@ioling.org" target="_blank" class="icon-mail" title="General Chairs"></a>
 * Ivan Derzhanski
 * Stanislav Gurevich
 
@@ -26,12 +26,12 @@ sitemap: false
 * Lori Levin
 * Bal Krishna
 
-### Public Relations Chair
+### Public Relations Chair <a href="mailto:inquires@ioling.org" target="_blank" class="icon-mail" title="Public Relations Chair"></a>
 * Simona Klemenčič
 * Hedvig Skirgård
 
-### Archives and Website
-* Minkyu Kim
+### Archives and Website <a href="mailto:mail@minkyu.kim" target="_blank" class="icon-mail" title="Website coordinator"></a>
+* Minkyu Kim 
 
 ### Secretary to Problem Committee
 * Stanislav Gurevich

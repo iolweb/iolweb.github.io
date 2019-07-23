@@ -505,21 +505,21 @@
       teams:
         - team: Bulgaria 1
           participants:
-            - name: Diana Rumenova Sofronieva
+            - name: Diana Sofronieva
               medal: gold
-            - name: Yordan Rosenov Mehandzhiyski
+            - name: Yordan Mehandzhiyski
               medal: silver
-            - name: Anastas Plamenov Tenev
+            - name: Anastas Tenev
               medal: honorable mentions
-            - name: Georgi Angelov Rangelov
+            - name: Georgi Rangelov
         - team: Bulgaria 2
           participants:
-            - name: Deyana Rumenova Kamburova
+            - name: Deyana Kamburova
               medal: bronze
-            - name: Victor Yovchev Valov
+            - name: Victor Valov
               medal: honorable mentions
-            - name: Ivaylo Nikolaev Youmerski
-            - name: Antoaneta Viktorova Marinova
+            - name: Ivaylo Youmerski
+            - name: Antoaneta Marinova
     - year: 2010
       teams:
         - team: Bulgaria 1
@@ -746,7 +746,7 @@
         score: 74
       - year: 2009
         team: Bulgaria 1
-        name: Diana Rumenova Sofronieva
+        name: Diana Sofronieva
         score: 92
       - year: 2008
         team: Bulgaria West
@@ -815,7 +815,7 @@
         score: 62
       - year: 2009
         team: Bulgaria 1
-        name: Yordan Rosenov Mehandzhiyski
+        name: Yordan Mehandzhiyski
         score: 74
       - year: 2007
         team: Bulgaria 2
@@ -924,7 +924,7 @@
         score: 81
       - year: 2009
         team: Bulgaria 2
-        name: Deyana Rumenova Kamburova
+        name: Deyana Kamburova
         score: 59
       - year: 2008
         team: Bulgaria East
@@ -1026,11 +1026,11 @@
         score: 59
       - year: 2009
         team: Bulgaria 1
-        name: Anastas Plamenov Tenev
+        name: Anastas Tenev
         score: 47
       - year: 2009
         team: Bulgaria 2
-        name: Victor Yovchev Valov
+        name: Victor Valov
         score: 46
       - year: 2005
         team: Bulgaria 2
@@ -1108,7 +1108,7 @@
         problem: 1
       - year: 2009
         team: Bulgaria 1
-        name: Diana Rumenova Sofronieva
+        name: Diana Sofronieva
         problem: 4
       - year: 2008
         team: Bulgaria West
@@ -1145,7 +1145,7 @@
   summary_1: Bulgaria was one of the original six countries to participate in the IOL, and has competed in 16 olympiads. They most recently competed in 2018.
   summary_2: They have sent 130 participants in 34 teams.
   summary_3: In competition, teams from Bulgaria have brought home 62 medals (17 gold, 18 silver and 27 bronze), 7 trophies (2 gold, 3 silver and 2 bronze), 3 first-place team cups, 12 best-solution prizes, 20 honorable mentions and 1 team contest honorable mention.
-  summary_4: In addition, Bulgaria has sent 13 Repeat Medalists and 5 Dream Teams
+  summary_4: In addition, Bulgaria has sent 14 Repeat Medalists and 5 Dream Teams
 
 - iol_code: CAN
   iol_name: Canada

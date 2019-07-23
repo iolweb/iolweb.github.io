@@ -22,3 +22,16 @@ Linguistic contests have also been held regularly in Bulgaria since 1982, being 
 <div style="border-top: 1px solid #dadada; font-family: &quot;arial important&quot;; font-size: 13px; line-height: 15px; margin: 0 30px; padding: 8px 0; text-align: center;">
 <a href="https://infogram.com/countries_of_the_international_linguistics_olympiad_iol" style="color: #989898!important; text-decoration: none!important;" target="_blank">Countries of the International Linguistics Olympiad (IOL)</a><br />
 <a href="https://infogram.com/" rel="nofollow" style="color: #989898!important; text-decoration: none!important;" target="_blank">Infogram</a></div>
+
+#### Our Logo
+
+![IOL Logo](/images/logo.png)
+
+Our IOL logo was chosen through the IOL Logo Competition, held in 2015. The logo is the work of Agata Łazarewicz of the Secondary Technical School of Electronics in Jelenia Góra, Poland.
+
+<button href="#" data-dropdown="drop1" aria-controls="drop1" aria-expanded="false" class="button dropdown small">Download</button>
+<ul id="drop1" data-dropdown-content class="f-dropdown" aria-hidden="true">
+  <li><a href="/images/logo.png">Logo (PNG)</a></li>
+  <li><a href="/images/logo_wordless.png">Logo, wordless (PNG)</a></li>
+  <li><a href="/images/logo.ai">Logo, wordless (AI)</a></li>
+</ul>
