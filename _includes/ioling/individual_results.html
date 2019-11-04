@@ -164,6 +164,30 @@ The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.indiv
 	</tbody>
 </table>
 
+{% if contest_item.team.honorable_mention %}
+<h3>Team Contest Honorable Mentions</h3>
+<table width="100%">
+	<thead>
+		<tr>
+			<th>Award</th>
+			<th>Score</th>
+			<th>Team</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for team_item in contest_item.team.honorable_mention %}
+		{% assign flag_country = site.data.ioling.countries | where: "iol_name", team_item.country | first %}
+		<tr>
+			<td>HM</td>
+			<td>{{ team_item.score }}</td>
+			<td>{% if flag_country %}<img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" />{% endif %}
+			{{ team_item.team }}</td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>
+{% endif %}
+
 <h3>Best Solutions</h3>
 <table width="100%">
 	<thead>

@@ -1546,3 +1546,222 @@
         filename: iol-2018-team-sol.sv.pdf
       - language: Ukrainian
         filename: iol-2018-team-sol.uk.pdf
+
+- year: 2019
+  indiv:
+    prob:
+      - language: Bengali
+        filename: iol-2019-indiv-prob.bn.pdf
+      - language: Bulgarian
+        filename: iol-2019-indiv-prob.bg.pdf
+      - language: Chinese (正體)
+        filename: iol-2019-indiv-prob.zt.pdf
+      - language: Chinese (简体)
+        filename: iol-2019-indiv-prob.zh.pdf
+      - language: Czech
+        filename: iol-2019-indiv-prob.cs.pdf
+      - language: Danish
+        filename: iol-2019-indiv-prob.da.pdf
+      - language: Dutch
+        filename: iol-2019-indiv-prob.nl.pdf
+      - language: English
+        filename: iol-2019-indiv-prob.en.pdf
+      - language: English (A)
+        filename: iol-2019-indiv-prob.us.pdf
+      - language: Estonian
+        filename: iol-2019-indiv-prob.et.pdf
+      - language: Finnish
+        filename: iol-2019-indiv-prob.fi.pdf
+      - language: French
+        filename: iol-2019-indiv-prob.fr.pdf
+      - language: German
+        filename: iol-2019-indiv-prob.de.pdf
+      - language: Hungarian
+        filename: iol-2019-indiv-prob.hu.pdf
+      - language: Japanese
+        filename: iol-2019-indiv-prob.ja.pdf
+      - language: Korean
+        filename: iol-2019-indiv-prob.ko.pdf
+      - language: Latvian
+        filename: iol-2019-indiv-prob.lv.pdf
+      - language: Polish
+        filename: iol-2019-indiv-prob.pl.pdf
+      - language: Portuguese (B)
+        filename: iol-2019-indiv-prob.bl.pdf
+      - language: Romanian
+        filename: iol-2019-indiv-prob.ro.pdf
+      - language: Russian
+        filename: iol-2019-indiv-prob.ru.pdf
+      - language: Slovenian
+        filename: iol-2019-indiv-prob.sl.pdf
+      - language: Spanish
+        filename: iol-2019-indiv-prob.es.pdf
+      - language: Swedish
+        filename: iol-2019-indiv-prob.sv.pdf
+      - language: Turkish
+        filename: iol-2019-indiv-prob.tr.pdf
+      - language: Ukrainian
+        filename: iol-2019-indiv-prob.uk.pdf
+    sol:
+      - language: Bengali
+        filename: iol-2019-indiv-sol.bn.pdf
+      - language: Bulgarian
+        filename: iol-2019-indiv-sol.bg.pdf
+      - language: Chinese (正體)
+        filename: iol-2019-indiv-sol.zt.pdf
+      - language: Chinese (简体)
+        filename: iol-2019-indiv-sol.zh.pdf
+      - language: Czech
+        filename: iol-2019-indiv-sol.cs.pdf
+      - language: Danish
+        filename: iol-2019-indiv-sol.da.pdf
+      - language: Dutch
+        filename: iol-2019-indiv-sol.nl.pdf
+      - language: English
+        filename: iol-2019-indiv-sol.en.pdf
+      - language: English (A)
+        filename: iol-2019-indiv-sol.us.pdf
+      - language: Estonian
+        filename: iol-2019-indiv-sol.et.pdf
+      - language: Finnish
+        filename: iol-2019-indiv-sol.fi.pdf
+      - language: French
+        filename: iol-2019-indiv-sol.fr.pdf
+      - language: German
+        filename: iol-2019-indiv-sol.de.pdf
+      - language: Hungarian
+        filename: iol-2019-indiv-sol.hu.pdf
+      - language: Japanese
+        filename: iol-2019-indiv-sol.ja.pdf
+      - language: Korean
+        filename: iol-2019-indiv-sol.ko.pdf
+      - language: Latvian
+        filename: iol-2019-indiv-sol.lv.pdf
+      - language: Polish
+        filename: iol-2019-indiv-sol.pl.pdf
+      - language: Portuguese (B)
+        filename: iol-2019-indiv-sol.bl.pdf
+      - language: Romanian
+        filename: iol-2019-indiv-sol.ro.pdf
+      - language: Russian
+        filename: iol-2019-indiv-sol.ru.pdf
+      - language: Slovenian
+        filename: iol-2019-indiv-sol.sl.pdf
+      - language: Spanish
+        filename: iol-2019-indiv-sol.es.pdf
+      - language: Swedish
+        filename: iol-2019-indiv-sol.sv.pdf
+      - language: Turkish
+        filename: iol-2019-indiv-sol.tr.pdf
+      - language: Ukrainian
+        filename: iol-2019-indiv-sol.uk.pdf
+  team:
+    prob:
+      - language: Bengali
+        filename: iol-2019-team-prob.bn.pdf
+      - language: Bulgarian
+        filename: iol-2019-team-prob.bg.pdf
+      - language: Chinese (正體)
+        filename: iol-2019-team-prob.zt.pdf
+      - language: Chinese (简体)
+        filename: iol-2019-team-prob.zh.pdf
+      - language: Czech
+        filename: iol-2019-team-prob.cs.pdf
+      - language: Danish
+        filename: iol-2019-team-prob.da.pdf
+      - language: Dutch
+        filename: iol-2019-team-prob.nl.pdf
+      - language: English
+        filename: iol-2019-team-prob.en.pdf
+      - language: English (A)
+        filename: iol-2019-team-prob.us.pdf
+      - language: Estonian
+        filename: iol-2019-team-prob.et.pdf
+      - language: Finnish
+        filename: iol-2019-team-prob.fi.pdf
+      - language: French
+        filename: iol-2019-team-prob.fr.pdf
+      - language: German
+        filename: iol-2019-team-prob.de.pdf
+      - language: Hungarian
+        filename: iol-2019-team-prob.hu.pdf
+      - language: Japanese
+        filename: iol-2019-team-prob.ja.pdf
+      - language: Korean
+        filename: iol-2019-team-prob.ko.pdf
+      - language: Latvian
+        filename: iol-2019-team-prob.lv.pdf
+      - language: Polish
+        filename: iol-2019-team-prob.pl.pdf
+      - language: Portuguese (B)
+        filename: iol-2019-team-prob.bl.pdf
+      - language: Romanian
+        filename: iol-2019-team-prob.ro.pdf
+      - language: Russian
+        filename: iol-2019-team-prob.ru.pdf
+      - language: Slovenian
+        filename: iol-2019-team-prob.sl.pdf
+      - language: Spanish
+        filename: iol-2019-team-prob.es.pdf
+      - language: Swedish
+        filename: iol-2019-team-prob.sv.pdf
+      - language: Turkish
+        filename: iol-2019-team-prob.tr.pdf
+      - language: Ukrainian
+        filename: iol-2019-team-prob.uk.pdf
+    sol:
+      - language: Bengali
+        filename: iol-2019-team-sol.bn.pdf
+      - language: Bulgarian
+        filename: iol-2019-team-sol.bg.pdf
+      - language: Chinese (正體)
+        filename: iol-2019-team-sol.zt.pdf
+      - language: Chinese (简体)
+        filename: iol-2019-team-sol.zh.pdf
+      - language: Czech
+        filename: iol-2019-team-sol.cs.pdf
+      - language: Danish
+        filename: iol-2019-team-sol.da.pdf
+      - language: Dutch
+        filename: iol-2019-team-sol.nl.pdf
+      - language: English
+        filename: iol-2019-team-sol.en.pdf
+      - language: English (A)
+        filename: iol-2019-team-sol.us.pdf
+      - language: Estonian
+        filename: iol-2019-team-sol.et.pdf
+      - language: Finnish
+        filename: iol-2019-team-sol.fi.pdf
+      - language: French
+        filename: iol-2019-team-sol.fr.pdf
+      - language: German
+        filename: iol-2019-team-sol.de.pdf
+      - language: Hungarian
+        filename: iol-2019-team-sol.hu.pdf
+      - language: Japanese
+        filename: iol-2019-team-sol.ja.pdf
+      - language: Korean
+        filename: iol-2019-team-sol.ko.pdf
+      - language: Latvian
+        filename: iol-2019-team-sol.lv.pdf
+      - language: Polish
+        filename: iol-2019-team-sol.pl.pdf
+      - language: Portuguese (B)
+        filename: iol-2019-team-sol.bl.pdf
+      - language: Romanian
+        filename: iol-2019-team-sol.ro.pdf
+      - language: Russian
+        filename: iol-2019-team-sol.ru.pdf
+      - language: Slovenian
+        filename: iol-2019-team-sol.sl.pdf
+      - language: Spanish
+        filename: iol-2019-team-sol.es.pdf
+      - language: Swedish
+        filename: iol-2019-team-sol.sv.pdf
+      - language: Turkish
+        filename: iol-2019-team-sol.tr.pdf
+      - language: Ukrainian
+        filename: iol-2019-team-sol.uk.pdf
+    sup:
+      - language: Multilingual
+        filename: iol-2019-team.m.zip

@@ -1,13 +1,5 @@
-- year: 2019
-  city: Yongin
-  country: Korea
-  flag: /images/flags/kr.png
-  poc: Minkyu Kim
-  contact: iol2019@krlo.kr
-  website: http://iol2019.com
-
 - year: 2020
-  city: Riga
+  city: Ventspils
   country: Latvia
   flag: /images/flags/lv.png
   poc: Vladimirs Ļitvinskis
@@ -21,8 +13,8 @@
   contact:
 
 - year: 2022
-  city: Quebec
-  country: Canada
+  city: Canada
+  country: 
   flag: /images/flags/cfr.png
   poc: N/A
   contact:

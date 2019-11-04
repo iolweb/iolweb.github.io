@@ -7,12 +7,12 @@ subheadline: "Upcoming Contest"
 widget:
   title: "Upcoming Contest"
   url: '/upcoming/'
-  image: yongin.png
-  text: '<b>Yongin, Korea</b> has been chosen as the host of the 17th International Linguistics Olympiad on July 29 - August 2nd, 2019. You can find the official website <a href="http://iol2019.com/">here</a>.'
-title: "Yongin 2019"
-teaser: '<b>Yongin, Korea</b> has been chosen as the host of the 17th International Linguistics Olympiad on July 29 - August 2, 2019. You can find the official website <a href="http://iol2019.com/">here</a>.'
+  image: ventspils.jpg
+  text: "<b>Ventspils, Latvia</b> has been chosen as the host of the 18th International Linguistics Olympiad on July 20 - 24, 2020."
+title: "Ventspils 2020"
+teaser: "<b>Ventspils, Latvia</b> has been chosen as the host of the 18th International Linguistics Olympiad on July 20 - 24, 2020."
 image: 
-  title: hufs.jpg
+  title: ventspils.jpg
 category: contests
 sitemap: false
 ---
@@ -21,22 +21,26 @@ sitemap: false
 
 ## Important Dates
 
-#### Reporting new working language*
-Before Jan 31, 2018
+#### Requesting new working language*
+Before Jan 31, 2020
 
-* The new working language means the language that was not present in the previous IOL. See here for the working languages of the previous IOL.
+* The new working language means the language that was not present in the previous IOL. See [here](/problems/2019/) for the working languages of the previous IOL.
 
 #### Early Bird registration
-Jan 12 – Jan 31, 2018
+To be announced.
+<!-- Jan 12 – Jan 31, 2018 -->
 
 #### Deposits for the teams with Early Bird registration
-Feb 1 – Feb 15, 2018
+To be announced.
+<!-- Feb 1 – Feb 15, 2018 -->
 
 #### Standard registration
-Feb 1 – Apr 30, 2018
+To be announced.
+<!-- Feb 1 – Apr 30, 2018 -->
 
 #### Payment for the teams with Standard registration
-Feb 1 – Apr 30, 2018
+To be announced.
+<!-- Feb 1 – Apr 30, 2018 -->
 
 ---
 

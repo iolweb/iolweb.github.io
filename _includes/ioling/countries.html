@@ -25,7 +25,7 @@
 Team {{ country_item.iol_name }} is chosen through {% if country_item.abbreviation %}{{ country_item.abbreviation }}, {% endif %}{{ country_item.selection_en }}{% if country_item.selection_local %} ({{ country_item.selection_local }}){% endif %}.
 
 {% if country_item.link %}* Website: [Link]({{ country_item.link }}){% endif %}
-{% if country_item.contact %}* Contact: [Minkyu Kim](/profile/10001) <[mail@minkyu.kim](mailto:mail@minkyu.kim)>{% endif %}
+{% if country_item.poc %}* Contact: [{{ country_item.poc }}](mailto:{{ country_item.email }}){% if country_item.poc2 %}, [{{ country_item.poc2 }}](mailto:{{ country_item.email2 }}){% endif %}{% endif %}
 {% endif %}
 
 {% if country_item.footnote %}

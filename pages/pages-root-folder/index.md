@@ -8,10 +8,11 @@ layout: frontpage
 header:
   image_fullwidth: head.png
 widget3:
-  title: "Yongin 2019"
+  title: "Ventspils 2020"
   url: '/upcoming/'
-  image: yongin.png
-  text: '<b>Yongin, Korea</b> has been chosen as the host of the 17th International Linguistics Olympiad on July 29 - August 2, 2019. You can find the official website <a href="http://iol2019.com/">here</a>.'
+  image: ventspils.jpg
+  text: '<b>Ventspils, Latvia</b> has been chosen as the host of the 18th International Linguistics Olympiad on July 20 - 24, 2020.'
+#  You can find the official website <a href="http://iol2019.com/">here</a>.
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -35,3 +36,7 @@ The IOL is one of 13 International Science Olympiads for secondary school studen
 
 No prior knowledge of linguistics or languages is required: even the hardest problems require only your logical ability, patient work, and willingness to think around corners. Give some of our [past problems](/problems/by_year/) a try!
 
+<div class="infogram-embed" data-id="0f77507f-a368-444a-b809-5306c3cdf1cd" data-type="interactive" data-title="Untitled infographic"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><!-- <a href="https://infogram.com/0f77507f-a368-444a-b809-5306c3cdf1cd" style="color:#989898!important;text-decoration:none!important;" target="_blank"></a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a>-->
+</div>
+
+Click [here](/results/by_country/) to find out the full list of the countries/regions that have participated in the IOL.

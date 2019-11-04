@@ -1,3 +1,11 @@
+- iol_code: ARM
+  iol_name: Armenia
+  participants:
+  summary_1: Armenia has never participated in the IOL.
+  summary_2: They have sent 0 participant in 0 team.
+  summary_3: 
+  summary_4: 
+
 - iol_code: AUS
   iol_name: Australia
   participants:
@@ -123,6 +131,20 @@
             - name: James Phillips
               medal: bronze
             - name: Daniel Tian
+    - year: 2019
+      teams:
+        - team: Australia 1
+          participants:
+            - name: Oliver Papillo
+            - name: Lachlan Doig
+            - name: Rory Lewis
+            - name: James Gunasegaram
+        - team: Australia 2
+          participants:
+            - name: Anna Zhou
+            - name: Cathy Doan
+            - name: Lyn Wang
+            - name: Pavitraa Hathi
   individual_contest_medalists:
     gold:
       - year: 2016
@@ -199,8 +221,8 @@
         team: Australia 1
         name: Max Zhang
         problem: 2
-  summary_1: Australia first competed in the IOL in 2009, and has competed in 10 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 57 participants in 15 teams.
+  summary_1: Australia first competed in the IOL in 2009, and has competed in 11 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 65 participants in 17 teams.
   summary_3: In competition, teams from Australia have brought home 7 medals (1 gold, 2 silver and 4 bronze), 1 silver trophy, 1 best-solution prize and 8 honorable mentions.
   summary_4: 
 
@@ -223,8 +245,28 @@
             - name: Ipshita Maliat Rahman
             - name: Md Mubtaseem Ahnaf Aronno
             - name: Mostafa Ishmum Ahmed
-  summary_1: Bangladesh first competed in the IOL in 2015, and has competed in 2 olympiads. They most recently competed in 2016.
-  summary_2: They have sent 8 participants in 2 teams.
+    - year: 2019
+      teams:
+        - team: Bangladesh 1
+          participants:
+            - name: Iftekhar Hossain Iftee
+            - name: Onil Morshed
+        - team: Bangladesh 2
+          participants:
+            - name: Syed Nahian Ferdous
+            - name: Tanvir Rahman Khan
+            - name: Tamjid Islam Swadip
+            - name: Udoy Saha
+  summary_1: Bangladesh first competed in the IOL in 2015, and has competed in 3 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 14 participants in 4 teams.
+  summary_3: 
+  summary_4: 
+
+- iol_code: BLR
+  iol_name: Belarus
+  participants:
+  summary_1: Belarus has never participated in the IOL.
+  summary_2: They have sent 0 participant in 0 team.
   summary_3: 
   summary_4: 
 
@@ -310,6 +352,22 @@
               medal: silver
             - name: Gustavo Palote da Silva Martins
               medal: bronze
+    - year: 2019
+      teams:
+        - team: Brazil Nhorõwa
+          participants:
+            - name: Antonio Azevedo
+            - name: João Henrique Oliveira Fontes
+              medal: silver
+            - name: Sandy Gui
+            - name: Gustavo Palote da Silva Martins
+              medal: silver
+        - team: Brazil Nhũrkwã
+          participants:
+            - name: Julia Ramos Alves
+            - name: Pedro Machado Martins Leão
+            - name: Gustavo Baracat Alvares Martins
+            - name: Vinícius de Oliveira Peixoto Rodrigues
   individual_contest_medalists:
     gold:
       - year: 2013
@@ -317,6 +375,14 @@
         name: Gabriel Alves da Silva Diniz
         score: 78
     silver:
+      - year: 2019
+        team: Brazil Nhorõwa
+        name: João Henrique Oliveira Fontes
+        score: 73.95
+      - year: 2019
+        team: Brazil Nhorõwa
+        name: Gustavo Palote da Silva Martins
+        score: 65.1
       - year: 2018
         team: Brazil Pões
         name: João Henrique Oliveira Fontes
@@ -382,10 +448,10 @@
         team: Brazil
         name: Rafael Kazuhiro Miyazaki
         problem: 2
-  summary_1: Brazil first competed in the IOL in 2011, and has competed in 7 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 35 participants in 9 teams.
-  summary_3: In competition, teams from Brazil have brought home 6 medals (1 gold, 2 silver and 3 bronze), 1 bronze trophy, 3 best-solution prizes and 6 honorable mentions.
-  summary_4: 
+  summary_1: Brazil first competed in the IOL in 2011, and has competed in 8 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 43 participants in 11 teams.
+  summary_3: In competition, teams from Brazil have brought home 8 medals (1 gold, 4 silver and 3 bronze), 1 bronze trophy, 3 best-solution prizes and 6 honorable mentions.
+  summary_4: In addition, Brazil has sent 2 Repeat Medalists
 
 - iol_code: BGR
   iol_name: Bulgaria
@@ -702,8 +768,37 @@
             - name: Martin Nikolov
             - name: Georgi Yotov
               medal: bronze
+    - year: 2019
+      teams:
+        - team: Bulgaria 1
+          participants:
+            - name: Tsvetelina Stefanova
+              medal: silver
+            - name: Viktor Baltin
+              medal: bronze
+            - name: Zdravko Ivanov
+              medal: gold
+            - name: Elena Keskinova
+              medal: silver
+        - team: Bulgaria 2
+          participants:
+            - name: Matey Petkov
+              medal: gold
+            - name: Nicole Obretincheva
+              medal: honorable mentions
+            - name: Marko Ivanov
+              medal: bronze
+            - name: Yoan Salambashev
   individual_contest_medalists:
     gold:
+      - year: 2019
+        team: Bulgaria 1
+        name: Zdravko Ivanov
+        score: 88.2
+      - year: 2019
+        team: Bulgaria 2
+        name: Matey Petkov
+        score: 87.65
       - year: 2018
         team: Bulgaria 1
         name: Viktor Baltin
@@ -773,6 +868,14 @@
         name: Ralitsa Markova
         score: 82
     silver:
+      - year: 2019
+        team: Bulgaria 1
+        name: Elena Keskinova
+        score: 71.75
+      - year: 2019
+        team: Bulgaria 1
+        name: Tsvetelina Stefanova
+        score: 64
       - year: 2018
         team: Bulgaria 1
         name: Elena Keskinova
@@ -846,6 +949,14 @@
         name: Tsvetomila Mihaylova
         score: 74
     bronze:
+      - year: 2019
+        team: Bulgaria 1
+        name: Viktor Baltin
+        score: 57.8
+      - year: 2019
+        team: Bulgaria 2
+        name: Marko Ivanov
+        score: 51.15
       - year: 2018
         team: Bulgaria 1
         name: Tsvetelina Stefanova
@@ -956,6 +1067,10 @@
         score: 74
   honorable_mentions:
     honorable_mention:
+      - year: 2019
+        team: Bulgaria 2
+        name: Nicole Obretincheva
+        score: 44.8
       - year: 2018
         team: Bulgaria 2
         name: Greta Hristozova
@@ -1036,6 +1151,10 @@
         team: Bulgaria 2
         name: Kiril Dimov
         score: 75
+      - year: 2005
+        team: Bulgaria 1
+        name: Todor Tchervenkov
+        score: 67.5
   team_contest_winners:
     gold:
       - year: 2008
@@ -1063,6 +1182,9 @@
         score: N/A
   team_contest_honorable_mentions:
     honorable_mention:
+      - year: 2019
+        team: Bulgaria 2
+        score: 99
       - year: 2016
         team: Bulgaria 2
         score: 39
@@ -1078,6 +1200,9 @@
       team: Bulgaria 1
       score: 79.5
     second:
+    - year: 2019
+      team: Bulgaria 1
+      score: 70.44
     - year: 2018
       team: Bulgaria 1
       score: 70.15
@@ -1094,6 +1219,10 @@
       team: Bulgaria 2
       score: 72.33
   best_solutions:
+      - year: 2019
+        team: Bulgaria 2
+        name: Matey Petkov
+        problem: 4
       - year: 2018
         team: Bulgaria 1
         name: Elena Keskinova
@@ -1142,10 +1271,10 @@
         team: Bulgaria 3
         name: Ivaylo Grozdev
         problem: 5
-  summary_1: Bulgaria was one of the original six countries to participate in the IOL, and has competed in 16 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 130 participants in 34 teams.
-  summary_3: In competition, teams from Bulgaria have brought home 62 medals (17 gold, 18 silver and 27 bronze), 7 trophies (2 gold, 3 silver and 2 bronze), 3 first-place team cups, 12 best-solution prizes, 20 honorable mentions and 1 team contest honorable mention.
-  summary_4: In addition, Bulgaria has sent 14 Repeat Medalists and 5 Dream Teams
+  summary_1: Bulgaria was one of the original six countries to participate in the IOL, and has competed in 17 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 138 participants in 36 teams.
+  summary_3: In competition, teams from Bulgaria have brought home 68 medals (19 gold, 20 silver and 29 bronze), 7 trophies (2 gold, 3 silver and 2 bronze), 3 first-place team cups, 13 best-solution prizes, 22 honorable mentions and 2 team contest honorable mentions.
+  summary_4: In addition, Bulgaria has sent 15 Repeat Medalists and 6 Dream Teams
 
 - iol_code: CAN
   iol_name: Canada
@@ -1320,7 +1449,33 @@
             - name: Nathan Kim
             - name: Kevin Liang
               medal: bronze
+    - year: 2019
+      teams:
+        - team: Canada Moose
+          participants:
+            - name: Nathan Kim
+              medal: silver
+            - name: Ken Jiang
+              medal: gold
+            - name: Tianqi Jiang
+              medal: silver
+            - name: Zed Li
+              medal: honorable mentions
   individual_contest_medalists:
+    gold:
+      - year: 2019
+        team: Canada Moose
+        name: Ken Jiang
+        score: 98.7
+    silver:
+      - year: 2019
+        team: Canada Moose
+        name: Tianqi Jiang
+        score: 72.4
+      - year: 2019
+        team: Canada Moose
+        name: Nathan Kim
+        score: 68.4
     bronze:
       - year: 2018
         team: Canada Moose
@@ -1332,14 +1487,28 @@
         score: 45.5
   honorable_mentions:
     honorable_mention:
+      - year: 2019
+        team: Canada Moose
+        name: Zed Li
+        score: 37.25
       - year: 2018
         team: Canada Moose
         name: Shuli Jones
         score: 40.4
-  summary_1: Canada Anglophone first competed in the IOL in 2017, and has competed in 2 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 8 participants in 2 teams.
-  summary_3: In competition, teams from Canada Anglophone have brought home 2 bronze medals and 1 honorable mention.
-  summary_4: 
+  individual_contest_team_average_scores:
+    third:
+    - year: 2019
+      team: Canada Moose
+      score: 69.19
+  best_solutions:
+      - year: 2019
+        team: Canada Moose
+        name: Ken Jiang
+        problem: 1
+  summary_1: Canada Anglophone first competed in the IOL in 2017, and has competed in 3 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 12 participants in 3 teams.
+  summary_3: In competition, teams from Canada Anglophone have brought home 5 medals (1 gold, 2 silver and 2 bronze), 1 best-solution prize and 2 honorable mentions.
+  summary_4: In addition, Canada Anglophone has sent 1 Repeat Medalist
 
 - iol_code: CFR
   iol_name: Canada Francophone
@@ -1360,8 +1529,16 @@
             - name: Yeryomin George
             - name: Samson Nathan
             - name: Corinne Soucy
-  summary_1: Canada Francophone first competed in the IOL in 2017, and has competed in 2 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 8 participants in 2 teams.
+    - year: 2019
+      teams:
+        - team: Canada Castors
+          participants:
+            - name: Jonathan Deschênes
+            - name: Geneviève Fournier
+            - name: Florence Lefebvre
+            - name: Ariel P. Soucy
+  summary_1: Canada Francophone first competed in the IOL in 2017, and has competed in 3 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 12 participants in 3 teams.
   summary_3: 
   summary_4: 
 
@@ -1486,8 +1663,35 @@
               medal: honorable mentions
             - name: Ao Qiu
             - name: Lin Ye
+    - year: 2019
+      teams:
+        - team: China KUN
+          participants:
+            - name: Xinyi Yuan
+            - name: Lanruo Xie
+              medal: bronze
+            - name: Jinru Bai
+              medal: silver
+            - name: Hongzhe Du
+        - team: China QIAN
+          participants:
+            - name: Chenjun Wei
+            - name: Haokun Wu
+              medal: gold
+            - name: Ruijia Li
+              medal: honorable mentions
+            - name: Yuzhe Shi
   individual_contest_medalists:
+    gold:
+      - year: 2019
+        team: China QIAN
+        name: Haokun Wu
+        score: 84.5
     silver:
+      - year: 2019
+        team: China KUN
+        name: Jinru Bai
+        score: 61.15
       - year: 2016
         team: China 2
         name: Luo Yiming
@@ -1517,6 +1721,10 @@
         name: Dailin Xue
         score: 54
     bronze:
+      - year: 2019
+        team: China KUN
+        name: Lanruo Xie
+        score: 47.2
       - year: 2018
         team: China KUN
         name: Ye Liu
@@ -1555,6 +1763,10 @@
         score: 42
   honorable_mentions:
     honorable_mention:
+      - year: 2019
+        team: China QIAN
+        name: Ruijia Li
+        score: 40
       - year: 2018
         team: China QIAN
         name: Rui Min
@@ -1603,6 +1815,11 @@
         team: China 1
         name: Jia Zhang
         score: 43
+  team_contest_winners:
+    silver:
+      - year: 2019
+        team: China KUN
+        score: 108
   team_contest_honorable_mentions:
     honorable_mention:
       - year: 2016
@@ -1614,6 +1831,10 @@
       team: China 1
       score: 48
   best_solutions:
+      - year: 2019
+        team: China QIAN
+        name: Haokun Wu
+        problem: 4
       - year: 2016
         team: China 2
         name: Bai Ruiheng
@@ -1622,10 +1843,26 @@
         team: China 1
         name: Tianlu Chen
         problem: 5
-  summary_1: China first competed in the IOL in 2012, and has competed in 7 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 52 participants in 13 teams.
-  summary_3: In competition, teams from China have brought home 16 medals (7 silver and 9 bronze), 2 best-solution prizes, 12 honorable mentions and 1 team contest honorable mention.
+  summary_1: China first competed in the IOL in 2012, and has competed in 8 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 60 participants in 15 teams.
+  summary_3: In competition, teams from China have brought home 19 medals (1 gold, 8 silver and 10 bronze), 1 silver trophy, 3 best-solution prizes, 13 honorable mentions and 1 team contest honorable mention.
   summary_4: In addition, China has sent 1 Repeat Medalist
+
+- iol_code: COL
+  iol_name: Colombia
+  participants:
+    - year: 2019
+      teams:
+        - team: Colombia
+          participants:
+            - name: Isabella Mijares
+            - name: Francesco Murande
+            - name: Leonardo Vargas
+            - name: Laura Sofia Jamaica
+  summary_1: Colombia competed in the IOL in 2019.
+  summary_2: They have sent 4 participants in 1 team.
+  summary_3: 
+  summary_4: 
 
 - iol_code: CZE
   iol_name: Czechia
@@ -1722,6 +1959,18 @@
             - name: Jakub Petr
               medal: silver
             - name: Ondřej Váňa
+    - year: 2019
+      teams:
+        - team: Czechia
+          participants:
+            - name: Vít Metka
+              medal: honorable mentions
+            - name: Jakub Petr
+              medal: silver
+            - name: Michal Jireš
+              medal: honorable mentions
+            - name: Vanda Fousková
+              medal: honorable mentions
   individual_contest_medalists:
     gold:
       - year: 2016
@@ -1733,6 +1982,10 @@
         name: Matyáš Medek
         score: 80
     silver:
+      - year: 2019
+        team: Czechia
+        name: Jakub Petr
+        score: 71
       - year: 2018
         team: Czechia Tým Nářečíčkářů
         name: Jakub Petr
@@ -1772,6 +2025,18 @@
         score: 43
   honorable_mentions:
     honorable_mention:
+      - year: 2019
+        team: Czechia
+        name: Michal Jireš
+        score: 44.55
+      - year: 2019
+        team: Czechia
+        name: Vít Metka
+        score: 43.8
+      - year: 2019
+        team: Czechia
+        name: Vanda Fousková
+        score: 37.4
       - year: 2018
         team: Czechia Tým Křivopřísežníků
         name: Michaela Svatošová
@@ -1814,10 +2079,10 @@
         team: Czech Republic
         name: Jana Kuřetová
         problem: 5
-  summary_1: Czechia was one of the original six countries to participate in the IOL, and has competed in 9 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 37 participants in 10 teams.
-  summary_3: In competition, teams from Czechia have brought home 11 medals (2 gold, 5 silver and 4 bronze), 1 bronze trophy, 3 best-solution prizes and 6 honorable mentions.
-  summary_4: In addition, Czechia has sent 3 Repeat Medalists
+  summary_1: Czechia was one of the original six countries to participate in the IOL, and has competed in 10 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 41 participants in 11 teams.
+  summary_3: In competition, teams from Czechia have brought home 12 medals (2 gold, 6 silver and 4 bronze), 1 bronze trophy, 3 best-solution prizes and 9 honorable mentions.
+  summary_4: In addition, Czechia has sent 4 Repeat Medalists
 
 - iol_code: DNK
   iol_name: Denmark
@@ -1830,8 +2095,16 @@
             - name: Benedikte Wulff
             - name: William Østergaard
             - name: Christian Ramus
-  summary_1: Denmark competed in the IOL in 2018.
-  summary_2: They have sent 4 participants in 1 team.
+    - year: 2019
+      teams:
+        - team: Denmark
+          participants:
+            - name: Silje Emilie Glyrskov
+            - name: Kristian Katholm Nielsen
+            - name: Isabella Fink-Jensen
+            - name: Freja Jensen
+  summary_1: Denmark first competed in the IOL in 2018, and has competed in 2 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 8 participants in 2 teams.
   summary_3: 
   summary_4: 
 
@@ -2010,6 +2283,16 @@
             - name: Martin Puškin
               medal: bronze
             - name: Loona Volke
+    - year: 2019
+      teams:
+        - team: Estonia
+          participants:
+            - name: Roosmari Pihlak
+            - name: Ove Üllar Viesemann
+              medal: honorable mentions
+            - name: Anna Talas
+            - name: Hant Mikit Kolk
+              medal: bronze
   individual_contest_medalists:
     gold:
       - year: 2011
@@ -2046,6 +2329,10 @@
         name: Teele Vaalma
         score: 69
     bronze:
+      - year: 2019
+        team: Estonia
+        name: Hant Mikit Kolk
+        score: 53.3
       - year: 2018
         team: Estonia 
         name: Martin Puškin
@@ -2104,6 +2391,10 @@
         score: 67
   honorable_mentions:
     honorable_mention:
+      - year: 2019
+        team: Estonia
+        name: Ove Üllar Viesemann
+        score: 39.8
       - year: 2017
         team: Estonia
         name: Loona Volke
@@ -2148,6 +2439,10 @@
         team: Estonia
         name: Ivar Merilo
         score: 72
+      - year: 2005
+        team: Estonia
+        name: Simon Vigonski
+        score: 65.5
   individual_contest_team_average_scores:
     first:
     - year: 2007
@@ -2190,9 +2485,9 @@
         team: Estonia
         name: Kadri Rosmaa
         problem: 4
-  summary_1: Estonia was one of the original six countries to participate in the IOL, and has competed in 16 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 71 participants in 18 teams.
-  summary_3: In competition, teams from Estonia have brought home 22 medals (1 gold, 7 silver and 14 bronze), 1 first-place team cup, 8 best-solution prizes and 11 honorable mentions.
+  summary_1: Estonia was one of the original six countries to participate in the IOL, and has competed in 17 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 75 participants in 19 teams.
+  summary_3: In competition, teams from Estonia have brought home 23 medals (1 gold, 7 silver and 15 bronze), 1 first-place team cup, 8 best-solution prizes and 13 honorable mentions.
   summary_4: In addition, Estonia has sent 3 Repeat Medalists and 1 Dream Team
 
 - iol_code: FIN
@@ -2223,14 +2518,22 @@
             - name: Kasperi Koski
             - name: Anna Vesimäki
             - name: Xuefei Wu
+    - year: 2019
+      teams:
+        - team: Finland
+          participants:
+            - name: Tia Iskanius
+            - name: Alma Jyränki
+            - name: Nerissa Shakespeare
+            - name: Xuefei Wu
   honorable_mentions:
     honorable_mention:
       - year: 2018
         team: Finland
         name: Panagiotis Kapellis
         score: 37.5
-  summary_1: Finland first competed in the IOL in 2005, and has competed in 3 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 12 participants in 3 teams.
+  summary_1: Finland first competed in the IOL in 2005, and has competed in 4 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 16 participants in 4 teams.
   summary_3: In competition, teams from Finland have brought home 1 honorable mention.
   summary_4: 
 
@@ -2297,6 +2600,15 @@
             - name: Ansgar Schulz
             - name: Maja Sellmer
             - name: Aleksandra Stryjska
+    - year: 2019
+      teams:
+        - team: Germany
+          participants:
+            - name: Maja Sellmer
+              medal: honorable mentions
+            - name: Santina Kemper
+            - name: Michał Boroń
+            - name: Jacqueline Guitu
   individual_contest_medalists:
     silver:
       - year: 2012
@@ -2310,6 +2622,10 @@
         score: 73
   honorable_mentions:
     honorable_mention:
+      - year: 2019
+        team: Germany
+        name: Maja Sellmer
+        score: 38.8
       - year: 2012
         team: Germany
         name: Maylis Ribette
@@ -2335,9 +2651,9 @@
         team: Germany
         name: Nadine Sedlaczeck
         problem: 3
-  summary_1: Germany first competed in the IOL in 2008, and has competed in 5 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 20 participants in 5 teams.
-  summary_3: In competition, teams from Germany have brought home 2 medals (1 silver and 1 bronze), 1 best-solution prize and 5 honorable mentions.
+  summary_1: Germany first competed in the IOL in 2008, and has competed in 6 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 24 participants in 6 teams.
+  summary_3: In competition, teams from Germany have brought home 2 medals (1 silver and 1 bronze), 1 best-solution prize and 6 honorable mentions.
   summary_4: 
 
 - iol_code: GRC
@@ -2367,6 +2683,28 @@
             - name: Nicholas Marcos Rapidis
   summary_1: Greece first competed in the IOL in 2012, and has competed in 2 olympiads. They most recently competed in 2014.
   summary_2: They have sent 12 participants in 3 teams.
+  summary_3: 
+  summary_4: 
+
+- iol_code: HKG
+  iol_name: Hong Kong
+  participants:
+    - year: 2019
+      teams:
+        - team: Hong Kong Logicians
+          participants:
+            - name: Audrey Yuen
+            - name: Chia Yu Joy Chi
+            - name: Sun-Yu Gordon Chi
+            - name: Hiu Wa Melody Lo
+        - team: Hong Kong MACK & Cheese
+          participants:
+            - name: Cheuk Wai Ma
+            - name: Ho Shan Moses Lee
+            - name: Yin Lam Ho
+            - name: Aujin Kim
+  summary_1: Hong Kong competed in the IOL in 2019.
+  summary_2: They have sent 8 participants in 2 teams.
   summary_3: 
   summary_4: 
 
@@ -2470,6 +2808,24 @@
             - name: Probojcsevity Lili
             - name: Vári-Kakas Andor
               medal: bronze
+    - year: 2019
+      teams:
+        - team: Hungary Teniszütő
+          participants:
+            - name: Árvay-Vass Iván 
+              medal: honorable mentions
+            - name: Egyházi Hanna 
+            - name: Kövér Blanka 
+              medal: bronze
+            - name: Blaskovics Ákos 
+              medal: bronze
+        - team: Hungary Uborka
+          participants:
+            - name: Vári-Kakas Andor
+            - name: Alexy Milán 
+            - name: Urszuly Csenge 
+            - name: Dobák Dániel 
+              medal: honorable mentions
   individual_contest_medalists:
     silver:
       - year: 2018
@@ -2477,6 +2833,14 @@
         name: Ugrin Bálint József
         score: 63.7
     bronze:
+      - year: 2019
+        team: Hungary Teniszütő
+        name: Kövér Blanka 
+        score: 58.9
+      - year: 2019
+        team: Hungary Teniszütő
+        name: Blaskovics Ákos 
+        score: 50.45
       - year: 2018
         team: Hungary B
         name: Vári-Kakas Andor
@@ -2495,6 +2859,14 @@
         score: 46
   honorable_mentions:
     honorable_mention:
+      - year: 2019
+        team: Hungary Teniszütő
+        name: Árvay-Vass Iván 
+        score: 42.45
+      - year: 2019
+        team: Hungary Uborka
+        name: Dobák Dániel 
+        score: 40.05
       - year: 2017
         team: Hungary 1
         name: Alexandra Souly
@@ -2519,9 +2891,9 @@
         team: Hungary
         name: Attila Dániel Szabó
         score: 41
-  summary_1: Hungary first competed in the IOL in 2012, and has competed in 7 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 48 participants in 12 teams.
-  summary_3: In competition, teams from Hungary have brought home 5 medals (1 silver and 4 bronze) and 6 honorable mentions.
+  summary_1: Hungary first competed in the IOL in 2012, and has competed in 8 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 56 participants in 14 teams.
+  summary_3: In competition, teams from Hungary have brought home 7 medals (1 silver and 6 bronze) and 8 honorable mentions.
   summary_4: 
 
 - iol_code: IND
@@ -2658,6 +3030,25 @@
             - name: Shinjini Ghosh
               medal: bronze
             - name: Niveditha Subramanyam Iyer
+    - year: 2019
+      teams:
+        - team: India Green
+          participants:
+            - name: Sourabh Raj Jaiswal
+            - name: Jaisal Kothari
+            - name: Antara Raaghavi Bhattacharya
+              medal: bronze
+            - name: Shashwat Goel
+              medal: honorable mentions
+        - team: India Saffron
+          participants:
+            - name: Aparna Ajit Gupte
+              medal: bronze
+            - name: Angikar Ghosal
+              medal: bronze
+            - name: Niveditha Subramanyam Iyer
+            - name: Ishan Ganguly
+              medal: silver
   individual_contest_medalists:
     gold:
       - year: 2018
@@ -2669,6 +3060,10 @@
         name: Angikar Ghosal
         score: 76
     silver:
+      - year: 2019
+        team: India Saffron
+        name: Ishan Ganguly
+        score: 64.55
       - year: 2018
         team: India Green
         name: Aparna Ajit Gupte
@@ -2690,6 +3085,18 @@
         name: Aakanksha Sarda
         score: 63
     bronze:
+      - year: 2019
+        team: India Saffron
+        name: Angikar Ghosal
+        score: 55.95
+      - year: 2019
+        team: India Saffron
+        name: Aparna Ajit Gupte
+        score: 54.8
+      - year: 2019
+        team: India Green
+        name: Antara Raaghavi Bhattacharya
+        score: 47.05
       - year: 2018
         team: India Saffron
         name: Shinjini Ghosh
@@ -2732,6 +3139,10 @@
         score: 52
   honorable_mentions:
     honorable_mention:
+      - year: 2019
+        team: India Green
+        name: Shashwat Goel
+        score: 38.7
       - year: 2017
         team: India Saffron
         name: Angikar Ghosal
@@ -2773,6 +3184,10 @@
         name: Sagar Sarda
         score: 49
   best_solutions:
+      - year: 2019
+        team: India Saffron
+        name: Aparna Ajit Gupte
+        problem: 5
       - year: 2018
         team: India Green
         name: Aparna Ajit Gupte
@@ -2805,10 +3220,10 @@
         team: India
         name: Aakanksha Sarda
         problem: 3
-  summary_1: India first competed in the IOL in 2009, and has competed in 10 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 56 participants in 14 teams.
-  summary_3: In competition, teams from India have brought home 17 medals (2 gold, 5 silver and 10 bronze), 8 best-solution prizes and 10 honorable mentions.
-  summary_4: In addition, India has sent 3 Repeat Medalists
+  summary_1: India first competed in the IOL in 2009, and has competed in 11 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 64 participants in 16 teams.
+  summary_3: In competition, teams from India have brought home 21 medals (2 gold, 6 silver and 13 bronze), 9 best-solution prizes and 11 honorable mentions.
+  summary_4: In addition, India has sent 5 Repeat Medalists
 
 - iol_code: IRL
   iol_name: Ireland
@@ -2909,6 +3324,14 @@
         - team: Ireland 2
           participants:
             - name: Philip Krause
+    - year: 2019
+      teams:
+        - team: Ireland
+          participants:
+            - name: Laura Cosgrave
+            - name: Páidí Walsh
+            - name: Flynn Ryan
+            - name: Keelan James Daye
   individual_contest_medalists:
     bronze:
       - year: 2016
@@ -2941,8 +3364,8 @@
         team: Ireland
         name: Ruadhan Treacy
         score: 48
-  summary_1: Ireland first competed in the IOL in 2009, and has competed in 10 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 45 participants in 12 teams.
+  summary_1: Ireland first competed in the IOL in 2009, and has competed in 11 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 49 participants in 13 teams.
   summary_3: In competition, teams from Ireland have brought home 2 bronze medals and 5 honorable mentions.
   summary_4: 
 
@@ -3003,8 +3426,16 @@
             - name: Emily Gray
             - name: Nathan Harmer
             - name: Alice Lowdon
-  summary_1: Isle of Man first competed in the IOL in 2013, and has competed in 6 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 28 participants in 7 teams.
+    - year: 2019
+      teams:
+        - team: Isle of Man
+          participants:
+            - name: Asia Hall
+            - name: Emily Gray
+            - name: Nathan Harmer
+            - name: Alex Reece
+  summary_1: Isle of Man first competed in the IOL in 2013, and has competed in 7 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 32 participants in 8 teams.
   summary_3: 
   summary_4: 
 
@@ -3125,7 +3556,30 @@
             - name: Gen Suzuki
             - name: Soichiro Tamura
             - name: Takumi Yoshino
+    - year: 2019
+      teams:
+        - team: Japan Ninja
+          participants:
+            - name: Takumi Yoshino
+              medal: gold
+            - name: Tsubasa Takahashi
+              medal: bronze
+            - name: Takumi Ose
+              medal: bronze
+            - name: Sota Yazawa
+        - team: Japan Samurai
+          participants:
+            - name: Kazune Sato
+            - name: Rion Morinishi
+            - name: Rino Hara
+            - name: Reona Kubomiya
+              medal: honorable mentions
   individual_contest_medalists:
+    gold:
+      - year: 2019
+        team: Japan Ninja
+        name: Takumi Yoshino
+        score: 93.1
     silver:
       - year: 2017
         team: Japan 2
@@ -3136,6 +3590,14 @@
         name: Keisuke Yamada
         score: 57
     bronze:
+      - year: 2019
+        team: Japan Ninja
+        name: Takumi Ose
+        score: 53.2
+      - year: 2019
+        team: Japan Ninja
+        name: Tsubasa Takahashi
+        score: 53.05
       - year: 2018
         team: Japan Ninja
         name: Takumi Nishino
@@ -3154,6 +3616,10 @@
         score: 39
   honorable_mentions:
     honorable_mention:
+      - year: 2019
+        team: Japan Samurai
+        name: Reona Kubomiya
+        score: 43.65
       - year: 2018
         team: Japan Ninja
         name: Takayuki Yamazaki
@@ -3195,10 +3661,10 @@
         team: Japan Samurai
         name: Hirotaka Sato
         problem: 5
-  summary_1: Japan first competed in the IOL in 2012, and has competed in 7 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 45 participants in 12 teams.
-  summary_3: In competition, teams from Japan have brought home 6 medals (2 silver and 4 bronze), 1 best-solution prize and 9 honorable mentions.
-  summary_4: 
+  summary_1: Japan first competed in the IOL in 2012, and has competed in 8 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 53 participants in 14 teams.
+  summary_3: In competition, teams from Japan have brought home 9 medals (1 gold, 2 silver and 6 bronze), 1 best-solution prize and 10 honorable mentions.
+  summary_4: In addition, Japan has sent 1 Repeat Medalist
 
 - iol_code: KAZ
   iol_name: Kazakhstan
@@ -3263,14 +3729,32 @@
             - name: Roman Vergilessov
             - name: Karina Yambulatova
             - name: Yerdos Zhanpeissov
+    - year: 2019
+      teams:
+        - team: Kazakhstan
+          participants:
+            - name: Dana Ospanova
+              medal: bronze
+            - name: Yerdos Zhanpeissov
+              medal: honorable mentions
+            - name: Aksultan Aitkozhin
+            - name: Arman Alibekov
   individual_contest_medalists:
     bronze:
+      - year: 2019
+        team: Kazakhstan
+        name: Dana Ospanova
+        score: 52.9
       - year: 2015
         team: Kazakhstan 1
         name: Diana Murzagaliyeva
         score: 41
   honorable_mentions:
     honorable_mention:
+      - year: 2019
+        team: Kazakhstan
+        name: Yerdos Zhanpeissov
+        score: 40.7
       - year: 2018
         team: Kazakhstan 1
         name: Dana Ospanova
@@ -3283,9 +3767,9 @@
         team: Kazakhstan 1
         name: Alyona Kim
         score: 33
-  summary_1: Kazakhstan first competed in the IOL in 2015, and has competed in 4 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 32 participants in 8 teams.
-  summary_3: In competition, teams from Kazakhstan have brought home 1 bronze medal and 3 honorable mentions.
+  summary_1: Kazakhstan first competed in the IOL in 2015, and has competed in 5 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 36 participants in 9 teams.
+  summary_3: In competition, teams from Kazakhstan have brought home 2 bronze medals and 4 honorable mentions.
   summary_4: 
 
 - iol_code: LVA
@@ -3297,40 +3781,40 @@
           participants:
             - name: Maksims Arzamasovs
             - name: Margarita Borovkova
-            - name: Artyom Kobakhidze
-            - name: Alexandra Nivina
+            - name: Artjoms Kobahidze
+            - name: Aleksandra Ņivina
     - year: 2004
       teams:
         - team: Latvia
           participants:
             - name: Maksims Arzamasovs
             - name: Margarita Borovkova
-            - name: Aleksandra Nivina
+            - name: Aleksandra Ņivina
             - name: Taisija Šantare
     - year: 2005
       teams:
         - team: Latvia
           participants:
             - name: Nadežda Kiseļova
-            - name: Aleksandra Nivina
+            - name: Aleksandra Ņivina
             - name: Inesa Boikova
             - name: Margarita Borovkova
     - year: 2006
       teams:
         - team: Latvia
           participants:
-            - name: Simona Strizhevska
+            - name: Simona Striževska
             - name: Olga Bugajenko
             - name: Nadežda Kiseļova
-            - name: Julija Zotova
+            - name: Jūlija Zotova
     - year: 2007
       teams:
         - team: Latvia
           participants:
             - name: Nadežda Kiseļova
-            - name: Julia Pecherskaya
-            - name: Elizaveta Perec
-            - name: Alexandr Sorokin
+            - name: Jūlija Pečerska
+            - name: Jeļizaveta Pereca
+            - name: Aleksandrs Sorokins
     - year: 2008
       teams:
         - team: Latvia
@@ -3347,7 +3831,7 @@
               medal: silver
             - name: Aleksejs Peguševs
               medal: honorable mentions
-            - name: Julija Pereca
+            - name: Jūlija Pereca
             - name: Estere Šeinkmane
     - year: 2010
       teams:
@@ -3446,6 +3930,16 @@
             - name: Romi Veide
             - name: Angellika Vojevodina
               medal: bronze
+    - year: 2019
+      teams:
+        - team: Latvia
+          participants:
+            - name: Viesturs Jūlijs Lasmanis
+            - name: Arkādijs Šaldovs
+            - name: Nestors Starostins
+              medal: bronze
+            - name: Džonatans Miks Melgalvis
+              medal: honorable mentions
   individual_contest_medalists:
     gold:
       - year: 2013
@@ -3466,6 +3960,10 @@
         name: Artūrs Semeņuks
         score: 74
     bronze:
+      - year: 2019
+        team: Latvia
+        name: Nestors Starostins
+        score: 52.5
       - year: 2018
         team: Latvia 2
         name: Angellika Vojevodina
@@ -3504,6 +4002,10 @@
         score: 75
   honorable_mentions:
     honorable_mention:
+      - year: 2019
+        team: Latvia
+        name: Džonatans Miks Melgalvis
+        score: 40.8
       - year: 2017
         team: Latvia
         name: Angellika Vojevodina
@@ -3536,6 +4038,10 @@
         team: Latvia
         name: Aleksejs Peguševs
         score: 45
+      - year: 2005
+        team: Latvia
+        name: Aleksandra Ņivina
+        score: 68.5
   team_contest_winners:
     gold:
       - year: 2010
@@ -3566,9 +4072,9 @@
         team: Latvia
         name: Margarita Borovkova
         problem: 5
-  summary_1: Latvia was one of the original six countries to participate in the IOL, and has competed in 16 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 68 participants in 17 teams.
-  summary_3: In competition, teams from Latvia have brought home 13 medals (1 gold, 3 silver and 9 bronze), 2 trophies (1 gold and 1 silver), 5 best-solution prizes and 8 honorable mentions.
+  summary_1: Latvia was one of the original six countries to participate in the IOL, and has competed in 17 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 72 participants in 18 teams.
+  summary_3: In competition, teams from Latvia have brought home 14 medals (1 gold, 3 silver and 10 bronze), 2 trophies (1 gold and 1 silver), 5 best-solution prizes and 10 honorable mentions.
   summary_4: In addition, Latvia has sent 2 Repeat Medalists
 
 - iol_code: LTU
@@ -3605,15 +4111,61 @@
             - name: Wong Jer Han
             - name: Yeoh Zi Song
               medal: silver
+    - year: 2019
+      teams:
+        - team: Malaysia A
+          participants:
+            - name: Jing Kai Ong
+            - name: Zi Song Yeoh
+              medal: silver
+            - name: Zhe Ren Ooi
+              medal: bronze
+            - name: Jun Xing Go
+        - team: Malaysia B
+          participants:
+            - name: Heyang Ong
+            - name: Ci Hui Lee
+            - name: Jer Ren Wong
+            - name: Nur Fatin Najihah Binti Ruslan
   individual_contest_medalists:
     silver:
+      - year: 2019
+        team: Malaysia A
+        name: Zi Song Yeoh
+        score: 63.3
       - year: 2018
         team: Malaysia B
         name: Yeoh Zi Song
         score: 63.8
-  summary_1: Malaysia competed in the IOL in 2018.
-  summary_2: They have sent 8 participants in 2 teams.
-  summary_3: In competition, teams from Malaysia have brought home 1 silver medal.
+    bronze:
+      - year: 2019
+        team: Malaysia A
+        name: Zhe Ren Ooi
+        score: 48.75
+  team_contest_winners:
+    bronze:
+      - year: 2019
+        team: Malaysia A
+        score: 102
+  summary_1: Malaysia first competed in the IOL in 2018, and has competed in 2 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 16 participants in 4 teams.
+  summary_3: In competition, teams from Malaysia have brought home 3 medals (2 silver and 1 bronze) and 1 bronze trophy.
+  summary_4: 
+
+- iol_code: NPL
+  iol_name: Nepal
+  participants:
+    - year: 2019
+      teams:
+        - team: Nepal
+          participants:
+            - name: Kushal Pathak
+            - name: Himal Acharya
+            - name: Subham Jung Karki
+            - name: Umesh Yadav
+  summary_1: Nepal competed in the IOL in 2019.
+  summary_2: They have sent 4 participants in 1 team.
+  summary_3: 
   summary_4: 
 
 - iol_code: NLD
@@ -3775,6 +4327,17 @@
               medal: bronze
             - name: Kristian Santiago Terlien
               medal: honorable mentions
+    - year: 2019
+      teams:
+        - team: Netherlands Beter Als Jouw
+          participants:
+            - name: Martin Lelarge
+            - name: Kristian Terlien
+              medal: silver
+            - name: Roman Shabanov
+              medal: honorable mentions
+            - name: Walt Kraeger
+              medal: honorable mentions
   individual_contest_medalists:
     gold:
       - year: 2008
@@ -3786,6 +4349,10 @@
         name: Eddin Najetovic
         score: 88
     silver:
+      - year: 2019
+        team: Netherlands Beter Als Jouw
+        name: Kristian Terlien
+        score: 60.25
       - year: 2003
         team: Netherlands
         name: Mirjam Plooij
@@ -3809,6 +4376,14 @@
         score: 68
   honorable_mentions:
     honorable_mention:
+      - year: 2019
+        team: Netherlands Beter Als Jouw
+        name: Roman Shabanov
+        score: 44.95
+      - year: 2019
+        team: Netherlands Beter Als Jouw
+        name: Walt Kraeger
+        score: 38.65
       - year: 2018
         team: Netherlands
         name: Kristian Santiago Terlien
@@ -3917,9 +4492,9 @@
         team: Netherlands
         name: Alexey Nazarov
         problem: 2
-  summary_1: Netherlands was one of the original six countries to participate in the IOL, and has competed in 16 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 67 participants in 17 teams.
-  summary_3: In competition, teams from Netherlands have brought home 7 medals (2 gold, 1 silver and 4 bronze), 6 trophies (2 gold, 3 silver and 1 bronze), 1 first-place team cup, 4 best-solution prizes and 16 honorable mentions.
+  summary_1: Netherlands was one of the original six countries to participate in the IOL, and has competed in 17 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 71 participants in 18 teams.
+  summary_3: In competition, teams from Netherlands have brought home 8 medals (2 gold, 2 silver and 4 bronze), 6 trophies (2 gold, 3 silver and 1 bronze), 1 first-place team cup, 4 best-solution prizes and 18 honorable mentions.
   summary_4: 
 
 - iol_code: NOR
@@ -4244,6 +4819,24 @@
               medal: gold
             - name: Karol Musiał
             - name: Michał Trocewicz
+    - year: 2019
+      teams:
+        - team: Poland Bóbr
+          participants:
+            - name: Izabela Znój
+              medal: honorable mentions
+            - name: Martyna Szymańska
+            - name: Stanisław Sochacki
+            - name: Mateusz Winiarski
+        - team: Poland Żubr
+          participants:
+            - name: Alicja Maksymiuk
+              medal: honorable mentions
+            - name: Diego Król
+              medal: silver
+            - name: Mikołaj Walicki
+            - name: Krzysztof Olejniczak
+              medal: honorable mentions
   individual_contest_medalists:
     gold:
       - year: 2018
@@ -4283,6 +4876,10 @@
         name: Łukasz Cegieła
         score: 85.5
     silver:
+      - year: 2019
+        team: Poland Żubr
+        name: Diego Król
+        score: 74.9
       - year: 2018
         team: Poland Biali
         name: Patryk Sapała-Niedzin
@@ -4438,6 +5035,18 @@
         score: 69
   honorable_mentions:
     honorable_mention:
+      - year: 2019
+        team: Poland Żubr
+        name: Alicja Maksymiuk
+        score: 43.95
+      - year: 2019
+        team: Poland Bóbr
+        name: Izabela Znój
+        score: 41
+      - year: 2019
+        team: Poland Żubr
+        name: Krzysztof Olejniczak
+        score: 37.35
       - year: 2017
         team: Poland Ę
         name: Filip Karcz
@@ -4540,6 +5149,9 @@
         team: Poland Ą
         score: N/A
     bronze:
+      - year: 2019
+        team: Poland Bóbr
+        score: 104
       - year: 2015
         team: Poland White
         score: N/A
@@ -4552,6 +5164,11 @@
       - year: 2006
         team: Poland 1
         score: 72
+  team_contest_honorable_mentions:
+    honorable_mention:
+      - year: 2019
+        team: Poland Żubr
+        score: 99
   individual_contest_team_average_scores:
     third:
     - year: 2014
@@ -4616,10 +5233,10 @@
         team: Poland
         name: Tymon Słoczyński
         problem: 2
-  summary_1: Poland first competed in the IOL in 2004, and has competed in 15 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 113 participants in 29 teams.
-  summary_3: In competition, teams from Poland have brought home 47 medals (9 gold, 21 silver and 17 bronze), 5 trophies (1 silver and 4 bronze), 13 best-solution prizes and 24 honorable mentions.
-  summary_4: In addition, Poland has sent 5 Repeat Medalists and 2 Dream Teams
+  summary_1: Poland first competed in the IOL in 2004, and has competed in 16 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 121 participants in 31 teams.
+  summary_3: In competition, teams from Poland have brought home 48 medals (9 gold, 22 silver and 17 bronze), 6 trophies (1 silver and 5 bronze), 13 best-solution prizes, 27 honorable mentions and 1 team contest honorable mention.
+  summary_4: In addition, Poland has sent 6 Repeat Medalists and 2 Dream Teams
 
 - iol_code: KOR
   iol_name: Republic of Korea
@@ -4809,6 +5426,25 @@
             - name: Doyeop Lee
             - name: Hansol Pi
               medal: bronze
+    - year: 2019
+      teams:
+        - team: Korea Giyeok
+          participants:
+            - name: Sunwoo Kang
+            - name: Haenaem Oh
+              medal: bronze
+            - name: Hansol Pi
+              medal: honorable mentions
+            - name: Seeeun Hong
+              medal: honorable mentions
+        - team: Korea Nieun
+          participants:
+            - name: Seonoo Kim
+              medal: bronze
+            - name: Taeeon Park
+              medal: honorable mentions
+            - name: Gayeong Cheon
+            - name: Hyukjae Choi
   individual_contest_medalists:
     gold:
       - year: 2016
@@ -4833,6 +5469,14 @@
         name: Ji Wook Kim
         score: 60
     bronze:
+      - year: 2019
+        team: Korea Giyeok
+        name: Haenaem Oh
+        score: 53.95
+      - year: 2019
+        team: Korea Nieun
+        name: Seonoo Kim
+        score: 46.5
       - year: 2018
         team: Korea Nieun
         name: Hansol Pi
@@ -4883,6 +5527,18 @@
         score: 71
   honorable_mentions:
     honorable_mention:
+      - year: 2019
+        team: Korea Giyeok
+        name: Seeeun Hong
+        score: 43.75
+      - year: 2019
+        team: Korea Nieun
+        name: Taeeon Park
+        score: 42.7
+      - year: 2019
+        team: Korea Giyeok
+        name: Hansol Pi
+        score: 38.05
       - year: 2018
         team: Korea Nieun
         name: Jeongkeun Choi
@@ -4966,9 +5622,9 @@
         team: Korea 1
         name: Hye jin Ryu
         problem: 3
-  summary_1: Republic of Korea first competed in the IOL in 2008, and has competed in 11 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 88 participants in 22 teams.
-  summary_3: In competition, teams from Republic of Korea have brought home 17 medals (2 gold, 3 silver and 12 bronze), 1 silver trophy, 4 best-solution prizes, 14 honorable mentions and 1 team contest honorable mention.
+  summary_1: Republic of Korea first competed in the IOL in 2008, and has competed in 12 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 96 participants in 24 teams.
+  summary_3: In competition, teams from Republic of Korea have brought home 19 medals (2 gold, 3 silver and 14 bronze), 1 silver trophy, 4 best-solution prizes, 17 honorable mentions and 1 team contest honorable mention.
   summary_4: In addition, Republic of Korea has sent 1 Repeat Medalist
 
 - iol_code: ROU
@@ -5051,6 +5707,15 @@
             - name: Bianca-Mihaela Gănescu
               medal: bronze
             - name: Mihai-Cristian Tomoiagă
+    - year: 2019
+      teams:
+        - team: Romania
+          participants:
+            - name: Ilinca-Dora Andone
+            - name: Luiza-Natalia Ionescu
+            - name: Eric-Alexandru Morosan
+            - name: Matei-Costin Banu
+              medal: bronze
   individual_contest_medalists:
     gold:
       - year: 2017
@@ -5075,6 +5740,10 @@
         name: Teodora-Elena Solovan
         score: 48
     bronze:
+      - year: 2019
+        team: Romania
+        name: Matei-Costin Banu
+        score: 57.3
       - year: 2018
         team: Romania
         name: Bianca-Mihaela Gănescu
@@ -5122,9 +5791,9 @@
         team: Romania
         name: Dan Mircea Mirea
         problem: 2
-  summary_1: Romania first competed in the IOL in 2005, and has competed in 8 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 31 participants in 8 teams.
-  summary_3: In competition, teams from Romania have brought home 10 medals (2 gold, 3 silver and 5 bronze), 2 best-solution prizes and 4 honorable mentions.
+  summary_1: Romania first competed in the IOL in 2005, and has competed in 9 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 35 participants in 9 teams.
+  summary_3: In competition, teams from Romania have brought home 11 medals (2 gold, 3 silver and 6 bronze), 2 best-solution prizes and 4 honorable mentions.
   summary_4: In addition, Romania has sent 2 Repeat Medalists and 1 Dream Team
 
 - iol_code: RUS
@@ -5443,7 +6112,7 @@
               medal: silver
             - name: Ekaterina Voloshinova
               medal: bronze
-            - name: Tanya Romanova
+            - name: Tatiana Romanova
               medal: bronze
     - year: 2018
       teams:
@@ -5461,9 +6130,31 @@
             - name: Svetlana Baranova
             - name: Danyar Kasenov
               medal: bronze
-            - name: Tanya Romanova
+            - name: Tatiana Romanova
               medal: silver
             - name: Ekaterina Voloshinova
+              medal: bronze
+    - year: 2019
+      teams:
+        - team: Russia Belka
+          participants:
+            - name: Ekaterina Kropanina
+              medal: bronze
+            - name: Stanislava Khizhniakova
+              medal: bronze
+            - name: Kristina Vashpanova
+              medal: bronze
+            - name: Iakov Raskind
+              medal: honorable mentions
+        - team: Russia Strelka
+          participants:
+            - name: Ekaterina Kozlova
+              medal: bronze
+            - name: Denis Korotchenko
+              medal: silver
+            - name: Maxim Barganov
+              medal: silver
+            - name: Tatiana Romanova
               medal: bronze
   individual_contest_medalists:
     gold:
@@ -5532,9 +6223,17 @@
         name: Boris Turovsky
         score: 90
     silver:
+      - year: 2019
+        team: Russia Strelka
+        name: Denis Korotchenko
+        score: 68.2
+      - year: 2019
+        team: Russia Strelka
+        name: Maxim Barganov
+        score: 63.5
       - year: 2018
         team: Russia Strelka
-        name: Tanya Romanova
+        name: Tatiana Romanova
         score: 64.5
       - year: 2017
         team: Russia Strelka
@@ -5629,6 +6328,26 @@
         name: Maria Shkapa
         score: 78
     bronze:
+      - year: 2019
+        team: Russia Strelka
+        name: Tatiana Romanova
+        score: 58.95
+      - year: 2019
+        team: Russia Strelka
+        name: Ekaterina Kozlova
+        score: 58.4
+      - year: 2019
+        team: Russia Belka
+        name: Stanislava Khizhniakova
+        score: 58.3
+      - year: 2019
+        team: Russia Belka
+        name: Ekaterina Kropanina
+        score: 57.2
+      - year: 2019
+        team: Russia Belka
+        name: Kristina Vashpanova
+        score: 47.85
       - year: 2018
         team: Russia Belka
         name: Yana Shishkina
@@ -5655,7 +6374,7 @@
         score: 54.1
       - year: 2017
         team: Russia Strelka
-        name: Tanya Romanova
+        name: Tatiana Romanova
         score: 52.7
       - year: 2016
         team: Russia Strelka
@@ -5767,6 +6486,10 @@
         score: 75
   honorable_mentions:
     honorable_mention:
+      - year: 2019
+        team: Russia Belka
+        name: Iakov Raskind
+        score: 43
       - year: 2018
         team: Russia Belka
         name: Ekaterina Kozlova
@@ -5843,6 +6566,10 @@
         team: Moscow
         name: Igor Vinogradov
         score: 77
+      - year: 2005
+        team: St. Petersburg
+        name: Sofia Krasnoshchekova
+        score: 67
   team_contest_winners:
     gold:
       - year: 2007
@@ -5852,6 +6579,9 @@
         team: Russia-St. Petersburg
         score: N/A
     silver:
+      - year: 2019
+        team: Russia Strelka
+        score: 107
       - year: 2014
         team: Russia 1
         score: 24
@@ -5871,6 +6601,9 @@
         team: Russia-St. Petersburg
         score: 91
     bronze:
+      - year: 2019
+        team: Russia Belka
+        score: 102
       - year: 2014
         team: Russia 2
         score: 23.5
@@ -5941,6 +6674,10 @@
       team: Russia-Moscow
       score: 70.5
   best_solutions:
+      - year: 2019
+        team: Russia Belka
+        name: Kristina Vashpanova
+        problem: 5
       - year: 2017
         team: Russia Strelka
         name: Daniel Vedeneev
@@ -6033,10 +6770,10 @@
         team: Russia-St. Petersburg
         name: Alexandra Petrova
         problem: 5
-  summary_1: Russia was one of the original six countries to participate in the IOL, and has competed in 16 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 140 participants in 35 teams.
-  summary_3: In competition, teams from Russia have brought home 74 medals (16 gold, 24 silver and 34 bronze), 13 trophies (2 gold, 6 silver and 5 bronze), 2 first-place team cups, 23 best-solution prizes, 19 honorable mentions and 1 team contest honorable mention.
-  summary_4: In addition, Russia has sent 14 Repeat Medalists and 3 Dream Teams
+  summary_1: Russia was one of the original six countries to participate in the IOL, and has competed in 17 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 148 participants in 37 teams.
+  summary_3: In competition, teams from Russia have brought home 81 medals (16 gold, 26 silver and 39 bronze), 15 trophies (2 gold, 7 silver and 6 bronze), 2 first-place team cups, 24 best-solution prizes, 21 honorable mentions and 1 team contest honorable mention.
+  summary_4: In addition, Russia has sent 15 Repeat Medalists and 4 Dream Teams
 
 - iol_code: SRB
   iol_name: Serbia
@@ -6388,6 +7125,17 @@
             - name: Sebastjan Kordiš
             - name: Benjamin Poljanc
             - name: Anja Zdovc
+    - year: 2019
+      teams:
+        - team: Slovenia
+          participants:
+            - name: Rok Tadej Brunšek
+              medal: bronze
+            - name: Ana Meta Dolinar
+              medal: honorable mentions
+            - name: Ana Luetić
+            - name: Sebastjan Kordiš
+              medal: honorable mentions
   individual_contest_medalists:
     silver:
       - year: 2017
@@ -6407,6 +7155,10 @@
         name: Rok Kaufman
         score: 61
     bronze:
+      - year: 2019
+        team: Slovenia
+        name: Rok Tadej Brunšek
+        score: 49.5
       - year: 2017
         team: Slovenia
         name: Ana Meta Dolinar
@@ -6425,6 +7177,14 @@
         score: 59
   honorable_mentions:
     honorable_mention:
+      - year: 2019
+        team: Slovenia
+        name: Ana Meta Dolinar
+        score: 41.5
+      - year: 2019
+        team: Slovenia
+        name: Sebastjan Kordiš
+        score: 40.4
       - year: 2018
         team: Team Slovenia
         name: Hana Viktorija Balan
@@ -6462,6 +7222,10 @@
         name: Anja Bregar
         score: 58
   team_contest_winners:
+    gold:
+      - year: 2019
+        team: Slovenia
+        score: 113
     bronze:
       - year: 2017
         team: Slovenia
@@ -6487,9 +7251,9 @@
         team: Slovenia
         name: Miha Čančula
         problem: 2
-  summary_1: Slovenia first competed in the IOL in 2008, and has competed in 11 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 54 participants in 15 teams.
-  summary_3: In competition, teams from Slovenia have brought home 8 medals (4 silver and 4 bronze), 1 bronze trophy, 5 best-solution prizes and 9 honorable mentions.
+  summary_1: Slovenia first competed in the IOL in 2008, and has competed in 12 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 58 participants in 16 teams.
+  summary_3: In competition, teams from Slovenia have brought home 9 medals (4 silver and 5 bronze), 2 trophies (1 gold and 1 bronze), 5 best-solution prizes and 11 honorable mentions.
   summary_4: In addition, Slovenia has sent 2 Repeat Medalists
 
 - iol_code: ESP
@@ -6720,6 +7484,20 @@
             - name: Alexandru Golic
             - name: Arvid Lunnemark
               medal: honorable mentions
+    - year: 2019
+      teams:
+        - team: Sweden Blå
+          participants:
+            - name: Carl Westerlund
+            - name: Joel Redner
+            - name: Martin Löfström
+            - name: Hektor Einarsson
+        - team: Sweden Gul
+          participants:
+            - name: Joakim Colpier
+            - name: Fredrik Ekholm
+            - name: Anna-Lisa Rathsman
+            - name: Nathan Carlshamre
   individual_contest_medalists:
     silver:
       - year: 2018
@@ -6791,8 +7569,8 @@
         team: Sweden
         name: David Avellan-Hultman
         problem: 3
-  summary_1: Sweden first competed in the IOL in 2007, and has competed in 12 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 75 participants in 19 teams.
+  summary_1: Sweden first competed in the IOL in 2007, and has competed in 13 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 83 participants in 21 teams.
   summary_3: In competition, teams from Sweden have brought home 9 medals (2 silver and 7 bronze), 1 gold trophy, 1 best-solution prize and 5 honorable mentions.
   summary_4: In addition, Sweden has sent 2 Repeat Medalists
 
@@ -6870,6 +7648,26 @@
               medal: silver
             - name: Tung-Le Pan
               medal: silver
+    - year: 2019
+      teams:
+        - team: TaiEight
+          participants:
+            - name: Lin, You-Kuan
+              medal: honorable mentions
+            - name: Lin, Hsin-Yi
+            - name: Chen, Jun-Wei
+              medal: honorable mentions
+            - name: Chen, Po-Wen
+              medal: honorable mentions
+        - team: TaiNine
+          participants:
+            - name: Chih-Chun Wang
+              medal: bronze
+            - name: Peng, Kai-Yang
+              medal: honorable mentions
+            - name: Lee, Yu-Hsuan
+              medal: bronze
+            - name: Lin, Siang-Chen
   individual_contest_medalists:
     gold:
       - year: 2017
@@ -6902,12 +7700,36 @@
         name: Shen-Chang Huang
         score: 55
     bronze:
+      - year: 2019
+        team: TaiNine
+        name: Chih-Chun Wang
+        score: 58.2
+      - year: 2019
+        team: TaiNine
+        name: Lee, Yu-Hsuan
+        score: 46.05
       - year: 2015
         team: Taiwan
         name: Isabelle Lee Yen
         score: 39
   honorable_mentions:
     honorable_mention:
+      - year: 2019
+        team: TaiEight
+        name: Lin, You-Kuan
+        score: 41.3
+      - year: 2019
+        team: TaiEight
+        name: Chen, Po-Wen
+        score: 41.25
+      - year: 2019
+        team: TaiNine
+        name: Peng, Kai-Yang
+        score: 40.6
+      - year: 2019
+        team: TaiEight
+        name: Chen, Jun-Wei
+        score: 38.65
       - year: 2018
         team: Taiwan Earthquake
         name: Ri-Sheng Huang
@@ -6938,6 +7760,10 @@
         team: TaiTWO
         score: N/A
   best_solutions:
+      - year: 2019
+        team: TaiEight
+        name: Lin, You-Kuan
+        problem: 3
       - year: 2018
         team: Taiwan Earthquake
         name: You-Kuan Lin
@@ -6950,10 +7776,10 @@
         team: Taiwan
         name: Isabelle Lee Yen
         problem: 5
-  summary_1: Taiwan first competed in the IOL in 2013, and has competed in 6 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 27 participants in 9 teams.
-  summary_3: In competition, teams from Taiwan have brought home 8 medals (1 gold, 6 silver and 1 bronze), 1 gold trophy, 3 best-solution prizes and 6 honorable mentions.
-  summary_4: 
+  summary_1: Taiwan first competed in the IOL in 2013, and has competed in 7 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 35 participants in 11 teams.
+  summary_3: In competition, teams from Taiwan have brought home 10 medals (1 gold, 6 silver and 3 bronze), 1 gold trophy, 4 best-solution prizes and 10 honorable mentions.
+  summary_4: In addition, Taiwan has sent 1 Repeat Medalist
 
 - iol_code: TUR
   iol_name: Turkey
@@ -6996,14 +7822,22 @@
             - name: Melisa Yeniocak
             - name: Tolga Mutuşoğlu
             - name: Tuğçe Er
+    - year: 2019
+      teams:
+        - team: Turkey
+          participants:
+            - name: Ata Göloğlu
+            - name: Kaan Gözütok
+            - name: İsmail Yaşar Kökçüler
+            - name: Denice Nicole Basmacıer
   individual_contest_medalists:
     bronze:
       - year: 2017
         team: Turkey
         name: Can Yeşildere
         score: 53.5
-  summary_1: Turkey first competed in the IOL in 2013, and has competed in 4 olympiads. They most recently competed in 2017.
-  summary_2: They have sent 19 participants in 5 teams.
+  summary_1: Turkey first competed in the IOL in 2013, and has competed in 5 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 23 participants in 6 teams.
   summary_3: In competition, teams from Turkey have brought home 1 bronze medal.
   summary_4: 
 
@@ -7159,8 +7993,41 @@
             - name: Weixi Wang
             - name: Sean White
               medal: bronze
+    - year: 2019
+      teams:
+        - team: UK K
+          participants:
+            - name: Tommaso Leonardi
+            - name: Simeon Hellsten
+              medal: gold
+            - name: Daniel Turaev
+              medal: silver
+            - name: Benedict Randall Shaw
+              medal: gold
+        - team: UK U
+          participants:
+            - name: Sam Corner
+              medal: gold
+            - name: Kilian Meissner
+              medal: bronze
+            - name: Harrison Moore
+              medal: silver
+            - name: Alex Walker
+              medal: bronze
   individual_contest_medalists:
     gold:
+      - year: 2019
+        team: UK U
+        name: Sam Corner
+        score: 78.9
+      - year: 2019
+        team: UK K
+        name: Simeon Hellsten
+        score: 78.3
+      - year: 2019
+        team: UK K
+        name: Benedict Randall Shaw
+        score: 76.4
       - year: 2018
         team: UK K
         name: Liam McKnight
@@ -7202,6 +8069,14 @@
         name: Elysia Jane Warner
         score: 65
     silver:
+      - year: 2019
+        team: UK U
+        name: Harrison Moore
+        score: 64.3
+      - year: 2019
+        team: UK K
+        name: Daniel Turaev
+        score: 60.25
       - year: 2018
         team: UK K
         name: Simeon Hellsten
@@ -7227,6 +8102,14 @@
         name: Tom White
         score: 68
     bronze:
+      - year: 2019
+        team: UK U
+        name: Kilian Meissner
+        score: 50.7
+      - year: 2019
+        team: UK U
+        name: Alex Walker
+        score: 48.7
       - year: 2018
         team: UK U
         name: Edmund Lea
@@ -7355,10 +8238,202 @@
         team: UK 2
         name: Nathan Somers
         problem: 5
-  summary_1: UK first competed in the IOL in 2009, and has competed in 10 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 60 participants in 15 teams.
-  summary_3: In competition, teams from UK have brought home 27 medals (10 gold, 6 silver and 11 bronze), 3 trophies (1 gold and 2 bronze), 1 first-place team cup, 3 best-solution prizes and 12 honorable mentions.
-  summary_4: In addition, UK has sent 4 Repeat Medalists and 2 Dream Teams
+  summary_1: UK first competed in the IOL in 2009, and has competed in 11 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 68 participants in 17 teams.
+  summary_3: In competition, teams from UK have brought home 34 medals (13 gold, 8 silver and 13 bronze), 3 trophies (1 gold and 2 bronze), 1 first-place team cup, 3 best-solution prizes and 12 honorable mentions.
+  summary_4: In addition, UK has sent 5 Repeat Medalists and 3 Dream Teams
+
+- iol_code: UKR
+  iol_name: Ukraine
+  participants:
+    - year: 2014
+      teams:
+        - team: Ukraine
+          participants:
+            - name: Ada Melentyeva
+              medal: silver
+            - name: Anton Piankov
+            - name: Anastasiia Alokhina
+            - name: Borys Nazarenko
+    - year: 2015
+      teams:
+        - team: Ukraine 1
+          participants:
+            - name: Ivan Oleksiyuk
+              medal: silver
+            - name: Anton Piankov
+              medal: honorable mentions
+            - name: Ada Melentyeva
+              medal: gold
+            - name: Anastasiia Alokhina
+              medal: bronze
+        - team: Ukraine 2
+          participants:
+            - name: Mariia Stepaniuk
+            - name: Volodymyr Yelagin
+            - name: Glib Shakhov
+              medal: honorable mentions
+            - name: Illya Koval
+    - year: 2016
+      teams:
+        - team: Ukraine
+          participants:
+            - name: Illya Koval
+            - name: Ivan Oleksiyuk
+              medal: honorable mentions
+            - name: Mariia Stepaniuk
+              medal: bronze
+            - name: Roman Skurikhin
+              medal: bronze
+    - year: 2017
+      teams:
+        - team: Ukraine 1
+          participants:
+            - name: Alina Yan
+              medal: honorable mentions
+            - name: Nazar Semkiv
+              medal: bronze
+            - name: Oleh Kuzyk
+              medal: honorable mentions
+            - name: Yana Zhabura
+        - team: Ukraine 2
+          participants:
+            - name: Maksym Bondarenko
+            - name: Nataliia Bazhan
+            - name: Vlada Petrusenko
+              medal: honorable mentions
+            - name: Yelyzaveta Stoliarchuk
+              medal: honorable mentions
+    - year: 2018
+      teams:
+        - team: Ukraine
+          participants:
+            - name: Illya Koval
+              medal: silver
+            - name: Ostap Dyhdalovych
+            - name: Vlada Petrusenko
+              medal: bronze
+            - name: Yelyzaveta Stoliarchuk
+    - year: 2019
+      teams:
+        - team: Ukraine
+          participants:
+            - name: Artemii Molyboha
+            - name: Yelyzaveta Stoliarchuk
+              medal: honorable mentions
+            - name: Vlada Petrusenko
+              medal: bronze
+            - name: Daria Kryvosheieva
+              medal: bronze
+  individual_contest_medalists:
+    gold:
+      - year: 2015
+        team: Ukraine 1
+        name: Ada Melentyeva
+        score: 62
+    silver:
+      - year: 2018
+        team: Ukraine
+        name: Illya Koval
+        score: 54.3
+      - year: 2015
+        team: Ukraine 1
+        name: Ivan Oleksiyuk
+        score: 48
+      - year: 2014
+        team: Ukraine
+        name: Ada Melentyeva
+        score: 62
+    bronze:
+      - year: 2019
+        team: Ukraine
+        name: Vlada Petrusenko
+        score: 57.9
+      - year: 2019
+        team: Ukraine
+        name: Daria Kryvosheieva
+        score: 51.6
+      - year: 2018
+        team: Ukraine
+        name: Vlada Petrusenko
+        score: 53
+      - year: 2017
+        team: Ukraine 1
+        name: Nazar Semkiv
+        score: 50.5
+      - year: 2016
+        team: Ukraine
+        name: Mariia Stepaniuk
+        score: 42
+      - year: 2016
+        team: Ukraine
+        name: Roman Skurikhin
+        score: 41
+      - year: 2015
+        team: Ukraine 1
+        name: Anastasiia Alokhina
+        score: 45
+  honorable_mentions:
+    honorable_mention:
+      - year: 2019
+        team: Ukraine
+        name: Yelyzaveta Stoliarchuk
+        score: 39.8
+      - year: 2017
+        team: Ukraine 2
+        name: Vlada Petrusenko
+        score: 49
+      - year: 2017
+        team: Ukraine 2
+        name: Yelyzaveta Stoliarchuk
+        score: 41.3
+      - year: 2017
+        team: Ukraine 1
+        name: Alina Yan
+        score: 41
+      - year: 2017
+        team: Ukraine 1
+        name: Oleh Kuzyk
+        score: 38.5
+      - year: 2016
+        team: Ukraine
+        name: Ivan Oleksiyuk
+        score: 36
+      - year: 2015
+        team: Ukraine 1
+        name: Anton Piankov
+        score: 38
+      - year: 2015
+        team: Ukraine 2
+        name: Glib Shakhov
+        score: 30
+  team_contest_honorable_mentions:
+    honorable_mention:
+      - year: 2019
+        team: Ukraine
+        score: 99
+  best_solutions:
+      - year: 2015
+        team: Ukraine 1
+        name: Ada Melentyeva
+        problem: 3
+  summary_1: Ukraine first competed in the IOL in 2014, and has competed in 6 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 32 participants in 8 teams.
+  summary_3: In competition, teams from Ukraine have brought home 11 medals (1 gold, 3 silver and 7 bronze), 1 best-solution prize, 8 honorable mentions and 1 team contest honorable mention.
+  summary_4: In addition, Ukraine has sent 2 Repeat Medalists
+
+- iol_code: ARE
+  iol_name: United Arab Emirates
+  participants:
+    - year: 2011
+      teams:
+        - team: UAE
+          participants:
+            - name: Nishith Khandwala
+  summary_1: United Arab Emirates competed in the IOL in 2011.
+  summary_2: They have sent 1 participant in 1 team.
+  summary_3: 
+  summary_4: 
 
 - iol_code: USA
   iol_name: USA
@@ -7623,8 +8698,38 @@
               medal: gold
             - name: Brian Xiao
               medal: bronze
+    - year: 2019
+      teams:
+        - team: USA Blue
+          participants:
+            - name: Pranav Krishna
+              medal: silver
+            - name: Katherine He
+              medal: honorable mentions
+            - name: Jeremy Zhou
+              medal: silver
+            - name: Skyelar Raiti
+              medal: silver
+        - team: USA Red
+          participants:
+            - name: Wesley Zhang
+              medal: gold
+            - name: Russell Emerine
+              medal: silver
+            - name: Ziyan Lei
+              medal: silver
+            - name: Andrew Tockman
+              medal: gold
   individual_contest_medalists:
     gold:
+      - year: 2019
+        team: USA Red
+        name: Wesley Zhang
+        score: 95.6
+      - year: 2019
+        team: USA Red
+        name: Andrew Tockman
+        score: 76.1
       - year: 2018
         team: USA Red
         name: Swapnil Garg
@@ -7694,6 +8799,26 @@
         name: Adam Hesterberg
         score: 90
     silver:
+      - year: 2019
+        team: USA Red
+        name: Ziyan Lei
+        score: 73.1
+      - year: 2019
+        team: USA Blue
+        name: Skyelar Raiti
+        score: 67.1
+      - year: 2019
+        team: USA Red
+        name: Russell Emerine
+        score: 66.15
+      - year: 2019
+        team: USA Blue
+        name: Pranav Krishna
+        score: 62.2
+      - year: 2019
+        team: USA Blue
+        name: Jeremy Zhou
+        score: 62.2
       - year: 2018
         team: USA Blue
         name: Mihir Singhal
@@ -7897,6 +9022,10 @@
         score: 69
   honorable_mentions:
     honorable_mention:
+      - year: 2019
+        team: USA Blue
+        name: Katherine He
+        score: 41.75
       - year: 2016
         team: USA Red
         name: Laurestine Irene Bradford
@@ -8019,6 +9148,9 @@
         score: 47.5
   individual_contest_team_average_scores:
     first:
+    - year: 2019
+      team: USA Red
+      score: 77.74
     - year: 2018
       team: USA Blue
       score: 70.25
@@ -8058,6 +9190,10 @@
       team: USA Red
       score: 78.5
   best_solutions:
+      - year: 2019
+        team: USA Red
+        name: Wesley Zhang
+        problem: 5
       - year: 2018
         team: USA Red
         name: Andrew Tockman
@@ -8142,172 +9278,23 @@
         team: USA 2
         name: Jae-Kyu Lee
         problem: 4
-  summary_1: USA first competed in the IOL in 2007, and has competed in 12 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 100 participants in 25 teams.
-  summary_3: In competition, teams from USA have brought home 67 medals (17 gold, 30 silver and 20 bronze), 11 trophies (8 gold and 3 silver), 7 first-place team cups, 21 best-solution prizes, 19 honorable mentions and 2 team contest honorable mentions.
-  summary_4: In addition, USA has sent 11 Repeat Medalists and 7 Dream Teams
+  summary_1: USA first competed in the IOL in 2007, and has competed in 13 olympiads. They most recently competed in 2019.
+  summary_2: They have sent 108 participants in 27 teams.
+  summary_3: In competition, teams from USA have brought home 74 medals (19 gold, 35 silver and 20 bronze), 11 trophies (8 gold and 3 silver), 8 first-place team cups, 22 best-solution prizes, 20 honorable mentions and 2 team contest honorable mentions.
+  summary_4: In addition, USA has sent 14 Repeat Medalists and 8 Dream Teams
 
-- iol_code: UKR
-  iol_name: Ukraine
+- iol_code: UZB
+  iol_name: Uzbekistan
   participants:
-    - year: 2014
+    - year: 2019
       teams:
-        - team: Ukraine
+        - team: Uzbekistan Global Gifts
           participants:
-            - name: Ada Melentyeva
-              medal: silver
-            - name: Anton Piankov
-            - name: Anastasiia Alokhina
-            - name: Borys Nazarenko
-    - year: 2015
-      teams:
-        - team: Ukraine 1
-          participants:
-            - name: Ivan Oleksiyuk
-              medal: silver
-            - name: Anton Piankov
-              medal: honorable mentions
-            - name: Ada Melentyeva
-              medal: gold
-            - name: Anastasiia Alokhina
-              medal: bronze
-        - team: Ukraine 2
-          participants:
-            - name: Mariia Stepaniuk
-            - name: Volodymyr Yelagin
-            - name: Glib Shakhov
-              medal: honorable mentions
-            - name: Illya Koval
-    - year: 2016
-      teams:
-        - team: Ukraine
-          participants:
-            - name: Illya Koval
-            - name: Ivan Oleksiyuk
-              medal: honorable mentions
-            - name: Mariia Stepaniuk
-              medal: bronze
-            - name: Roman Skurikhin
-              medal: bronze
-    - year: 2017
-      teams:
-        - team: Ukraine 1
-          participants:
-            - name: Alina Yan
-              medal: honorable mentions
-            - name: Nazar Semkiv
-              medal: bronze
-            - name: Oleh Kuzyk
-              medal: honorable mentions
-            - name: Yana Zhabura
-        - team: Ukraine 2
-          participants:
-            - name: Maksym Bondarenko
-            - name: Nataliia Bazhan
-            - name: Vlada Petrusenko
-              medal: honorable mentions
-            - name: Yelyzaveta Stoliarchuk
-              medal: honorable mentions
-    - year: 2018
-      teams:
-        - team: Ukraine
-          participants:
-            - name: Illya Koval
-              medal: silver
-            - name: Ostap Dyhdalovych
-            - name: Vlada Petrusenko
-              medal: bronze
-            - name: Yelyzaveta Stoliarchuk
-  individual_contest_medalists:
-    gold:
-      - year: 2015
-        team: Ukraine 1
-        name: Ada Melentyeva
-        score: 62
-    silver:
-      - year: 2018
-        team: Ukraine
-        name: Illya Koval
-        score: 54.3
-      - year: 2015
-        team: Ukraine 1
-        name: Ivan Oleksiyuk
-        score: 48
-      - year: 2014
-        team: Ukraine
-        name: Ada Melentyeva
-        score: 62
-    bronze:
-      - year: 2018
-        team: Ukraine
-        name: Vlada Petrusenko
-        score: 53
-      - year: 2017
-        team: Ukraine 1
-        name: Nazar Semkiv
-        score: 50.5
-      - year: 2016
-        team: Ukraine
-        name: Mariia Stepaniuk
-        score: 42
-      - year: 2016
-        team: Ukraine
-        name: Roman Skurikhin
-        score: 41
-      - year: 2015
-        team: Ukraine 1
-        name: Anastasiia Alokhina
-        score: 45
-  honorable_mentions:
-    honorable_mention:
-      - year: 2017
-        team: Ukraine 2
-        name: Vlada Petrusenko
-        score: 49
-      - year: 2017
-        team: Ukraine 2
-        name: Yelyzaveta Stoliarchuk
-        score: 41.3
-      - year: 2017
-        team: Ukraine 1
-        name: Alina Yan
-        score: 41
-      - year: 2017
-        team: Ukraine 1
-        name: Oleh Kuzyk
-        score: 38.5
-      - year: 2016
-        team: Ukraine
-        name: Ivan Oleksiyuk
-        score: 36
-      - year: 2015
-        team: Ukraine 1
-        name: Anton Piankov
-        score: 38
-      - year: 2015
-        team: Ukraine 2
-        name: Glib Shakhov
-        score: 30
-  best_solutions:
-      - year: 2015
-        team: Ukraine 1
-        name: Ada Melentyeva
-        problem: 3
-  summary_1: Ukraine first competed in the IOL in 2014, and has competed in 5 olympiads. They most recently competed in 2018.
-  summary_2: They have sent 28 participants in 7 teams.
-  summary_3: In competition, teams from Ukraine have brought home 9 medals (1 gold, 3 silver and 5 bronze), 1 best-solution prize and 7 honorable mentions.
-  summary_4: In addition, Ukraine has sent 1 Repeat Medalist
-
-- iol_code: ARE
-  iol_name: United Arab Emirates
-  participants:
-    - year: 2011
-      teams:
-        - team: UAE
-          participants:
-            - name: Nishith Khandwala
-  summary_1: United Arab Emirates competed in the IOL in 2011.
-  summary_2: They have sent 1 participant in 1 team.
+            - name: Zebinisobonu Abdugafforova
+            - name: Yasmina Makhamedova
+            - name: Temurjon Malikov
+  summary_1: Uzbekistan competed in the IOL in 2019.
+  summary_2: They have sent 3 participants in 1 team.
   summary_3: 
   summary_4: 
 

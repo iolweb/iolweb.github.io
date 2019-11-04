@@ -1,3 +1,21 @@
+- iol_name: Armenia
+  official_name: Armenia
+  iso_2: AM
+  iso_3: ARM
+  iol_code: ARM
+  flag: am.png
+  selection_en: 
+  selection_local: 
+  abbreviation: 
+  link: 
+  active: TRUE
+  accredit: TRUE
+  footnote: 
+  poc: 
+  email: 
+  poc2: 
+  email2: 
+
 - iol_name: Australia
   official_name: Australia
   iso_2: AU
@@ -8,9 +26,13 @@
   selection_local: 
   abbreviation: OzCLO
   link: http://www.ozclo.org.au/
-  active: true
-  accredit: true
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Elisabeth Mayer
+  email: elisabeth.mayer@anu.edu.au
+  poc2: 
+  email2: 
 
 - iol_name: Bangladesh
   official_name: Bangladesh
@@ -19,12 +41,34 @@
   iol_code: BGD
   flag: bd.png
   selection_en: National Linguistics Olympiad in Bangladesh
-  selection_local: National Linguistics Olympiad in Bangladesh
+  selection_local: 
   abbreviation: 
   link: http://www.ls-bd.org/
-  active: true
-  accredit: true
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Morshed Ibna Rahman
+  email: rahmanmorshed@gmail.com
+  poc2: 
+  email2: 
+
+- iol_name: Belarus
+  official_name: Belarus
+  iso_2: BY
+  iso_3: BLR
+  iol_code: BLR
+  flag: by.png
+  selection_en: 
+  selection_local: 
+  abbreviation: 
+  link: http://minsklingolymp.by/
+  active: TRUE
+  accredit: TRUE
+  footnote: 
+  poc: 
+  email: 
+  poc2: 
+  email2: 
 
 - iol_name: Brazil
   official_name: Brazil
@@ -36,9 +80,13 @@
   selection_local: Olimpíada Brasileira de Linguística
   abbreviation: OBL
   link: http://www.obling.org/
-  active: true
-  accredit: true
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: OBL
+  email: organiza@obling.org
+  poc2: 
+  email2: 
 
 - iol_name: Bulgaria
   official_name: Bulgaria
@@ -47,12 +95,16 @@
   iol_code: BGR
   flag: bg.png
   selection_en: Bulgarian National Olympiad in Linguistics
-  selection_local: 
+  selection_local: Олимпиада по математическа лингвистика
   abbreviation: 
   link: http://mon.bg/go=page&pageId=16&subpageId=80
-  active: true
-  accredit: true
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Aleksandar Velinov
+  email: aleks.velinov@gmail.com
+  poc2: 
+  email2: 
 
 - iol_name: Canada
   official_name: Canada
@@ -64,9 +116,13 @@
   selection_local: 
   abbreviation: NACLO
   link: http://www.nacloweb.org
-  active: false
-  accredit: false
+  active: FALSE
+  accredit: FALSE
   footnote: Canada is now sending two separate teams.
+  poc: 
+  email: 
+  poc2: 
+  email2: 
 
 - iol_name: Canada Anglophone
   official_name: Canada
@@ -78,9 +134,13 @@
   selection_local: 
   abbreviation: NACLO
   link: http://www.nacloweb.org
-  active: true
-  accredit: true
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Daniel Lovsted
+  email: daniel.lovsted@gmail.com
+  poc2: 
+  email2: 
 
 - iol_name: Canada Francophone
   official_name: Canada
@@ -91,10 +151,14 @@
   selection_en: Canadian Linguistics Olympiad
   selection_local: Olympiade Linguistique Canadienne
   abbreviation: OLC/CLO
-  link: http://olc-clo.org
-  active: true
-  accredit: true
+  link: http://aix1.uottawa.ca/~asalanov/OLCF/
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Andrés Pablo Salanova
+  email: ling.olymp.canada@gmail.com
+  poc2: 
+  email2: 
 
 - iol_name: China
   official_name: China
@@ -106,9 +170,31 @@
   selection_local: 全国语言学奥林匹克竞赛
   abbreviation: 
   link: http://www.ioling.org.cn
-  active: true
-  accredit: true
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Yili
+  email: yili@itccc.org.cn
+  poc2: 
+  email2: 
+
+- iol_name: Colombia
+  official_name: Colombia
+  iso_2: CO
+  iso_3: COL
+  iol_code: COL
+  flag: co.png
+  selection_en: Colombian Olympiad in Linguistics
+  selection_local: Olimpiada Colombiana de Linguística
+  abbreviation: OCL
+  link: http://oc.uan.edu.co/component/k2/itemlist/category/101-olimpiada-colombiana-de-linguistica
+  active: TRUE
+  accredit: TRUE
+  footnote: 
+  poc: Maria Losada
+  email: director.olimpiadas@uan.edu.co
+  poc2: 
+  email2: 
 
 - iol_name: Czechia
   official_name: Czechia
@@ -120,9 +206,13 @@
   selection_local: Česká lingvistická olympiáda
   abbreviation: 
   link: http://lingol.cz
-  active: true
-  accredit: true
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Vojta Diatka
+  email: vojta.diatka@gmail.com
+  poc2: 
+  email2: 
 
 - iol_name: Denmark
   official_name: Denmark
@@ -134,9 +224,13 @@
   selection_local: Den danske olympiade for lingvistik
   abbreviation: Sproliga
   link: https://sprogliga.dk/
-  active: true
-  accredit: true
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Anders Friis
+  email: af@talentcamp.dk
+  poc2: 
+  email2: 
 
 - iol_name: Estonia
   official_name: Estonia
@@ -148,9 +242,13 @@
   selection_local: Lingvistikaolümpiaad
   abbreviation: 
   link: http://www.teaduskool.ut.ee/et/olumpiaadid/lingvistikaolumpiaad
-  active: true
-  accredit: true
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Linda Freienthal
+  email: linda.freienthal96@gmail.com
+  poc2: 
+  email2: 
 
 - iol_name: Finland
   official_name: Finland
@@ -160,11 +258,15 @@
   flag: fi.png
   selection_en: Finnish Linguistics Olympiad
   selection_local: Suomen kielitieteen olympialaiset
-  abbreviation: 
-  link: http://www.linguistics.fi/kiol/
-  active: true
-  accredit: true
+  abbreviation: KiOl
+  link: https://blogs.helsinki.fi/kielitieteen-olympialaiset/
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Ksenia Shagal
+  email: ki-ol@helsinki.fi
+  poc2: 
+  email2: 
 
 - iol_name: France
   official_name: France
@@ -176,9 +278,13 @@
   selection_local: 
   abbreviation: 
   link: 
-  active: false
-  accredit: false
+  active: FALSE
+  accredit: FALSE
   footnote: 
+  poc: 
+  email: 
+  poc2: 
+  email2: 
 
 - iol_name: Germany
   official_name: Germany
@@ -187,12 +293,16 @@
   iol_code: DEU
   flag: de.png
   selection_en: Nationaler Deutscher Auswahlwettbewerb
-  selection_local: 
+  selection_local: Nationaler Deutscher Auswahlwettbewerb
   abbreviation: 
   link: http://www.leibniz-zas.de/linguistik-olympiade.html
-  active: true
-  accredit: true
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: André Meinunger
+  email: meinunger@leibniz-zas.de
+  poc2: 
+  email2: 
 
 - iol_name: Greece
   official_name: Greece
@@ -204,9 +314,31 @@
   selection_local: 
   abbreviation: 
   link: 
-  active: false
-  accredit: false
+  active: FALSE
+  accredit: FALSE
   footnote: 
+  poc: 
+  email: 
+  poc2: 
+  email2: 
+
+- iol_name: Hong Kong
+  official_name: Hong Kong SAR
+  iso_2: HK
+  iso_3: HKG
+  iol_code: HKG
+  flag: hk.png
+  selection_en: Hong Kong Linguistics Olympiad
+  selection_local: 
+  abbreviation: HKLO
+  link: https://polyu.hk/amuVS
+  active: TRUE
+  accredit: TRUE
+  footnote: 
+  poc: Chu-Ren Huang
+  email: hklinguisticsolympiad@gmail.com
+  poc2: 
+  email2: 
 
 - iol_name: Hungary
   official_name: Hungary
@@ -218,9 +350,13 @@
   selection_local: Magyar Nyelvészeti Diákolimpia
   abbreviation: 
   link: http://ioling.ppke.hu
-  active: true
-  accredit: true
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Barna Soma Bíró
+  email: ioling.hu@gmail.com
+  poc2: 
+  email2: 
 
 - iol_name: India
   official_name: India
@@ -231,10 +367,14 @@
   selection_en: Panini Linguistics Olympiad
   selection_local: 
   abbreviation: PLO
-  link: http://plo-in.org
-  active: true
-  accredit: true
+  link: http://ltrc.iiit.ac.in/nlpmt/plo/#/
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Manish Shrivastava
+  email: m.shrivastava@iiit.ac.in
+  poc2: 
+  email2: 
 
 - iol_name: Ireland
   official_name: Ireland
@@ -245,10 +385,14 @@
   selection_en: All Ireland Linguistics Olympiad
   selection_local: 
   abbreviation: AILO
-  link: www.adaptcentre.ie/ailo/
-  active: true
-  accredit: true
+  link: https://ailo.adaptcentre.ie/
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Cara Greene
+  email: cara.greene@adaptcentre.ie
+  poc2: 
+  email2: 
 
 - iol_name: Isle of Man
   official_name: Isle of Man
@@ -260,9 +404,13 @@
   selection_local: 
   abbreviation: 
   link: https://sites.google.com/site/lingomann/home
-  active: true
-  accredit: true
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Robert Teare
+  email: Robert.Teare@sch.im
+  poc2: 
+  email2: 
 
 - iol_name: Israel
   official_name: Israel
@@ -274,9 +422,13 @@
   selection_local: 
   abbreviation: 
   link: 
-  active: false
-  accredit: false
+  active: FALSE
+  accredit: FALSE
   footnote: 
+  poc: 
+  email: 
+  poc2: 
+  email2: 
 
 - iol_name: Japan
   official_name: Japan
@@ -288,9 +440,13 @@
   selection_local: 国際言語学オリンピック―日本
   abbreviation: 
   link: http://iolingjapan.org
-  active: false
-  accredit: false
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Paul Snowden
+  email: snowden@ks.kyorin-u.ac.jp
+  poc2: 
+  email2: 
 
 - iol_name: Kazakhstan
   official_name: Kazakhstan
@@ -298,13 +454,17 @@
   iso_3: KAZ
   iol_code: KAZ
   flag: kz.png
-  selection_en: "a nationwide competition organised by Daryn
-  selection_local:  Republican Scientific and Practical center"
+  selection_en: a nationwide competition organised by Daryn Republican Scientific and Practical center
+  selection_local: 
   abbreviation: 
-  link: 
-  active: http://daryn.kz/olympiads/viewall
-  accredit: true
-  footnote: true
+  link: http://daryn.kz/olympiads/viewall
+  active: TRUE
+  accredit: TRUE
+  footnote: 
+  poc: Daryn
+  email: daryn.intel@gmail.com
+  poc2: 
+  email2: 
 
 - iol_name: Latvia
   official_name: Latvia
@@ -316,9 +476,13 @@
   selection_local: Latvijas Lingvistikas Olimpiade
   abbreviation: 
   link: http://www.loling.lv
-  active: true
-  accredit: true
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Vladimirs Ļitvinskis
+  email: lit@progmeistars.lv
+  poc2: 
+  email2: 
 
 - iol_name: Lithuania
   official_name: Lithuania
@@ -330,9 +494,13 @@
   selection_local: 
   abbreviation: 
   link: 
-  active: false
-  accredit: false
+  active: FALSE
+  accredit: FALSE
   footnote: 
+  poc: 
+  email: 
+  poc2: 
+  email2: 
 
 - iol_name: Malaysia
   official_name: Malaysia
@@ -341,12 +509,34 @@
   iol_code: MYS
   flag: my.png
   selection_en: Malaysian Computational Linguistics Olympiad
-  selection_local: 
+  selection_local: Olimpiad Linguistik Komputational Malaysia
   abbreviation: MyCLO
   link: https://www.myclo.my/
-  active: true
-  accredit: true
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: M. Suhaimi Ramly
+  email: msuhaimi@gmail.com
+  poc2: 
+  email2: 
+
+- iol_name: Nepal
+  official_name: Nepal
+  iso_2: NP
+  iso_3: NPL
+  iol_code: NPL
+  flag: np.png
+  selection_en: Himalayan Linguistic Olympiad Nepal
+  selection_local: 
+  abbreviation: HLON
+  link: https://hlon.org/
+  active: TRUE
+  accredit: TRUE
+  footnote: 
+  poc: Bal Krishna Bal
+  email: bal@ku.edu.np
+  poc2: 
+  email2: 
 
 - iol_name: Netherlands
   official_name: Netherlands
@@ -354,13 +544,17 @@
   iso_3: NLD
   iol_code: NLD
   flag: nl.png
-  selection_en: Taalkunde Olympiade
-  selection_local: 
-  abbreviation: 
-  link: http://onderwijs.leidenuniv.nl/honoursacademy/olympiade/
-  active: true
-  accredit: true
+  selection_en: Linguistics Olympiad
+  selection_local: Taalkunde Olympiade
+  abbreviation: TKO
+  link: https://www.universiteitleiden.nl/pre-classes/taalkunde-olympiade
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Tijmen C. Pronk
+  email: t.c.pronk@hum.leidenuniv.nl
+  poc2: 
+  email2: 
 
 - iol_name: Norway
   official_name: Norway
@@ -372,9 +566,13 @@
   selection_local: 
   abbreviation: 
   link: 
-  active: false
-  accredit: false
+  active: FALSE
+  accredit: FALSE
   footnote: 
+  poc: 
+  email: 
+  poc2: 
+  email2: 
 
 - iol_name: Pakistan
   official_name: Pakistan
@@ -386,9 +584,13 @@
   selection_local: 
   abbreviation: 
   link: 
-  active: false
-  accredit: false
+  active: FALSE
+  accredit: FALSE
   footnote: 
+  poc: 
+  email: 
+  poc2: 
+  email2: 
 
 - iol_name: Poland
   official_name: Poland
@@ -400,9 +602,13 @@
   selection_local: Olimpiada Lingwistyki Matematycznej
   abbreviation: 
   link: http://www.math.uni.wroc.pl/fmw/dla-uczniow-lingwistyka-matematyczna/olimpiada-lingwistyczna/olimpiada-lingwistyki-matematycznej
-  active: true
-  accredit: true
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Michal Sliwinski
+  email: Michal.Sliwinski@math.uni.wroc.pl
+  poc2: 
+  email2: 
 
 - iol_name: Republic of Korea
   official_name: Republic of Korea
@@ -414,9 +620,13 @@
   selection_local: 한국언어학올림피아드
   abbreviation: KLO
   link: http://krlo.kr
-  active: true
-  accredit: true
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: IOL Korea
+  email: contact@krlo.kr
+  poc2: 
+  email2: 
 
 - iol_name: Romania
   official_name: Romania
@@ -427,10 +637,14 @@
   selection_en: Romainan National Olympiad in Linguistics
   selection_local: Olimpiada Naţională de Lingvistică
   abbreviation: 
-  link: http://www.unibuc.ro/facultati/litere/Olimpiada_Nationala_de_Lingvistica.php
-  active: true
-  accredit: true
+  link: https://olimpiadalingvistica.wixsite.com/olimpiadalingvistica
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Roxana Dincă
+  email: roxanamdinca@yahoo.com
+  poc2: 
+  email2: 
 
 - iol_name: Russia
   official_name: Russian Federation
@@ -442,9 +656,13 @@
   selection_local: Московская традиционная олимпиада по лингвистике
   abbreviation: 
   link: http://www.lingling.ru/olymps/mos_olymp/index.php
-  active: true
-  accredit: true
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Anastasiia Puchkova
+  email: aachgir@gmail.com
+  poc2: 
+  email2: 
 
 - iol_name: Serbia
   official_name: Serbia
@@ -456,9 +674,13 @@
   selection_local: 
   abbreviation: 
   link: 
-  active: false
-  accredit: false
+  active: FALSE
+  accredit: FALSE
   footnote: 
+  poc: 
+  email: 
+  poc2: 
+  email2: 
 
 - iol_name: Singapore
   official_name: Singapore
@@ -470,9 +692,13 @@
   selection_local: 
   abbreviation: 
   link: 
-  active: false
-  accredit: false
+  active: FALSE
+  accredit: FALSE
   footnote: 
+  poc: 
+  email: 
+  poc2: 
+  email2: 
 
 - iol_name: Slovenia
   official_name: Slovenia
@@ -480,13 +706,17 @@
   iso_3: SVN
   iol_code: SVN
   flag: si.png
-  selection_en: a nationwide competition organised by Association for Technical Culture of Slovenia (Zveza za tehnično kulturo Slovenije).
+  selection_en: a nationwide competition organised by Association for Technical Culture of Slovenia (Zveza za tehnično kulturo Slovenije)
   selection_local: 
   abbreviation: 
   link: https://www.zotks.si/logika
-  active: true
-  accredit: true
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Simona Klemenčič
+  email: klemencic.simona@gmail.com
+  poc2: 
+  email2: 
 
 - iol_name: Spain
   official_name: Spain
@@ -497,10 +727,14 @@
   selection_en: 
   selection_local: Competición Lingüística de España
   abbreviation: 
-  link: 
-  active: false
-  accredit: false
+  link: http://ole.abumatran.eu/
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: 
+  email: 
+  poc2: 
+  email2: 
 
 - iol_name: Sri Lanka
   official_name: Sri Lanka
@@ -512,9 +746,13 @@
   selection_local: 
   abbreviation: 
   link: 
-  active: false
-  accredit: false
+  active: FALSE
+  accredit: FALSE
   footnote: 
+  poc: 
+  email: 
+  poc2: 
+  email2: 
 
 - iol_name: Sweden
   official_name: Sweden
@@ -525,10 +763,14 @@
   selection_en: Lingolympiad
   selection_local: 
   abbreviation: 
-  link: http://www.lingolympiad.org
-  active: true
-  accredit: true
+  link: https://sites.google.com/site/lingolympiaden/
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Johan Patrik Roos
+  email: roos@roos.tc
+  poc2: 
+  email2: 
 
 - iol_name: Taiwan
   official_name: Taiwan
@@ -539,10 +781,14 @@
   selection_en: Taiwan Olympiad in Linguistics
   selection_local: 語言學奧林匹亞競賽臺灣隊
   abbreviation: TOL
-  link: https://sites.google.com/site/twlingolympiad
-  active: true
-  accredit: true
+  link: http://lope.linguistics.ntu.edu.tw/ioltw/
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Shu-Kai Hsieh
+  email: "shukai@gmail.com
+  poc2: ioltwtwiol@gmail.com"
+  email2: 
 
 - iol_name: Turkey
   official_name: Turkey
@@ -550,13 +796,17 @@
   iso_3: TUR
   iol_code: TUR
   flag: tr.png
-  selection_en: Turkish National Linguistics Olympiad 
+  selection_en: Turkish National Linguistics Olympiad
   selection_local: Ulusal Linguistik Olimpiyatı
   abbreviation: 
   link: https://linguisticturkey.com
-  active: true
-  accredit: true
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Sule Soydemir
+  email: soydemirs@mefis.k12.tr
+  poc2: 
+  email2: 
 
 - iol_name: UK
   official_name: United Kingdom
@@ -568,23 +818,13 @@
   selection_local: 
   abbreviation: UKLO
   link: http://www.uklo.org
-  active: true
-  accredit: true
+  active: TRUE
+  accredit: TRUE
   footnote: 
-
-- iol_name: USA
-  official_name: United States of America
-  iso_2: US
-  iso_3: USA
-  iol_code: USA
-  flag: us.png
-  selection_en: North American Computational Linguistics Olympiad
-  selection_local: 
-  abbreviation: NACLO
-  link: http://www.nacloweb.org
-  active: true
-  accredit: true
-  footnote: 
+  poc: Neil Sheldon
+  email: neilsheldon@gmail.com
+  poc2: Graeme Trousdale
+  email2: graeme.trousdale@ed.ac.uk
 
 - iol_name: Ukraine
   official_name: Ukraine
@@ -592,13 +832,17 @@
   iso_3: UKR
   iol_code: UKR
   flag: ua.png
-  selection_en: 
+  selection_en: Kyiv Open Olympiad in Linguistics
   selection_local: Київська відкрита олімпіада з лінгвістики
   abbreviation: 
   link: https://ling.org.ua
-  active: true
-  accredit: true
+  active: TRUE
+  accredit: TRUE
   footnote: 
+  poc: Danylo Mysak
+  email: danmysak@gmail.com
+  poc2: 
+  email2: 
 
 - iol_name: United Arab Emirates
   official_name: United Arab Emirates
@@ -610,9 +854,49 @@
   selection_local: 
   abbreviation: 
   link: 
-  active: false
-  accredit: false
+  active: FALSE
+  accredit: FALSE
   footnote: 
+  poc: 
+  email: 
+  poc2: 
+  email2: 
+
+- iol_name: USA
+  official_name: United States of America
+  iso_2: US
+  iso_3: USA
+  iol_code: USA
+  flag: us.png
+  selection_en: North American Computational Linguistics Olympiad
+  selection_local: 
+  abbreviation: NACLO
+  link: http://www.nacloweb.org
+  active: TRUE
+  accredit: TRUE
+  footnote: 
+  poc: Dragomir Radev
+  email: dragomir.radev@yale.edu
+  poc2: 
+  email2: 
+
+- iol_name: Uzbekistan
+  official_name: Uzbekistan
+  iso_2: UZ
+  iso_3: UZB
+  iol_code: UZB
+  flag: uz.png
+  selection_en: 
+  selection_local: 
+  abbreviation: 
+  link: 
+  active: TRUE
+  accredit: FALSE
+  footnote: 
+  poc: Sabina Ismatillaeva
+  email: sismatillaeva@gmail.com
+  poc2: 
+  email2: 
 
 - iol_name: Vietnam
   official_name: Viet Nam
@@ -624,7 +908,11 @@
   selection_local: 
   abbreviation: 
   link: 
-  active: false
-  accredit: false
+  active: FALSE
+  accredit: FALSE
   footnote: 
+  poc: 
+  email: 
+  poc2: 
+  email2: 
 

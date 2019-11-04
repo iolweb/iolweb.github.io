@@ -13,9 +13,8 @@ sitemap: false
 ### Secretary
 * Harold Somers
 
-### Jury Chair
-* Maria Rubinstein (2018)
-* Tae Hun Lee (2019)
+### PC/Jury Chair
+* Aleksejs Peguševs (2020)
 
 ### Local Organizing Chairs
 * Vojta Diatka (2018)
@@ -24,7 +23,7 @@ sitemap: false
 
 ### Funding Chair
 * Lori Levin
-* Bal Krishna
+* Cara Greene
 
 ### Public Relations Chair <a href="mailto:inquires@ioling.org" target="_blank" class="icon-mail" title="Public Relations Chair"></a>
 * Simona Klemenčič

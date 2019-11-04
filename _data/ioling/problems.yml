@@ -1738,3 +1738,103 @@
   - country: USA
     team: USA Red
     name: Andrew Tockman
+
+- year: 2019
+  round: Individual
+  id: iol-2019-i-1
+  name: Yonggom
+  number: 1
+  page: 01
+  language:
+    - name: Yonggom
+      family: Trans-New Guinea
+  author:
+    - name: Ivan Derzhanski
+  best_solutions:
+  - country: Canada Anglophone
+    team: Canada Moose
+    name: Ken Jiang
+
+- year: 2019
+  round: Individual
+  id: iol-2019-i-2
+  name: Yurok
+  number: 2
+  page: 02
+  language:
+    - name: Yurok
+      family: Algic
+  author:
+    - name: Boris Iomdin
+    - name: Samuel Ahmed
+  solvers_choice: True
+
+- year: 2019
+  round: Individual
+  id: iol-2019-i-3
+  name: Book Pahlavi script
+  number: 3
+  page: 03
+  language:
+    - name: Middle Persian
+      family: Indo-European
+  author:
+    - name: André Nikulin
+  best_solutions:
+  - country: Taiwan
+    team: TaiEight
+    name: Lin, You-Kuan
+
+- year: 2019
+  round: Individual
+  id: iol-2019-i-4
+  name: West Tarangan
+  number: 4
+  page: 04
+  language:
+    - name: West Tarangan
+      family: Austronesian
+  author:
+    - name: Elysia Warner
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 2
+    name: Matey Petkov
+  - country: China
+    team: China QIAN
+    name: Haokun Wu
+
+- year: 2019
+  round: Individual
+  id: iol-2019-i-5
+  name: Nooni
+  number: 5
+  page: 05
+  language:
+    - name: Nooni
+      family: Atlantic-Congo
+  author:
+    - name: Samuel Ahmed
+  best_solutions:
+  - country: India
+    team: India Saffron
+    name: Aparna Ajit Gupte
+  - country: Russia
+    team: Russia Belka
+    name: Kristina Vashpanova
+  - country: USA
+    team: USA Red
+    name: Wesley Zhang
+
+- year: 2019
+  round: Team
+  id: iol-2019-t-1
+  name: Rhythmic Gymnastics
+  number: 1
+  page: 06
+  author:
+    - name: Anna Danilova
+  best_solutions:
+  - country: Canada Anglophone
+    team: Canada Moose
+    name: Ken Jiang

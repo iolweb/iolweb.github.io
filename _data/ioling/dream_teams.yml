@@ -203,7 +203,7 @@
     medal: Silver
   - name: Ekaterina Voloshinova
     medal: Bronze
-  - name: Tanya Romanova
+  - name: Tatiana Romanova
     medal: Bronze
 
 - year: 2017
@@ -270,4 +270,56 @@
     medal: Gold
   - name: Brian Xiao
     medal: Bronze
+
+- year: 2019
+  country: Bulgaria
+  team: Bulgaria 1
+  results:
+  - name: Tsvetelina Stefanova
+    medal: Silver
+  - name: Viktor Baltin
+    medal: Bronze
+  - name: Zdravko Ivanov
+    medal: Gold
+  - name: Elena Keskinova
+    medal: Silver
+
+- year: 2019
+  country: Russia
+  team: Russia Strelka
+  results:
+  - name: Ekaterina Kozlova
+    medal: Bronze
+  - name: Denis Korotchenko
+    medal: Silver
+  - name: Maxim Barganov
+    medal: Silver
+  - name: Tatiana Romanova
+    medal: Bronze
+
+- year: 2019
+  country: UK
+  team: UK U
+  results:
+  - name: Sam Corner
+    medal: Gold
+  - name: Kilian Meissner
+    medal: Bronze
+  - name: Harrison Moore
+    medal: Silver
+  - name: Alex Walker
+    medal: Bronze
+
+- year: 2019
+  country: USA
+  team: USA Red
+  results:
+  - name: Wesley Zhang
+    medal: Gold
+  - name: Russell Emerine
+    medal: Silver
+  - name: Ziyan Lei
+    medal: Silver
+  - name: Andrew Tockman
+    medal: Gold
 

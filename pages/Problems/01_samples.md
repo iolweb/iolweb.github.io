@@ -26,8 +26,8 @@ Once you've mastered these puzzles from national-level competition, why not try 
 </ul>
 
 ### Download sample problem solutions
-<button href="#" data-dropdown="drop1" aria-controls="drop1" aria-expanded="false" class="button dropdown small">Select a language</button><br>
-<ul id="drop1" data-dropdown-content class="f-dropdown" aria-hidden="true">
+<button href="#" data-dropdown="drop2" aria-controls="drop2" aria-expanded="false" class="button dropdown small">Select a language</button><br>
+<ul id="drop2" data-dropdown-content class="f-dropdown" aria-hidden="true">
   <li><a href="/booklets/samples.solution.en.pdf">English</a></li>
 </ul>
 
