@@ -11,7 +11,7 @@ widget3:
   title: "Ventspils 2020"
   url: '/upcoming/'
   image: ventspils.jpg
-  text: '<b>Ventspils, Latvia</b> has been chosen as the host of the 18th International Linguistics Olympiad on July 20 - 24, 2020.You can find the official website <a href="https://www.iol2020.org/">here</a>.'
+  text: '<b>Ventspils, Latvia</b> has been chosen as the host of the 18th International Linguistics Olympiad on July 20 - 24, 2020. You can find the official website <a href="https://www.iol2020.org/">here</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #
