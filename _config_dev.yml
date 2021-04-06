@@ -16,11 +16,11 @@ gist:
 sass:
   # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
   style: :expanded
-  line_numbers: true
+  line_numbers: always
   # trace_selectors: true
   # debug_info: true
   # FUTURE https://github.com/jekyll/jekyll-sass-converter/issues/12
-  sourcemap: true
+  sourcemap: always
 
 # Disable when not in production
 google_analytics_tracking_id: false
