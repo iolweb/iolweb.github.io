@@ -13,27 +13,26 @@ sitemap: false
 ### Secretary
 * Harold Somers
 
-### PC/Jury Chair
+### PC/Jury Chair <a href="mailto:pc.chair@ioling.org" target="_blank" class="icon-mail" title="PC/Jury Chair"></a>
 * Aleksejs Peguševs (2020)
 
+### Secretary to Problem Committee
+* Stanislav Gurevich
+
 ### Local Organizing Chairs
-* Vojta Diatka (2018)
 * Minkyu Kim (2019)
-* Vladimir Litvinsky (2020)
+* Vladimir Litvinsky (2021)
+* Robert Teare (2022)
 
 ### Funding Chair
 * Lori Levin
 * Cara Greene
 
-### Public Relations Chair <a href="mailto:inquires@ioling.org" target="_blank" class="icon-mail" title="Public Relations Chair"></a>
+### Public Relations Chair <a href="mailto:inquiries@ioling.org" target="_blank" class="icon-mail" title="Public Relations Chair"></a>
 * Simona Klemenčič
-* Hedvig Skirgård
 
-### Archives and Website <a href="mailto:mail@minkyu.kim" target="_blank" class="icon-mail" title="Website coordinator"></a>
+### Archives and Website <a href="mailto:webarchive@ioling.org" target="_blank" class="icon-mail" title="Website coordinator"></a>
 * Minkyu Kim 
-
-### Secretary to Problem Committee
-* Stanislav Gurevich
 
 ### Local Organizer Liaison
 * Mateja Hrast

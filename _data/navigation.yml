@@ -54,11 +54,11 @@
     url: "/regulations/"
 
 - title: News
-  url: "/blog/"
+  url: "/news/archive/"
   side: left
-  dropdown:
-  - title: "News Archive"
-    url: "/blog/archive/"
+  # dropdown:
+  # - title: "News Archive"
+  #   url: "/news/archive/"
 
 - title: "Contact"
   url: "/contact/"

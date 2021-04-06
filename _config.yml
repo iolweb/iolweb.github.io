@@ -18,7 +18,7 @@ slogan: 'International Linguistics Olympiad'
 description: 'International Linguistics Olympiad official website'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>&copy; 2003-2020 International Linguistics Olympiad except where cited</p>'
+credits: '<p>&copy; 2003-2021 International Linguistics Olympiad except where cited</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -62,12 +62,12 @@ gems:
 #               /____/
 #
 paginate: 5                      # Paginates all X entries
-paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
+paginate_path: "news/page:num"   # Pagination path › Important for blog page in /blog/ to work
 
 
 # Theme works best with Kramdown (using the table of contents function)
 markdown: kramdown
-permalink: /blog/:categories/:year:month:day:hour:minute/
+permalink: /news/:categories/:year:month:day:hour:minute/
 highlight: rouge
 excerpt_separator: "<!--more-->"
 include: ['.htaccess']
