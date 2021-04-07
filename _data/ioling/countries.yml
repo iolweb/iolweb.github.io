@@ -58,15 +58,15 @@
   iso_3: BLR
   iol_code: BLR
   flag: by.png
-  selection_en: 
-  selection_local: 
+  selection_en: Minsk olympiad in linguistics
+  selection_local: Минская олимпиада по лингвистике
   abbreviation: 
   link: http://minsklingolymp.by/
   active: TRUE
   accredit: TRUE
   footnote: 
-  poc: 
-  email: 
+  poc: Anton Somin
+  email: somin@tut.by
   poc2: 
   email2: 
 
