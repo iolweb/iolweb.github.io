@@ -28,10 +28,10 @@ sitemap: false
 * Lori Levin
 * Cara Greene
 
-### Public Relations Chair <a href="mailto:inquiries@ioling.org" target="_blank" class="icon-mail" title="Public Relations Chair"></a>
+### Public Relations Chair <a href="mailto:contact@ioling.org" target="_blank" class="icon-mail" title="Public Relations Chair"></a>
 * Simona Klemenčič
 
-### Archives and Website <a href="mailto:webarchive@ioling.org" target="_blank" class="icon-mail" title="Website coordinator"></a>
+### Archives and Website <a href="mailto:web@ioling.org" target="_blank" class="icon-mail" title="Website coordinator"></a>
 * Minkyu Kim 
 
 ### Local Organizer Liaison

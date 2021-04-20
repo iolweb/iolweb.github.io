@@ -79,6 +79,7 @@ GEM
       faraday (> 0.8, < 2.0)
 
 PLATFORMS
+  x86_64-darwin-19
   x86_64-darwin-20
 
 DEPENDENCIES
