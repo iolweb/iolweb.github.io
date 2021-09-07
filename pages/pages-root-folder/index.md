@@ -8,10 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: head.png
 widget3:
-  title: "Ventspils 2021"
+  title: "Isle of Man 2022"
   url: '/upcoming/'
-  image: ventspils.jpg
-  text: '<b>Ventspils, Latvia</b> has been chosen as the host of the 18th International Linguistics Olympiad on July 19 - 23, 2021. You can find the official website <a href="https://www.iol2021.org/">here</a>.'
+  image: iom2022.jpg
+  text: '<b>Isle of Man</b> has been chosen as the host of the 19th International Linguistics Olympiad on July 25 - 29, 2022. You can find more information <a href="https://www.ioling.org/upcoming">here</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -35,7 +35,10 @@ The IOL is one of 13 International Science Olympiads for secondary school studen
 
 No prior knowledge of linguistics or languages is required: even the hardest problems require only your logical ability, patient work, and willingness to think around corners. Give some of our [past problems](/problems/by_year/) a try!
 
-## Announcement (April 2nd, 2021)
+### Ventspils 2021
+The 18th IOL, hosted by Ventspils, Latvia, has successfully concluded on July 23th, 2021. Due to the ongoing worldwide pandemic, contestants remotely competed in their countries. A total of 216 contestants of 54 teams representing 34 countries competed in IOL 2021, making it the biggest competition in the history of IOL, in terms of the number of contestants. You can find more information <a href="https://www.ioling.org/2021">here</a>.
+
+<!-- ## Announcement (April 2nd, 2021)
 From the Local Organizing Committee of the 18th IOL
 
 Due to these unpredictable times and taking into account safety measures applied in Latvia, IOL 2021 will be held remotely, with no teams able to attend in person.
@@ -49,6 +52,7 @@ Local Organizing Committee (LOC) of the 18th IOL
 * [__March 22nd, 2021__](/news/notice/202102220000/)
 * [__November 18th, 2020__](/news/notice/202011180000/)
 * [__April 7th, 2020__](/news/notice/202004070000/)
+ -->
 
 <div class="infogram-embed" data-id="0f77507f-a368-444a-b809-5306c3cdf1cd" data-type="interactive" data-title="Countries/Regions of the IOL"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"></div>
 

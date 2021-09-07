@@ -323,3 +323,29 @@
   - name: Andrew Tockman
     medal: Gold
 
+- year: 2021
+  country: Hong Kong
+  team: Hong Kong EAT
+  results:
+  - name: Ip Tsz Oi
+    medal: Silver
+  - name: Xie Lingrui
+    medal: Gold
+  - name: Tam Lok Hang
+    medal: Silver
+  - name: Ng Truman Toby
+    medal: Bronze
+
+- year: 2021
+  country: Russia
+  team: Russia Strelka
+  results:
+  - name: Elvira Ageeva
+    medal: Gold
+  - name: Artem Borisov
+    medal: Silver
+  - name: Olga Zinovyeva
+    medal: Silver
+  - name: Grigorii Solnyshkin
+    medal: Silver
+

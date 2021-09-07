@@ -30,3 +30,12 @@ and whereas international science olympiads are now organised in many fields and
 <ul id="drop1" data-dropdown-content class="f-dropdown" aria-hidden="true">
   <li><a href="/rules/rules.pdf">English (UK)</a></li>
 </ul>
+
+## IOL Rules and Guidelines for Contestants
+
+IOL Rules and Guidelines for Contestants are provided in 21 language versions. 
+
+<button href="#" data-dropdown="drop2" aria-controls="drop2" aria-expanded="false" class="button dropdown small">Download</button><br>
+<ul id="drop2" data-dropdown-content class="f-dropdown" aria-hidden="true">
+  <li><a href="/rules/IOL_Rules.pdf">Multilanguage</a></li>
+</ul>

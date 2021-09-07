@@ -7,12 +7,12 @@ subheadline: "Upcoming Contest"
 widget:
   title: "Upcoming Contest"
   url: '/upcoming/'
-  image: ventspils.jpg
-  text: "<b>Ventspils, Latvia</b> has been chosen as the host of the 18th International Linguistics Olympiad on July 19 - 23, 2021."
-title: "Ventspils 2021"
-teaser: "<b>Ventspils, Latvia</b> has been chosen as the host of the 18th International Linguistics Olympiad on July 19 - 23, 2020."
+  image: iom2022.jpg
+  text: "<b>Isle of Man</b> has been chosen as the host of the 19th International Linguistics Olympiad on July 25 - 29, 2022."
+title: "Isle of Man 2022"
+teaser: "<b>Isle of Man</b> has been chosen as the host of the 19th International Linguistics Olympiad on July 25 - 29, 2022."
 image: 
-  title: ventspils.jpg
+  title: iom2022.jpg
 category: contests
 sitemap: false
 ---
@@ -22,9 +22,9 @@ sitemap: false
 ## Important Dates
 
 #### Requesting new working language*
-Before Jan 31, 2020
+Before Jan 31, 2022
 
-* A new working language means a language that was not present in the previous IOL. See [here](/problems/2019/) for the working languages of the previous IOL.
+* A new working language means a language that was not present in the previous IOL. See [here](/problems/2021/) for the working languages of the previous IOL.
 
 #### Early Bird registration
 To be announced.

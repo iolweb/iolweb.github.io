@@ -14,7 +14,8 @@ sitemap: false
 * Harold Somers
 
 ### PC/Jury Chair <a href="mailto:pc.chair@ioling.org" target="_blank" class="icon-mail" title="PC/Jury Chair"></a>
-* Aleksejs Peguševs (2020)
+* Samuel Ahmed (2021)
+  * Vice-chair: Bruno L'Astorina
 
 ### Secretary to Problem Committee
 * Stanislav Gurevich

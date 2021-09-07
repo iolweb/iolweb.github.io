@@ -1,20 +1,31 @@
-- year: 2020
-  city: Ventspils
-  country: Latvia
-  flag: /images/flags/lv.png
-  poc: Kārlis Krēsliņš, Guntars Dreijers, Vladimirs Ļitvinskis
-  contact: IOL2020.info@gmail.com
-
-- year: 2021
-  city: Isle of Man
+- year: 2022
+  city: Castletown, Isle of Man
   country: 
   flag: /images/flags/im.png
-  poc: N/A
-  contact:
+  poc: Rob Teare
+  contact: manxjp@gmail.com
+  website: 
 
-- year: 2022
-  city: Canada
+- year: 2023
+  city: N/A
   country: 
-  flag: /images/flags/cfr.png
+  flag: 
   poc: N/A
-  contact:
+  contact: 
+  website: 
+
+- year: 2024
+  city: N/A
+  country: 
+  flag: 
+  poc: N/A
+  contact: 
+  website: 
+  
+- year: 2025
+  city: N/A
+  country: 
+  flag: 
+  poc: N/A
+  contact: 
+  website: 

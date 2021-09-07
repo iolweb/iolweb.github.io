@@ -1838,3 +1838,120 @@
   - country: Canada Anglophone
     team: Canada Moose
     name: Ken Jiang
+
+- year: 2021
+  round: Individual
+  id: iol-2021-i-1
+  name: Ekari
+  number: 1
+  page: 01
+  language:
+    - name: Ekari
+      family: Trans-New Guinea
+  author:
+    - name: Aleksejs Peguševs
+  best_solutions:
+  - country: Japan
+    team: Japan Samurai
+    name: Hibiki Sugawara
+  - country: Ukraine
+    team: Ukraine і
+    name: Daria Kryvosheieva
+
+- year: 2021
+  round: Individual
+  id: iol-2021-i-2
+  name: Zuni
+  number: 2
+  page: 02
+  language:
+    - name: Zuni
+      family: isolate
+  author:
+    - name: Elysia Warner
+    - name: Samuel Ahmed
+
+- year: 2021
+  round: Individual
+  id: iol-2021-i-3
+  name: Kilivila
+  number: 3
+  page: 03
+  language:
+    - name: Kilivila
+      family: Austronesian
+  author:
+    - name: Samuel Ahmed
+  solvers_choice: True
+  best_solutions:
+  - country: Russia
+    team: Russia Strelka
+    name: Grigorii Solnyshkin
+
+- year: 2021
+  round: Individual
+  id: iol-2021-i-4
+  name: Agbirigba
+  number: 4
+  page: 04
+  language:
+    - name: Ikwerre
+      family: Atlantic-Congo
+  author:
+    - name: Liam McKnight
+  best_solutions:
+  - country: Russia
+    team: Russia Belka
+    name: Leonid Zaitsev
+  - country: Ukraine
+    team: Ukraine і
+    name: Artem Hrechka
+  - country: UK
+    team: UK U
+    name: Alexander James Robson
+
+- year: 2021
+  round: Individual
+  id: iol-2021-i-5
+  name: Rikbaktsa
+  number: 5
+  page: 05
+  language:
+    - name: Rikbaktsa
+      family: Macro-Jê
+  author:
+    - name: André Nikulin
+  best_solutions:
+  - country: Japan
+    team: Japan Samurai
+    name: Rio Ogawa
+  - country: Republic of Korea
+    team: Korea Nieun
+    name: Jinwoo Jeong
+  - country: Russia
+    team: Russia Strelka
+    name: Elvira Ageeva
+
+- year: 2021
+  round: Team
+  id: iol-2021-t-1
+  name: Garífuna, Lokono and Kari’ña
+  number: 1
+  page: 06
+  language:
+    - name: Garífuna
+      family: Arawakan
+    - name: Lokono
+      family: Arawakan
+    - name: Kari’ña
+      family: Cariban
+  author:
+    - name: André Nikulin
+    - name: Milena Veneva
+  best_solutions:
+  - country: Japan
+    team: Japan Samurai
+    name: Hibiki Sugawara
+  - country: Ukraine
+    team: Ukraine і
+    name: Daria Kryvosheieva

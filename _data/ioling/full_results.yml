@@ -5659,3 +5659,637 @@
         score: 99
 
 
+- year: 2021
+  individual:
+      gold:
+      - name: Roman Shabanov
+        score: 78.3
+        team: Netherlands Patat
+        country: Netherlands
+
+      - name: Daria Kryvosheieva
+        score: 77.5
+        team: Ukraine і
+        country: Ukraine
+
+      - name: Jonathan Huang
+        score: 64.6
+        team: USA Red
+        country: USA
+
+      - name: Ritam Nag
+        score: 63.1
+        team: India Saffron
+        country: India
+
+      - name: Hibiki Sugawara
+        score: 60.2
+        team: Japan Samurai
+        country: Japan
+
+      - name: Jan Tryka
+        score: 59.5
+        team: Poland Pszczółki
+        country: Poland
+
+      - name: Takamichi Hoshii
+        score: 58.9
+        team: Japan Ninja
+        country: Japan
+
+      - name: Chun-Chi Lin
+        score: 58.6
+        team: Taiwan Red Cypress
+        country: Taiwan
+
+      - name: Antara Raaghavi Bhattacharya
+        score: 58.4
+        team: India Saffron
+        country: India
+
+      - name: Xie Lingrui
+        score: 58
+        team: Hong Kong EAT
+        country: Hong Kong
+
+      - name: Mihai-Alexandru Bratu
+        score: 57.9
+        team: Romania
+        country: Romania
+
+      - name: Elvira Ageeva
+        score: 56.5
+        team: Russia Strelka
+        country: Russia
+
+      silver:
+      - name: Aleksandra Limonova
+        score: 55.1
+        team: Russia Belka
+        country: Russia
+
+      - name: Tam Lok Hang
+        score: 54.5
+        team: Hong Kong EAT
+        country: Hong Kong
+
+      - name: Alexander Dimitrov
+        score: 54.1
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Bartosz Chomiński
+        score: 53.6
+        team: Poland Pszczółki
+        country: Poland
+
+      - name: Aleksandra Naydenova
+        score: 53
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Ip Tsz Oi
+        score: 52.8
+        team: Hong Kong EAT
+        country: Hong Kong
+
+      - name: Leonid Zaitsev
+        score: 52.4
+        team: Russia Belka
+        country: Russia
+
+      - name: Toh Jing En Daniel
+        score: 52.1
+        team: Singapore
+        country: Singapore
+
+      - name: Grigorii Solnyshkin
+        score: 51.4
+        team: Russia Strelka
+        country: Russia
+
+      - name: Artem Borisov
+        score: 51.3
+        team: Russia Strelka
+        country: Russia
+
+      - name: Nigel Yong
+        score: 49.8
+        team: Singapore
+        country: Singapore
+
+      - name: Samantha Kao
+        score: 49.4
+        team: Taiwan Plum Blossom
+        country: Taiwan
+
+      - name: Dylan Lim Chun Kiat
+        score: 49.4
+        team: Singapore
+        country: Singapore
+
+      - name: Ema Grofová
+        score: 48.8
+        team: Czechia
+        country: Czechia
+
+      - name: Miklós Gyetvai
+        score: 48.5
+        team: Hungary A
+        country: Hungary
+
+      - name: Zijing Wei
+        score: 48.4
+        team: China Kun
+        country: China
+
+      - name: Olga Zinovyeva
+        score: 48
+        team: Russia Strelka
+        country: Russia
+
+      - name: Rio Ogawa
+        score: 47.9
+        team: Japan Samurai
+        country: Japan
+
+      - name: Walt Kraeger
+        score: 47.5
+        team: Netherlands Friet
+        country: Netherlands
+
+      bronze:
+      - name: Lili Probojcsevity
+        score: 46.7
+        team: Hungary B
+        country: Hungary
+
+      - name: Shao-Chi Ou
+        score: 46.6
+        team: Taiwan Red Cypress
+        country: Taiwan
+
+      - name: Deyana Shevchenko
+        score: 46.4
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Kunaal Chandrashekar
+        score: 46
+        team: Canada Moose
+        country: Canada Anglophone
+
+      - name: Oliver Tennisberg
+        score: 45.7
+        team: Estonia 1
+        country: Estonia
+
+      - name: Jeremy Zhou
+        score: 45.5
+        team: USA Blue
+        country: USA
+
+      - name: Vedant Singh
+        score: 45.4
+        team: India Green
+        country: India
+
+      - name: Miłosz Muszyński
+        score: 45.2
+        team: Poland Pszczółki
+        country: Poland
+
+      - name: Riley Kong
+        score: 44.9
+        team: USA Red
+        country: USA
+
+      - name: Ng Truman Toby
+        score: 44.6
+        team: Hong Kong EAT
+        country: Hong Kong
+
+      - name: Matic Petek
+        score: 43.8
+        team: Slovenia 1
+        country: Slovenia
+
+      - name: Vasilena Lazarova
+        score: 43.8
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Mihaela Koleva
+        score: 42.8
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Ilya Tarasov
+        score: 42.7
+        team: Russia Belka
+        country: Russia
+
+      - name: Ivaylo Dimitrov
+        score: 42.6
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Nicoleta Dobrică
+        score: 42.4
+        team: Romania
+        country: Romania
+
+      - name: Toby Collins
+        score: 42.3
+        team: UK K
+        country: UK
+
+      - name: Yi-Ning Chang
+        score: 42
+        team: Taiwan Plum Blossom
+        country: Taiwan
+
+      - name: Kyuhan Kyung
+        score: 42
+        team: Korea Giyeok
+        country: Republic of Korea
+
+      - name: Jonathan Song
+        score: 41.5
+        team: USA Blue
+        country: USA
+
+      - name: Louis Cho
+        score: 41.5
+        team: Streichholzschächtelchen
+        country: Germany
+
+      - name: Bianca-Maria Crișan
+        score: 41.4
+        team: Romania
+        country: Romania
+
+      - name: Shashwat Mundra
+        score: 40.7
+        team: India Green
+        country: India
+
+      - name: Zekai Wu
+        score: 40.2
+        team: China Qian
+        country: China
+
+      - name: Vishruth Ram Konakanchi
+        score: 40
+        team: India Saffron
+        country: India
+
+      - name: Benjamin Myer Neithardt
+        score: 39.7
+        team: USA Blue
+        country: USA
+
+      - name: Kent Do
+        score: 39.4
+        team: Sweden Gul
+        country: Sweden
+
+      - name: Oscar Despard
+        score: 39.3
+        team: Ireland
+        country: Ireland
+
+      - name: Nestors Starostins
+        score: 39
+        team: Latvia 1
+        country: Latvia
+
+      - name: Noah Gorrell
+        score: 38.9
+        team: Canberra Grammar School
+        country: Australia
+
+      - name: Yen-Hsi Huang
+        score: 38.8
+        team: Taiwan Plum Blossom
+        country: Taiwan
+
+      - name: Darya Peressypkina
+        score: 38.7
+        team: Kazakhstan Fenix
+        country: Kazakhstan
+
+      - name: Yage Grace Xin
+        score: 38
+        team: China Qian
+        country: China
+
+      honorable_mention:
+      - name: Harrison William Moore
+        score: 37.4
+        team: UK U
+        country: UK
+
+      - name: Maksims Libensons
+        score: 37.4
+        team: Latvia 2
+        country: Latvia
+
+      - name: Evelyn Sun
+        score: 37.2
+        team: USA Red
+        country: USA
+
+      - name: Natalia Timulakova
+        score: 37.2
+        team: Ireland
+        country: Ireland
+
+      - name: Lorenss Martinsons
+        score: 37
+        team: Latvia 1
+        country: Latvia
+
+      - name: Blanka Kövér
+        score: 36.9
+        team: Hungary B
+        country: Hungary
+
+      - name: Marcin Słupczyński
+        score: 36.3
+        team: Poland Trzmiele
+        country: Poland
+
+      - name: Thomas Frith
+        score: 35.7
+        team: Canada Moose
+        country: Canada Anglophone
+
+      - name: Aanya Goyal
+        score: 35.5
+        team: UK K
+        country: UK
+
+      - name: Oleksandr Hoviadin
+        score: 35.2
+        team: Ukraine ї
+        country: Ukraine
+
+      - name: Uliana Shkel
+        score: 34.9
+        team: Ukraine і
+        country: Ukraine
+
+      - name: Seungjoon Son
+        score: 34.9
+        team: Korea Giyeok
+        country: Republic of Korea
+
+      - name: Levente Hartstang
+        score: 34.7
+        team: Quietscheentchen
+        country: Germany
+
+      - name: Alexander James Robson
+        score: 34.5
+        team: UK U
+        country: UK
+
+      - name: Adithya Ram Kalyanam
+        score: 34.3
+        team: USA Blue
+        country: USA
+
+      - name: Jinwoo Jeong
+        score: 34.2
+        team: Korea Nieun
+        country: Republic of Korea
+
+      - name: Haoyang Yin
+        score: 34
+        team: China Kun
+        country: China
+
+      - name: Puyuan Ye
+        score: 33.7
+        team: China Kun
+        country: China
+
+      - name: Ondřej Peterka
+        score: 33.2
+        team: Czechia
+        country: Czechia
+
+      - name: Roosmari Pihlak
+        score: 33.1
+        team: Estonia 2
+        country: Estonia
+
+      - name: Peilin Ye
+        score: 32.8
+        team: China Kun
+        country: China
+
+      - name: Silang Feng
+        score: 32.6
+        team: China Qian
+        country: China
+
+      - name: Junnosuke Tanaka
+        score: 32.5
+        team: Japan Ninja
+        country: Japan
+
+      - name: Hanna Egyházi
+        score: 32.5
+        team: Hungary B
+        country: Hungary
+
+      - name: Konrad Jannes Köhler
+        score: 32.4
+        team: Quietscheentchen
+        country: Germany
+
+      - name: Merlin Fischer
+        score: 32.4
+        team: Streichholzschächtelchen
+        country: Germany
+
+      - name: Weronika Piecuch
+        score: 32
+        team: Poland Trzmiele
+        country: Poland
+
+      - name: Michał Boroń
+        score: 32
+        team: Quietscheentchen
+        country: Germany
+
+      - name: Toby Weston
+        score: 31.8
+        team: UK U
+        country: UK
+
+      - name: Yann Choi
+        score: 31.7
+        team: Korea Nieun
+        country: Republic of Korea
+
+      - name: Inka Pekkola
+        score: 31.7
+        team: Finland
+        country: Finland
+
+      - name: Urszula Obirek
+        score: 31.6
+        team: Poland Trzmiele
+        country: Poland
+
+      - name: Tatsuki Morohoshi
+        score: 31.3
+        team: Japan Ninja
+        country: Japan
+
+      - name: Džonatans Miks Melgalvis
+        score: 30.9
+        team: Latvia 1
+        country: Latvia
+
+      - name: Eric Wu
+        score: 30.4
+        team: Taiwan Red Cypress
+        country: Taiwan
+
+      - name: Maud De Wit
+        score: 30.3
+        team: Netherlands Friet
+        country: Netherlands
+
+      - name: Darena Georgieva
+        score: 30.2
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Solomiia Tymoshenko
+        score: 30
+        team: Ukraine ї
+        country: Ukraine
+
+      - name: Junkai Wang
+        score: 29.9
+        team: China Qian
+        country: China
+
+      - name: Jan Malej
+        score: 29.8
+        team: Slovenia 1
+        country: Slovenia
+
+
+      best_solution:
+      - name: Daria Kryvosheieva
+        team: Ukraine і
+        country: Ukraine
+        problem: 1
+
+      - name: Hibiki Sugawara
+        team: Japan Samurai
+        country: Japan
+        problem: 1
+
+      - name: Grigorii Solnyshkin
+        team: Russia Strelka
+        country: Russia
+        problem: 3
+
+      - name: Alexander James Robson
+        team: UK U
+        country: UK
+        problem: 4
+
+      - name: Artem Hrechka
+        team: Ukraine і
+        country: Ukraine
+        problem: 4
+
+      - name: Leonid Zaitsev
+        team: Russia Belka
+        country: Russia
+        problem: 4
+
+      - name: Elvira Ageeva
+        team: Russia Strelka
+        country: Russia
+        problem: 5
+
+      - name: Jinwoo Jeong
+        team: Korea Nieun
+        country: Republic of Korea
+        problem: 5
+
+      - name: Rio Ogawa
+        team: Japan Samurai
+        country: Japan
+        problem: 5
+
+  average:
+      gold:
+      - place: 1
+        average: 52.48
+        team: Hong Kong EAT
+        country: Hong Kong
+
+      silver:
+      - place: 2
+        average: 51.80
+        team: Russia Strelka
+        country: Russia
+
+      bronze:
+      - place: 3
+        average: 47.13
+        team: India Saffron
+        country: India
+
+  team:
+      gold:
+      - team: Ukraine і
+        country: Ukraine
+        score: 56.8
+
+      silver:
+      - team: USA Red
+        country: USA
+        score: 55.8
+
+      bronze:
+      - team: India Saffron
+        country: India
+        score: 47.50
+
+      - team: Canada Moose
+        country: Canada Anglophone
+        score: 47
+
+      honorable_mention:
+      - team: USA Blue
+        country: USA
+        score: 45.5
+
+      - team: Czechia
+        country: Czechia
+        score: 44.9
+
+      - team: UK U
+        country: UK
+        score: 43.8
+
+      - team: Russia Belka
+        country: Russia
+        score: 42.7
+
+      - team: Romania
+        country: Romania
+        score: 42.4
+
+

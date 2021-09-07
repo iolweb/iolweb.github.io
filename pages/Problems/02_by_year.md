@@ -17,4 +17,6 @@ Below are listed the problem sets from each year of the International Olympiad i
 If you're new to Linguistics Olympiads problems, check out some of our 
 [sample puzzles](/problems/samples/) to see what it's all about.
 
+_† Language versions with this symbol were not used in the actual competitions._
+
 {% include ioling/problems.html %}
