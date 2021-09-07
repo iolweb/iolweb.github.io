@@ -37,4 +37,4 @@ sitemap: false
 
 ### Local Organizer Liaison
 * Mateja Hrast
-* Alexandar Velinov
+* Aleksandar Velinov
