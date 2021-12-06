@@ -44,7 +44,7 @@ To be announced.
 
 ---
 
-## Future host cities
+## Future host venues
 
 <p />
 

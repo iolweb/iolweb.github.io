@@ -38,6 +38,11 @@ No prior knowledge of linguistics or languages is required: even the hardest pro
 ### Ventspils 2021
 The 18th IOL, hosted by Ventspils, Latvia, has successfully concluded on July 23th, 2021. Due to the ongoing worldwide pandemic, contestants remotely competed in their countries. A total of 216 contestants of 54 teams representing 34 countries competed in IOL 2021, making it the biggest competition in the history of IOL, in terms of the number of contestants. You can find more information <a href="https://www.ioling.org/2021">here</a>.
 
+
+<a href="/sponsorship/">
+  ![Call for sponsors](/images/spons2.png)
+</a>
+
 <!-- ## Announcement (April 2nd, 2021)
 From the Local Organizing Committee of the 18th IOL
 

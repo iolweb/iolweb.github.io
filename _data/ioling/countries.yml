@@ -44,8 +44,8 @@
   selection_local: 
   abbreviation: 
   link: http://www.ls-bd.org/
-  active: TRUE
-  accredit: TRUE
+  active: FALSE
+  accredit: FALSE
   footnote: 
   poc: Morshed Ibna Rahman
   email: rahmanmorshed@gmail.com
@@ -97,7 +97,7 @@
   selection_en: Bulgarian National Olympiad in Linguistics
   selection_local: Олимпиада по математическа лингвистика
   abbreviation: 
-  link: http://mon.bg/go=page&pageId=16&subpageId=80
+  link: http://linguistics.bg/
   active: TRUE
   accredit: TRUE
   footnote: 
@@ -292,7 +292,7 @@
   iso_3: DEU
   iol_code: DEU
   flag: de.png
-  selection_en: Nationaler Deutscher Auswahlwettbewerb
+  selection_en: German National Selection Competition
   selection_local: Nationaler Deutscher Auswahlwettbewerb
   abbreviation: 
   link: http://www.leibniz-zas.de/linguistik-olympiade.html
@@ -367,7 +367,7 @@
   selection_en: Panini Linguistics Olympiad
   selection_local: 
   abbreviation: PLO
-  link: http://ltrc.iiit.ac.in/nlpmt/plo/#/
+  link: https://ltrc.iiit.ac.in/nlpmt/plo/#/
   active: TRUE
   accredit: TRUE
   footnote: 
@@ -443,8 +443,8 @@
   active: TRUE
   accredit: TRUE
   footnote: 
-  poc: Paul Snowden
-  email: snowden@ks.kyorin-u.ac.jp
+  poc: Iida Zyun
+  email: zyun-0523-1027@ezweb.ne.jp
   poc2: 
   email2: 
 
@@ -526,7 +526,7 @@
   iso_3: NPL
   iol_code: NPL
   flag: np.png
-  selection_en: Himalayan Linguistic Olympiad Nepal
+  selection_en: Himalayan Computational Linguistics Olympiad
   selection_local: 
   abbreviation: HLON
   link: https://hlon.org/
@@ -619,12 +619,12 @@
   selection_en: Korea Linguistics Olympiad
   selection_local: 한국언어학올림피아드
   abbreviation: KLO
-  link: http://krlo.kr
+  link: http://krlo.co.kr
   active: TRUE
   accredit: TRUE
   footnote: 
-  poc: IOL Korea
-  email: contact@krlo.kr
+  poc: Yoo-jung Chae
+  email: contact@krlo.co.kr
   poc2: 
   email2: 
 
@@ -728,8 +728,8 @@
   selection_local: Competición Lingüística de España
   abbreviation: 
   link: http://ole.abumatran.eu/
-  active: TRUE
-  accredit: TRUE
+  active: FALSE
+  accredit: FALSE
   footnote: 
   poc: 
   email: 
@@ -781,7 +781,7 @@
   selection_en: Taiwan Olympiad in Linguistics
   selection_local: 語言學奧林匹亞競賽臺灣隊
   abbreviation: TOL
-  link: http://lope.linguistics.ntu.edu.tw/ioltw/
+  link: https://lope.linguistics.ntu.edu.tw//ioltw/zh/
   active: TRUE
   accredit: TRUE
   footnote: 
